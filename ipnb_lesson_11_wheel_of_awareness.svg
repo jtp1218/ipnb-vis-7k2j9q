@@ -1,0 +1,66 @@
+<svg viewBox="0 0 820 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">The Wheel of Awareness — Siegel's Practice for the Integration of Consciousness</title>
+  <desc id="d">A circular wheel diagram. The center is the Hub (knowing). The outer rim is divided into four quadrants representing the known — first five senses, sixth sense (interior of body), seventh sense (mental activities), eighth sense (interconnection). A spoke connects hub to rim, representing attention.</desc>
+  <style>
+    .h { font-family: ui-sans-serif, system-ui, sans-serif; font-weight:700; font-size:21px; text-anchor:middle; fill:#1a1a1a; }
+    .hs { font-family: ui-sans-serif, system-ui, sans-serif; font-style:italic; font-size:13px; text-anchor:middle; fill:#555; }
+    .hub { font-family: ui-sans-serif, system-ui, sans-serif; font-weight:800; font-size:22px; text-anchor:middle; fill:#3a2a0a; letter-spacing:1.5px; }
+    .hubsub { font-family: ui-sans-serif, system-ui, sans-serif; font-style:italic; font-size:11px; text-anchor:middle; fill:#5b4717; }
+    .quad { font-family: ui-sans-serif, system-ui, sans-serif; font-weight:700; font-size:13px; text-anchor:middle; }
+    .quadsub { font-family: ui-sans-serif, system-ui, sans-serif; font-size:10px; text-anchor:middle; font-style:italic; }
+    .spoke-label { font-family: ui-sans-serif, system-ui, sans-serif; font-weight:700; font-size:12px; fill:#7a5f1c; }
+    .legend { font-family: ui-sans-serif, system-ui, sans-serif; font-size:12px; fill:#1a1a1a; }
+    .legend-label { font-family: ui-sans-serif, system-ui, sans-serif; font-weight:700; font-size:12px; fill:#1a1a1a; }
+    .quote { font-family: ui-sans-serif, system-ui, sans-serif; font-weight:700; font-style:italic; font-size:13px; text-anchor:middle; fill:#1a1a1a; }
+  </style>
+
+  <text x="410" y="32" class="h">The Wheel of Awareness</text>
+  <text x="410" y="52" class="hs">Siegel's practice for the integration of consciousness</text>
+
+  <circle cx="410" cy="320" r="220" fill="none" stroke="#888" stroke-width="2"/>
+  <line x1="410" y1="100" x2="410" y2="540" stroke="#bbb" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <line x1="190" y1="320" x2="630" y2="320" stroke="#bbb" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <path d="M 410 100 A 220 220 0 0 1 630 320 L 410 320 Z" fill="#e8f4ff" fill-opacity="0.6" stroke="#3b7dd8" stroke-width="1.5"/>
+  <text x="525" y="170" class="quad" fill="#1c4a7a">FIRST 5 SENSES</text>
+  <text x="525" y="187" class="quadsub" fill="#1c4a7a">outside world</text>
+  <text x="525" y="215" class="quadsub" fill="#1c4a7a">sight · hearing</text>
+  <text x="525" y="230" class="quadsub" fill="#1c4a7a">smell · taste · touch</text>
+  <text x="525" y="258" class="quadsub" fill="#1c4a7a">(conduit)</text>
+
+  <path d="M 410 100 A 220 220 0 0 0 190 320 L 410 320 Z" fill="#e8ffe8" fill-opacity="0.6" stroke="#3bd86a" stroke-width="1.5"/>
+  <text x="295" y="170" class="quad" fill="#1c5a2a">6TH SENSE</text>
+  <text x="295" y="187" class="quadsub" fill="#1c5a2a">interior of body</text>
+  <text x="295" y="215" class="quadsub" fill="#1c5a2a">heart · gut · lungs</text>
+  <text x="295" y="230" class="quadsub" fill="#1c5a2a">muscles · bones</text>
+  <text x="295" y="258" class="quadsub" fill="#1c5a2a">(interoception · conduit)</text>
+
+  <path d="M 410 540 A 220 220 0 0 1 190 320 L 410 320 Z" fill="#ffe8e8" fill-opacity="0.6" stroke="#d83b3b" stroke-width="1.5"/>
+  <text x="295" y="385" class="quad" fill="#7a1c1c">7TH SENSE</text>
+  <text x="295" y="402" class="quadsub" fill="#7a1c1c">mental activities</text>
+  <text x="295" y="430" class="quadsub" fill="#7a1c1c">thoughts · feelings</text>
+  <text x="295" y="445" class="quadsub" fill="#7a1c1c">memories · beliefs</text>
+  <text x="295" y="473" class="quadsub" fill="#7a1c1c">(construction)</text>
+
+  <path d="M 410 540 A 220 220 0 0 0 630 320 L 410 320 Z" fill="#f4e8ff" fill-opacity="0.6" stroke="#7d3bd8" stroke-width="1.5"/>
+  <text x="525" y="385" class="quad" fill="#4a1c7a">8TH SENSE</text>
+  <text x="525" y="402" class="quadsub" fill="#4a1c7a">interconnection</text>
+  <text x="525" y="430" class="quadsub" fill="#4a1c7a">relational sense</text>
+  <text x="525" y="445" class="quadsub" fill="#4a1c7a">across space · time</text>
+  <text x="525" y="473" class="quadsub" fill="#4a1c7a">(connectedness)</text>
+
+  <line x1="410" y1="320" x2="565" y2="195" stroke="#d8a83b" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="495" y="245" class="spoke-label" transform="rotate(-39 495 245)">SPOKE = attention</text>
+
+  <circle cx="410" cy="320" r="68" fill="#fff4cc" stroke="#d8a83b" stroke-width="3"/>
+  <text x="410" y="312" class="hub">HUB</text>
+  <text x="410" y="332" class="hubsub">knowing</text>
+  <text x="410" y="348" class="hubsub">(awareness itself)</text>
+  <text x="410" y="362" class="hubsub">open · receptive · clear</text>
+
+  <text x="80" y="565" class="legend-label">HUB</text><text x="115" y="565" class="legend">= the *knowing* — awareness itself</text>
+  <text x="80" y="585" class="legend-label">RIM</text><text x="115" y="585" class="legend">= the *known* — the eight senses</text>
+  <text x="80" y="605" class="legend-label">SPOKE</text><text x="125" y="605" class="legend">= attention linking hub to rim</text>
+
+  <text x="410" y="627" class="quote">"You are not the rim. You are the hub."</text>
+</svg>
