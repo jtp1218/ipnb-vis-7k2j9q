@@ -1,0 +1,59 @@
+<svg viewBox="0 0 820 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">The Four S's of Secure Attachment</title>
+  <desc id="d">Three pillars labeled Seen, Safe, and Soothed support a roof labeled Secure. The pillars sit on a foundation labeled "an inner sense of security."</desc>
+  <style>
+    .h { font-family: ui-sans-serif, system-ui, sans-serif; font-weight:700; font-size:22px; text-anchor:middle; fill:#1a1a1a; }
+    .s { font-family: ui-sans-serif, system-ui, sans-serif; font-weight:700; font-size:32px; text-anchor:middle; }
+    .sub { font-family: ui-sans-serif, system-ui, sans-serif; font-style:italic; font-size:13px; text-anchor:middle; }
+    .roof { font-family: ui-sans-serif, system-ui, sans-serif; font-weight:800; font-size:30px; text-anchor:middle; fill:#3a2a0a; letter-spacing:2px; }
+    .roofsub { font-family: ui-sans-serif, system-ui, sans-serif; font-style:italic; font-size:13px; text-anchor:middle; fill:#5b4717; }
+    .foot { font-family: ui-sans-serif, system-ui, sans-serif; font-weight:600; font-size:13px; text-anchor:middle; fill:#1a1a1a; }
+    .footsub { font-family: ui-sans-serif, system-ui, sans-serif; font-style:italic; font-size:12px; text-anchor:middle; fill:#555; }
+    .side { font-family: ui-sans-serif, system-ui, sans-serif; font-size:11px; fill:#444; }
+  </style>
+
+  <text x="410" y="38" class="h">The Four S's of Secure Attachment</text>
+  <text x="410" y="60" class="sub" fill="#555">Three experiences build one inner model</text>
+
+  <polygon points="120,170 700,170 620,110 200,110" fill="#fff4cc" stroke="#d8a83b" stroke-width="2.5"/>
+  <text x="410" y="148" class="roof">SECURE</text>
+  <text x="410" y="166" class="roofsub">the inner working model that emerges</text>
+
+  <rect x="105" y="170" width="610" height="14" fill="#e9d695" stroke="#d8a83b" stroke-width="1.5"/>
+
+  <rect x="155" y="200" width="130" height="240" rx="6" fill="#e8f4ff" stroke="#3b7dd8" stroke-width="2.5"/>
+  <text x="220" y="245" class="s" fill="#1c4a7a">SEEN</text>
+  <text x="220" y="280" class="sub" fill="#1c4a7a">my inner world</text>
+  <text x="220" y="298" class="sub" fill="#1c4a7a">is perceived</text>
+  <text x="220" y="330" class="sub" fill="#1c4a7a">"feeling felt"</text>
+  <text x="220" y="370" class="sub" fill="#1c4a7a">presence ·</text>
+  <text x="220" y="388" class="sub" fill="#1c4a7a">attunement ·</text>
+  <text x="220" y="406" class="sub" fill="#1c4a7a">resonance · trust</text>
+  <text x="220" y="430" class="sub" fill="#1c4a7a">(P·A·R·T)</text>
+
+  <rect x="345" y="200" width="130" height="240" rx="6" fill="#ffe8e8" stroke="#d83b3b" stroke-width="2.5"/>
+  <text x="410" y="245" class="s" fill="#7a1c1c">SAFE</text>
+  <text x="410" y="280" class="sub" fill="#7a1c1c">no terror</text>
+  <text x="410" y="298" class="sub" fill="#7a1c1c">from this person</text>
+  <text x="410" y="330" class="sub" fill="#7a1c1c">+ they protect</text>
+  <text x="410" y="348" class="sub" fill="#7a1c1c">me from threat</text>
+  <text x="410" y="388" class="sub" fill="#7a1c1c">ruptures get</text>
+  <text x="410" y="406" class="sub" fill="#7a1c1c">REPAIRED</text>
+
+  <rect x="535" y="200" width="130" height="240" rx="6" fill="#e8ffe8" stroke="#3bd86a" stroke-width="2.5"/>
+  <text x="600" y="245" class="s" fill="#1c5a2a">SOOTHED</text>
+  <text x="600" y="280" class="sub" fill="#1c5a2a">distress is met</text>
+  <text x="600" y="298" class="sub" fill="#1c5a2a">+ regulated</text>
+  <text x="600" y="330" class="sub" fill="#1c5a2a">chaos · rigidity</text>
+  <text x="600" y="348" class="sub" fill="#1c5a2a">→ back to flow</text>
+  <text x="600" y="388" class="sub" fill="#1c5a2a">first dyadic,</text>
+  <text x="600" y="406" class="sub" fill="#1c5a2a">then internalized</text>
+
+  <rect x="105" y="450" width="610" height="36" fill="#f0f0f0" stroke="#333" stroke-width="2"/>
+  <text x="410" y="473" class="foot">"the relationship that gives you an inner sense of security"</text>
+
+  <text x="410" y="515" class="footsub">Across the lifespan: parents → teachers → friends → mentors → soulmates → romantic partners</text>
+  <text x="410" y="535" class="footsub">— Daniel J. Siegel, Interpersonal Neurobiology</text>
+
+  <text x="745" y="320" class="side" transform="rotate(90 745 320)">+ a possible 5th: SYNCHRONY (Feldman)</text>
+</svg>

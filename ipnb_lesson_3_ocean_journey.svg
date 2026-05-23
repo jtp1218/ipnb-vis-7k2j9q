@@ -1,0 +1,88 @@
+<svg viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">The Journey of the Word "Ocean" — Energy Becoming Information</title>
+  <desc id="desc">A horizontal flow diagram tracing the word "ocean" from speech, through air molecules, eardrum vibration, nerve action potentials, neural pattern, to a final mental representation, with each stage labeled either as ENERGY or INFORMATION.</desc>
+  <style>
+    .stage-label { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; font-weight: 700; text-anchor: middle; fill: #1a1a1a; }
+    .stage-sub { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 11px; text-anchor: middle; fill: #555; }
+    .energy-tag { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 10px; font-weight: 700; text-anchor: middle; fill: #d8a83b; letter-spacing: 1px; }
+    .info-tag { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 10px; font-weight: 700; text-anchor: middle; fill: #7d3bd8; letter-spacing: 1px; }
+    .arrow-label { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 10px; text-anchor: middle; fill: #666; font-style: italic; }
+    .title-text { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; font-weight: 700; text-anchor: middle; fill: #1a1a1a; }
+    .footer-sub { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; text-anchor: middle; fill: #555; font-style: italic; }
+    .legend-text { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; fill: #1a1a1a; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#666"/>
+    </marker>
+  </defs>
+  <text x="450" y="32" class="title-text">The journey of "OCEAN" from mouth to mind</text>
+  <g transform="translate(70, 130)">
+    <circle cx="50" cy="50" r="48" fill="#fff4cc" stroke="#d8a83b" stroke-width="2.5"/>
+    <text x="50" y="42" font-size="32" text-anchor="middle">🗣️</text>
+    <text x="50" y="68" class="stage-label">"OCEAN"</text>
+    <text x="50" y="125" class="stage-sub">Siegel speaks</text>
+    <text x="50" y="143" class="stage-sub">the word</text>
+    <text x="50" y="175" class="energy-tag">ENERGY</text>
+  </g>
+  <line x1="170" y1="180" x2="225" y2="180" stroke="#666" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="197" y="170" class="arrow-label">air</text>
+  <text x="197" y="200" class="arrow-label">molecules</text>
+  <g transform="translate(230, 130)">
+    <circle cx="50" cy="50" r="48" fill="#e8f4ff" stroke="#3b7dd8" stroke-width="2.5"/>
+    <text x="50" y="42" font-size="32" text-anchor="middle">👂</text>
+    <text x="50" y="68" class="stage-label">EARDRUM</text>
+    <text x="50" y="125" class="stage-sub">vibrates in</text>
+    <text x="50" y="143" class="stage-sub">the pattern</text>
+    <text x="50" y="175" class="energy-tag">ENERGY</text>
+  </g>
+  <line x1="330" y1="180" x2="385" y2="180" stroke="#666" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="357" y="170" class="arrow-label">mechanical</text>
+  <text x="357" y="200" class="arrow-label">→ neural</text>
+  <g transform="translate(390, 130)">
+    <circle cx="50" cy="50" r="48" fill="#e8f4ff" stroke="#3b7dd8" stroke-width="2.5"/>
+    <text x="50" y="46" font-size="30" text-anchor="middle">⚡</text>
+    <text x="50" y="68" class="stage-label">AUDITORY</text>
+    <text x="50" y="80" class="stage-label">NERVE</text>
+    <text x="50" y="125" class="stage-sub">action potentials</text>
+    <text x="50" y="143" class="stage-sub">fire</text>
+    <text x="50" y="175" class="energy-tag">ENERGY</text>
+  </g>
+  <line x1="490" y1="180" x2="545" y2="180" stroke="#666" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="517" y="170" class="arrow-label">electro-</text>
+  <text x="517" y="200" class="arrow-label">chemical</text>
+  <g transform="translate(550, 130)">
+    <circle cx="50" cy="50" r="48" fill="#e8ffe8" stroke="#3bd86a" stroke-width="2.5"/>
+    <text x="50" y="46" font-size="30" text-anchor="middle">🧠</text>
+    <text x="50" y="68" class="stage-label">LINGUISTIC</text>
+    <text x="50" y="80" class="stage-label">CENTERS</text>
+    <text x="50" y="125" class="stage-sub">pattern lights</text>
+    <text x="50" y="143" class="stage-sub">up: O-C-E-A-N</text>
+    <text x="50" y="175" class="energy-tag">ENERGY</text>
+  </g>
+  <line x1="650" y1="180" x2="705" y2="180" stroke="#7d3bd8" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="677" y="170" class="arrow-label" fill="#7d3bd8" font-weight="700">meaning</text>
+  <text x="677" y="200" class="arrow-label" fill="#7d3bd8" font-weight="700">arises</text>
+  <g transform="translate(710, 130)">
+    <circle cx="50" cy="50" r="48" fill="#f4e8ff" stroke="#7d3bd8" stroke-width="3"/>
+    <text x="50" y="48" font-size="32" text-anchor="middle">🌊</text>
+    <text x="50" y="74" class="stage-label" fill="#5a2d99">"ocean"</text>
+    <text x="50" y="125" class="stage-sub">you SEE the</text>
+    <text x="50" y="143" class="stage-sub">vast water</text>
+    <text x="50" y="175" class="info-tag">INFORMATION</text>
+  </g>
+  <line x1="80" y1="370" x2="820" y2="370" stroke="#ddd" stroke-width="1"/>
+  <g transform="translate(0, 400)">
+    <rect x="100" y="0" width="320" height="100" fill="#fff8e1" stroke="#d8a83b" stroke-width="2" rx="8"/>
+    <text x="260" y="25" class="stage-label" fill="#7a5f1c">ENERGY</text>
+    <text x="260" y="50" class="legend-text" text-anchor="middle">capacity to do or change</text>
+    <text x="260" y="68" class="legend-text" text-anchor="middle" font-style="italic">all flow, all motion, all neurons firing</text>
+    <text x="260" y="88" class="legend-text" text-anchor="middle" font-size="11" fill="#555">grounded in physics + chemistry</text>
+    <rect x="480" y="0" width="320" height="100" fill="#f4e8ff" stroke="#7d3bd8" stroke-width="2" rx="8"/>
+    <text x="640" y="25" class="stage-label" fill="#5a2d99">INFORMATION</text>
+    <text x="640" y="50" class="legend-text" text-anchor="middle">energy that <tspan font-weight="700">symbolizes</tspan> something</text>
+    <text x="640" y="68" class="legend-text" text-anchor="middle" font-style="italic">"energy in formation"</text>
+    <text x="640" y="88" class="legend-text" text-anchor="middle" font-size="11" fill="#555">all info IS energy. not all energy IS info.</text>
+  </g>
+  <text x="450" y="540" class="footer-sub">Every step is energy. Information is the moment energy means something beyond itself.</text>
+</svg>

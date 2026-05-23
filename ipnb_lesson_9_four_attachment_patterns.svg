@@ -1,0 +1,185 @@
+<svg viewBox="0 0 1100 1320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#555"/>
+    </marker>
+    <marker id="arrowRed" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/>
+    </marker>
+  </defs>
+
+  <rect width="1100" height="1320" fill="#ffffff"/>
+
+  <!-- Title -->
+  <text x="550" y="36" text-anchor="middle" font-size="26" font-weight="700" fill="#111">The Four Attachment Patterns</text>
+  <text x="550" y="62" text-anchor="middle" font-size="14" fill="#555" font-style="italic">Ainsworth's Infant Strange Situation &#8594; Mary Main's discovery of disorganized attachment</text>
+
+  <!-- ============== STRANGE SITUATION STRIP ============== -->
+  <rect x="40" y="90" width="1020" height="150" rx="14" fill="#f7f7f5" stroke="#d8d8d2"/>
+  <text x="60" y="118" font-size="15" font-weight="700" fill="#111">THE PARADIGM &#8212; Ainsworth's Infant Strange Situation</text>
+  <text x="60" y="138" font-size="12" fill="#555">Activate the attachment system on purpose. Watch what the 12-month-old does at REUNION. That behavior reveals the working model.</text>
+
+  <g font-size="11" fill="#111">
+    <rect x="60" y="158" width="125" height="60" rx="8" fill="#ffffff" stroke="#cfcfc8"/>
+    <text x="122.5" y="178" text-anchor="middle" font-weight="700">1. Setup</text>
+    <text x="122.5" y="196" text-anchor="middle">Mom + baby + toys</text>
+    <text x="122.5" y="210" text-anchor="middle" fill="#888">novel room</text>
+
+    <rect x="200" y="158" width="125" height="60" rx="8" fill="#ffffff" stroke="#cfcfc8"/>
+    <text x="262.5" y="178" text-anchor="middle" font-weight="700">2. Stranger</text>
+    <text x="262.5" y="196" text-anchor="middle">enters room</text>
+    <text x="262.5" y="210" text-anchor="middle" fill="#888">novelty rising</text>
+
+    <rect x="340" y="158" width="125" height="60" rx="8" fill="#ffe8e8" stroke="#d83b3b"/>
+    <text x="402.5" y="178" text-anchor="middle" font-weight="700">3. Sep #1</text>
+    <text x="402.5" y="196" text-anchor="middle">Mom leaves</text>
+    <text x="402.5" y="210" text-anchor="middle" fill="#888">w/ stranger</text>
+
+    <rect x="480" y="158" width="125" height="60" rx="8" fill="#e8ffe8" stroke="#3bd86a" stroke-width="2"/>
+    <text x="542.5" y="178" text-anchor="middle" font-weight="700">4. REUNION #1</text>
+    <text x="542.5" y="196" text-anchor="middle">Mom returns</text>
+    <text x="542.5" y="210" text-anchor="middle" fill="#3bd86a" font-weight="700">&#8593; DIAGNOSTIC</text>
+
+    <rect x="620" y="158" width="125" height="60" rx="8" fill="#ffe8e8" stroke="#d83b3b"/>
+    <text x="682.5" y="178" text-anchor="middle" font-weight="700">5. Sep #2</text>
+    <text x="682.5" y="196" text-anchor="middle">Baby alone</text>
+    <text x="682.5" y="210" text-anchor="middle" fill="#888">no stranger</text>
+
+    <rect x="760" y="158" width="125" height="60" rx="8" fill="#e8ffe8" stroke="#3bd86a" stroke-width="2"/>
+    <text x="822.5" y="178" text-anchor="middle" font-weight="700">6. REUNION #2</text>
+    <text x="822.5" y="196" text-anchor="middle">Mom returns</text>
+    <text x="822.5" y="210" text-anchor="middle" fill="#3bd86a" font-weight="700">&#8593; DIAGNOSTIC</text>
+
+    <rect x="900" y="158" width="140" height="60" rx="8" fill="#fff4cc" stroke="#d8a83b"/>
+    <text x="970" y="180" text-anchor="middle" font-weight="700">Strategy = the</text>
+    <text x="970" y="196" text-anchor="middle" font-weight="700">reunion behavior</text>
+    <text x="970" y="210" text-anchor="middle" fill="#888">made visible</text>
+  </g>
+
+  <!-- SECURE -->
+  <g>
+    <rect x="40" y="270" width="500" height="350" rx="14" fill="#fff" stroke="#3bd86a" stroke-width="2.5"/>
+    <rect x="40" y="270" width="500" height="42" rx="14" fill="#3bd86a"/>
+    <rect x="40" y="296" width="500" height="16" fill="#3bd86a"/>
+    <text x="60" y="298" font-size="18" font-weight="700" fill="#ffffff">SECURE</text>
+    <text x="520" y="298" text-anchor="end" font-size="13" fill="#ffffff" font-weight="600">55&#8211;65% (nonclinical US)</text>
+    <text x="60" y="335" font-size="12" font-weight="700" fill="#3bd86a">REUNION BEHAVIOR</text>
+    <text x="60" y="355" font-size="13" fill="#111">Distressed at separation. At reunion: goes to mom,</text>
+    <text x="60" y="372" font-size="13" fill="#111">touches base, gets a hug &#8212; then <tspan font-weight="700">back to the toys.</tspan></text>
+    <text x="60" y="402" font-size="12" font-weight="700" fill="#3bd86a">CAREGIVER PATTERN</text>
+    <text x="60" y="422" font-size="13" fill="#111">Reliable <tspan font-style="italic">contingent communication:</tspan> receives the</text>
+    <text x="60" y="439" font-size="13" fill="#111">signal, makes sense of it, responds in time.</text>
+    <text x="60" y="456" font-size="13" fill="#111">Safe harbor + launching pad.</text>
+    <text x="60" y="486" font-size="12" font-weight="700" fill="#3bd86a">SENSE OF SELF</text>
+    <text x="60" y="506" font-size="13" font-weight="700" fill="#111">Coherent self.</text>
+    <text x="60" y="523" font-size="13" fill="#111">"My needs are worth communicating."</text>
+    <text x="60" y="553" font-size="12" font-weight="700" fill="#3bd86a">ADULT (AAI category)</text>
+    <text x="60" y="573" font-size="13" font-weight="700" fill="#111">Free / Autonomous</text>
+    <text x="60" y="590" font-size="13" fill="#111">&#8594; Coherent narrative of childhood (next lesson)</text>
+    <text x="60" y="607" font-size="11" fill="#888" font-style="italic">All three S's reliably available.</text>
+  </g>
+
+  <!-- AVOIDANT -->
+  <g>
+    <rect x="560" y="270" width="500" height="350" rx="14" fill="#fff" stroke="#3b7dd8" stroke-width="2.5"/>
+    <rect x="560" y="270" width="500" height="42" rx="14" fill="#3b7dd8"/>
+    <rect x="560" y="296" width="500" height="16" fill="#3b7dd8"/>
+    <text x="580" y="298" font-size="18" font-weight="700" fill="#ffffff">AVOIDANT</text>
+    <text x="1040" y="298" text-anchor="end" font-size="13" fill="#ffffff" font-weight="600">~20%</text>
+    <text x="580" y="335" font-size="12" font-weight="700" fill="#3b7dd8">REUNION BEHAVIOR</text>
+    <text x="580" y="355" font-size="13" fill="#111">Mom returns. Baby keeps playing. <tspan font-weight="700">Doesn't look up.</tspan></text>
+    <text x="580" y="372" font-size="13" fill="#111">But GSR skin sensors show &#8212; <tspan font-style="italic">the body is stressed.</tspan></text>
+    <text x="580" y="402" font-size="12" font-weight="700" fill="#3b7dd8">CAREGIVER PATTERN</text>
+    <text x="580" y="422" font-size="13" fill="#111"><tspan font-style="italic">Non-contingent.</tspan> Mom keeps reading the paper</text>
+    <text x="580" y="439" font-size="13" fill="#111">when the baby cries. <tspan font-weight="700">SEEN is missing.</tspan></text>
+    <text x="580" y="456" font-size="13" fill="#111">SOOTHED is missing. No repair.</text>
+    <text x="580" y="486" font-size="12" font-weight="700" fill="#3b7dd8">SENSE OF SELF</text>
+    <text x="580" y="506" font-size="13" font-weight="700" fill="#111">Disconnected self.</text>
+    <text x="580" y="523" font-size="13" fill="#111">"I don't need anyone." (shut-down attachment)</text>
+    <text x="580" y="553" font-size="12" font-weight="700" fill="#3b7dd8">ADULT (AAI category)</text>
+    <text x="580" y="573" font-size="13" font-weight="700" fill="#111">Dismissing</text>
+    <text x="580" y="590" font-size="13" fill="#111">"My childhood was fine." (says little, body knows.)</text>
+    <text x="580" y="607" font-size="11" fill="#888" font-style="italic">Attachment system dampened down.</text>
+  </g>
+
+  <!-- AMBIVALENT -->
+  <g>
+    <rect x="40" y="640" width="500" height="350" rx="14" fill="#fff" stroke="#e07b00" stroke-width="2.5"/>
+    <rect x="40" y="640" width="500" height="42" rx="14" fill="#e07b00"/>
+    <rect x="40" y="666" width="500" height="16" fill="#e07b00"/>
+    <text x="60" y="668" font-size="18" font-weight="700" fill="#ffffff">AMBIVALENT / RESISTANT</text>
+    <text x="520" y="668" text-anchor="end" font-size="13" fill="#ffffff" font-weight="600">~10&#8211;15%</text>
+    <text x="60" y="705" font-size="12" font-weight="700" fill="#e07b00">REUNION BEHAVIOR</text>
+    <text x="60" y="725" font-size="13" fill="#111">Climbs onto mom's lap &#8212; and stays distressed.</text>
+    <text x="60" y="742" font-size="13" fill="#111"><tspan font-weight="700">Clings without being soothed.</tspan> Can't return to toys.</text>
+    <text x="60" y="772" font-size="12" font-weight="700" fill="#e07b00">CAREGIVER PATTERN</text>
+    <text x="60" y="792" font-size="13" fill="#111"><tspan font-style="italic">Inconsistency + Intrusiveness.</tspan></text>
+    <text x="60" y="809" font-size="13" fill="#111">Sometimes contingent, sometimes absent.</text>
+    <text x="60" y="826" font-size="13" fill="#111">Sometimes mom's anxiety floods in instead of care.</text>
+    <text x="60" y="856" font-size="12" font-weight="700" fill="#e07b00">SENSE OF SELF</text>
+    <text x="60" y="876" font-size="13" font-weight="700" fill="#111">Confused self.</text>
+    <text x="60" y="893" font-size="13" fill="#111">"If I ramp it up high enough, maybe I'll get seen."</text>
+    <text x="60" y="923" font-size="12" font-weight="700" fill="#e07b00">ADULT (AAI category)</text>
+    <text x="60" y="943" font-size="13" font-weight="700" fill="#111">Preoccupied</text>
+    <text x="60" y="960" font-size="13" fill="#111">Tangles past + present. Can't finish the question.</text>
+    <text x="60" y="977" font-size="11" fill="#888" font-style="italic">Attachment system revved up.</text>
+  </g>
+
+  <!-- DISORGANIZED -->
+  <g>
+    <rect x="560" y="640" width="500" height="350" rx="14" fill="#fff" stroke="#a93232" stroke-width="3"/>
+    <rect x="560" y="640" width="500" height="42" rx="14" fill="#a93232"/>
+    <rect x="560" y="666" width="500" height="16" fill="#a93232"/>
+    <text x="580" y="668" font-size="18" font-weight="700" fill="#ffffff">DISORGANIZED &#8592; Mary Main</text>
+    <text x="1040" y="668" text-anchor="end" font-size="13" fill="#ffffff" font-weight="600">~5&#8211;15%* (higher clinical)</text>
+    <text x="580" y="705" font-size="12" font-weight="700" fill="#a93232">REUNION BEHAVIOR</text>
+    <text x="580" y="725" font-size="13" fill="#111"><tspan font-weight="700">Approach AND avoid in the same motion.</tspan></text>
+    <text x="580" y="742" font-size="13" fill="#111">Freezing. Collapsing. Biting fingers. Hitting head.</text>
+    <text x="580" y="772" font-size="12" font-weight="700" fill="#a93232">CAREGIVER PATTERN</text>
+    <text x="580" y="792" font-size="13" fill="#111"><tspan font-style="italic">FR &#8212; Frightening behavior.</tspan> Abuse, domestic</text>
+    <text x="580" y="809" font-size="13" fill="#111">violence witnessed, intoxication, extreme neglect.</text>
+    <text x="580" y="826" font-size="13" font-weight="700" fill="#a93232">The source of terror = the attachment figure.</text>
+    <text x="580" y="856" font-size="12" font-weight="700" fill="#a93232">SENSE OF SELF</text>
+    <text x="580" y="876" font-size="13" font-weight="700" fill="#111">Fragmented self.</text>
+    <text x="580" y="893" font-size="13" fill="#111">No coherent strategy is possible.</text>
+    <text x="580" y="923" font-size="12" font-weight="700" fill="#a93232">ADULT (AAI category)</text>
+    <text x="580" y="943" font-size="13" font-weight="700" fill="#111">Unresolved / Disorganized</text>
+    <text x="580" y="960" font-size="13" fill="#111">Lapses in reasoning when discussing loss/trauma.</text>
+    <text x="580" y="977" font-size="11" fill="#888" font-style="italic">* secondary: D+secure / D+avoidant / D+ambivalent</text>
+  </g>
+
+  <!-- BIOLOGICAL PARADOX panel -->
+  <g>
+    <rect x="40" y="1010" width="1020" height="280" rx="14" fill="#fff8f6" stroke="#a93232" stroke-width="2"/>
+    <text x="60" y="1040" font-size="17" font-weight="700" fill="#a93232">Mary Main's Discovery &#8212; "Fear Without Solution" (the Biological Paradox)</text>
+
+    <g transform="translate(490, 1080)">
+      <circle cx="60" cy="40" r="22" fill="#fff" stroke="#333" stroke-width="2"/>
+      <path d="M 35 60 L 30 150 L 90 150 L 85 60 Z" fill="#fff" stroke="#333" stroke-width="2"/>
+      <text x="60" y="200" text-anchor="middle" font-size="11" font-weight="700" fill="#333">ONE BODY</text>
+      <text x="60" y="216" text-anchor="middle" font-size="10" fill="#666">cannot do both</text>
+    </g>
+
+    <g>
+      <rect x="80" y="1075" width="320" height="80" rx="10" fill="#e8f0ff" stroke="#3b7dd8"/>
+      <text x="240" y="1098" text-anchor="middle" font-size="13" font-weight="700" fill="#3b7dd8">LIMBIC SYSTEM</text>
+      <text x="240" y="1118" text-anchor="middle" font-size="12" fill="#222">"I'm scared. GO TO my attachment</text>
+      <text x="240" y="1134" text-anchor="middle" font-size="12" fill="#222">figure for protection."</text>
+      <text x="240" y="1150" text-anchor="middle" font-size="11" font-style="italic" fill="#666">attachment circuit firing</text>
+      <line x1="400" y1="1115" x2="500" y2="1115" stroke="#3b7dd8" stroke-width="2.5" marker-end="url(#arrow)"/>
+    </g>
+
+    <g>
+      <rect x="700" y="1075" width="320" height="80" rx="10" fill="#ffe8e8" stroke="#a93232"/>
+      <text x="860" y="1098" text-anchor="middle" font-size="13" font-weight="700" fill="#a93232">BRAINSTEM</text>
+      <text x="860" y="1118" text-anchor="middle" font-size="12" fill="#222">"That person is the SOURCE of</text>
+      <text x="860" y="1134" text-anchor="middle" font-size="12" fill="#222">terror. GET AWAY."</text>
+      <text x="860" y="1150" text-anchor="middle" font-size="11" font-style="italic" fill="#666">survival circuit firing</text>
+      <line x1="700" y1="1115" x2="600" y2="1115" stroke="#a93232" stroke-width="2.5" marker-end="url(#arrowRed)"/>
+    </g>
+
+    <rect x="120" y="1210" width="860" height="60" rx="8" fill="#fff" stroke="#a93232" stroke-width="1.5"/>
+    <text x="550" y="1235" text-anchor="middle" font-size="14" font-weight="700" fill="#a93232">The person you must run TO is the person you must run FROM.</text>
+    <text x="550" y="1256" text-anchor="middle" font-size="12" fill="#333" font-style="italic">Two opposite drives in one nervous system &#8594; behavior fragments. The neurobiological signature of betrayal trauma in adults.</text>
+  </g>
+</svg>

@@ -1,0 +1,104 @@
+<svg viewBox="0 0 900 660" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Siegel's Definition of Mind, Decoded</title>
+  <desc id="desc">A diagram that breaks Siegel's nine-word definition of the mind into four chunks, with each chunk explained: emergent and self-organizing, embodied and relational, process that regulates, and energy and information flow.</desc>
+  <style>
+    .title-text { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 14px; font-weight: 600; text-anchor: middle; fill: #555; }
+    .definition { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 18px; font-weight: 700; text-anchor: middle; fill: #1a1a1a; }
+    .definition-italic { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 18px; font-weight: 700; font-style: italic; text-anchor: middle; fill: #1a1a1a; }
+    .chunk-label { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; font-weight: 700; text-anchor: middle; letter-spacing: 1px; }
+    .chunk-words { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 15px; font-weight: 700; text-anchor: middle; fill: #1a1a1a; }
+    .chunk-explain { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 11px; text-anchor: middle; fill: #444; }
+    .chunk-key { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 11px; font-style: italic; text-anchor: middle; fill: #666; }
+    .footer { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; text-anchor: middle; fill: #1a1a1a; font-weight: 600; }
+    .footer-sub { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; text-anchor: middle; fill: #555; font-style: italic; }
+  </style>
+  <text x="450" y="32" class="title-text">SIEGEL'S DEFINITION OF MIND — UNPACKED</text>
+  <rect x="50" y="55" width="800" height="80" rx="8" fill="#fff8e1" stroke="#d8a83b" stroke-width="2.5"/>
+  <text x="450" y="85" class="definition">The mind is an</text>
+  <text x="450" y="108" class="definition-italic">emergent, self-organizing, embodied and relational process</text>
+  <text x="450" y="130" class="definition">that regulates the flow of energy and information.</text>
+  <g transform="translate(60, 175)">
+    <rect width="190" height="200" rx="8" fill="#e8f4ff" stroke="#3b7dd8" stroke-width="2"/>
+    <text x="95" y="28" class="chunk-label" fill="#1c4a7a">CHUNK 1</text>
+    <line x1="20" y1="38" x2="170" y2="38" stroke="#3b7dd8" stroke-width="1"/>
+    <text x="95" y="58" class="chunk-words">emergent +</text>
+    <text x="95" y="78" class="chunk-words">self-organizing</text>
+    <text x="95" y="105" class="chunk-explain">arises from the system,</text>
+    <text x="95" y="120" class="chunk-explain">cannot be reduced to parts</text>
+    <text x="95" y="148" class="chunk-explain" font-weight="700">↻</text>
+    <text x="95" y="168" class="chunk-explain" font-weight="700">recursive:</text>
+    <text x="95" y="184" class="chunk-key">"the river that carves</text>
+    <text x="95" y="196" class="chunk-key">its own banks"</text>
+  </g>
+  <g transform="translate(265, 175)">
+    <rect width="190" height="200" rx="8" fill="#ffe8e8" stroke="#d83b3b" stroke-width="2"/>
+    <text x="95" y="28" class="chunk-label" fill="#7a1c1c">CHUNK 2</text>
+    <line x1="20" y1="38" x2="170" y2="38" stroke="#d83b3b" stroke-width="1"/>
+    <text x="95" y="58" class="chunk-words">embodied +</text>
+    <text x="95" y="78" class="chunk-words">relational</text>
+    <text x="95" y="105" class="chunk-explain">not just in the skull —</text>
+    <text x="95" y="120" class="chunk-explain">in the whole body</text>
+    <text x="95" y="148" class="chunk-explain">not just within you —</text>
+    <text x="95" y="163" class="chunk-explain">between you and others</text>
+    <text x="95" y="190" class="chunk-key">"within and between"</text>
+  </g>
+  <g transform="translate(470, 175)">
+    <rect width="190" height="200" rx="8" fill="#e8ffe8" stroke="#3bd86a" stroke-width="2"/>
+    <text x="95" y="28" class="chunk-label" fill="#1c5a2c">CHUNK 3</text>
+    <line x1="20" y1="38" x2="170" y2="38" stroke="#3bd86a" stroke-width="1"/>
+    <text x="95" y="58" class="chunk-words">process that</text>
+    <text x="95" y="78" class="chunk-words">regulates</text>
+    <text x="95" y="105" class="chunk-explain">a verb, not a noun —</text>
+    <text x="95" y="120" class="chunk-explain">always happening</text>
+    <text x="95" y="148" class="chunk-explain" font-weight="700">REGULATION =</text>
+    <text x="95" y="166" class="chunk-explain">MONITOR + MODIFY</text>
+    <text x="95" y="190" class="chunk-key">"the whole of therapy"</text>
+  </g>
+  <g transform="translate(675, 175)">
+    <rect width="190" height="200" rx="8" fill="#f4e8ff" stroke="#7d3bd8" stroke-width="2"/>
+    <text x="95" y="28" class="chunk-label" fill="#5a2d99">CHUNK 4</text>
+    <line x1="20" y1="38" x2="170" y2="38" stroke="#7d3bd8" stroke-width="1"/>
+    <text x="95" y="58" class="chunk-words">flow of energy</text>
+    <text x="95" y="78" class="chunk-words">+ information</text>
+    <text x="95" y="105" class="chunk-explain">the unit at the center</text>
+    <text x="95" y="120" class="chunk-explain">of the triangle</text>
+    <text x="95" y="148" class="chunk-explain">(see Lesson 3)</text>
+    <text x="95" y="178" class="chunk-key">"information is</text>
+    <text x="95" y="192" class="chunk-key">energy in formation"</text>
+  </g>
+  <text x="450" y="410" class="title-text">THE FOUR FACETS OF MIND</text>
+  <line x1="200" y1="420" x2="700" y2="420" stroke="#999" stroke-width="1"/>
+  <g transform="translate(60, 440)">
+    <circle cx="50" cy="50" r="48" fill="#fff" stroke="#888" stroke-width="2"/>
+    <text x="50" y="40" font-size="22" text-anchor="middle">💭</text>
+    <text x="50" y="65" class="chunk-explain" font-weight="700" font-size="11">Information</text>
+    <text x="50" y="78" class="chunk-explain" font-weight="700" font-size="11">Processing</text>
+    <text x="50" y="120" class="chunk-key">energy that</text>
+    <text x="50" y="134" class="chunk-key">symbolizes</text>
+  </g>
+  <g transform="translate(280, 440)">
+    <circle cx="50" cy="50" r="48" fill="#fff" stroke="#888" stroke-width="2"/>
+    <text x="50" y="40" font-size="22" text-anchor="middle">👁️</text>
+    <text x="50" y="65" class="chunk-explain" font-weight="700" font-size="11">Consciousness</text>
+    <text x="50" y="120" class="chunk-key">the experience</text>
+    <text x="50" y="134" class="chunk-key">of being aware</text>
+  </g>
+  <g transform="translate(500, 440)">
+    <circle cx="50" cy="50" r="48" fill="#fff" stroke="#888" stroke-width="2"/>
+    <text x="50" y="40" font-size="22" text-anchor="middle">💗</text>
+    <text x="50" y="65" class="chunk-explain" font-weight="700" font-size="11">Subjective</text>
+    <text x="50" y="78" class="chunk-explain" font-weight="700" font-size="11">Experience</text>
+    <text x="50" y="120" class="chunk-key">felt texture of</text>
+    <text x="50" y="134" class="chunk-key">lived life</text>
+  </g>
+  <g transform="translate(720, 440)">
+    <circle cx="50" cy="50" r="52" fill="#ffe8cc" stroke="#d86a3b" stroke-width="3"/>
+    <text x="50" y="40" font-size="22" text-anchor="middle">🌀</text>
+    <text x="50" y="65" class="chunk-explain" font-weight="700" font-size="11" fill="#7a3a1c">Self-</text>
+    <text x="50" y="78" class="chunk-explain" font-weight="700" font-size="11" fill="#7a3a1c">Organization</text>
+    <text x="50" y="120" class="chunk-key" fill="#7a3a1c" font-weight="700">the regulator</text>
+    <text x="50" y="134" class="chunk-key" fill="#7a3a1c">(this lesson)</text>
+  </g>
+  <text x="450" y="620" class="footer">Mind regulates the flow it emerges from.</text>
+  <text x="450" y="642" class="footer-sub">"Where attention goes, neural firing flows, and neural connection grows." — Dan Siegel</text>
+</svg>

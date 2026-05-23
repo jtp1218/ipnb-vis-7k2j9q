@@ -1,0 +1,47 @@
+<svg viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">IPNB as the whole elephant — disciplines as blind men</title>
+  <desc id="desc">A central elephant labeled IPNB surrounded by labeled discipline boxes, each touching one part of the animal, illustrating that each discipline grasps only a part while IPNB asks about the whole.</desc>
+  <style>
+    .label { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; fill: #1a1a1a; font-weight: 500; }
+    .small { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 11px; fill: #555; }
+    .center-label { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 22px; font-weight: 700; fill: #1a1a1a; text-anchor: middle; }
+    .sub-label { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; fill: #555; text-anchor: middle; font-style: italic; }
+    .elephant { fill: #f5f1e8; stroke: #8a7d5e; stroke-width: 2; }
+    .box { fill: #ffffff; stroke: #8a7d5e; stroke-width: 1.5; rx: 8; }
+    .grasp-line { stroke: #b8a878; stroke-width: 1.2; stroke-dasharray: 4 3; fill: none; }
+    .footer { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; fill: #1a1a1a; text-anchor: middle; font-weight: 600; }
+  </style>
+  <g transform="translate(280, 160)">
+    <ellipse cx="120" cy="120" rx="120" ry="75" class="elephant"/>
+    <ellipse cx="20" cy="100" rx="55" ry="55" class="elephant"/>
+    <path d="M -25,110 Q -55,140 -45,180 Q -35,210 -10,210 Q 5,210 5,195" class="elephant"/>
+    <ellipse cx="35" cy="65" rx="28" ry="38" class="elephant"/>
+    <path d="M -20,125 Q -10,140 -5,155 L 0,150 Q -5,135 -15,122 Z" fill="#fff8e8" stroke="#8a7d5e" stroke-width="1"/>
+    <circle cx="10" cy="90" r="3" fill="#1a1a1a"/>
+    <rect x="55" y="180" width="22" height="40" class="elephant"/>
+    <rect x="100" y="185" width="22" height="35" class="elephant"/>
+    <rect x="155" y="185" width="22" height="35" class="elephant"/>
+    <rect x="200" y="180" width="22" height="40" class="elephant"/>
+    <path d="M 240,140 Q 260,150 258,175" class="elephant" fill="none" stroke-width="3"/>
+    <text x="120" y="120" class="center-label">IPNB</text>
+    <text x="120" y="142" class="sub-label">the whole animal</text>
+  </g>
+  <g transform="translate(280, 30)"><rect width="120" height="40" class="box"/><text x="60" y="18" class="label" text-anchor="middle">Neuroscience</text><text x="60" y="33" class="small" text-anchor="middle">"a tusk"</text></g>
+  <path d="M 340,70 Q 320,90 295,170" class="grasp-line"/>
+  <g transform="translate(540, 60)"><rect width="120" height="40" class="box"/><text x="60" y="18" class="label" text-anchor="middle">Psychology</text><text x="60" y="33" class="small" text-anchor="middle">"a trunk"</text></g>
+  <path d="M 540,90 Q 480,130 380,200" class="grasp-line"/>
+  <g transform="translate(620, 200)"><rect width="120" height="40" class="box"/><text x="60" y="18" class="label" text-anchor="middle">Anthropology</text><text x="60" y="33" class="small" text-anchor="middle">"an ear"</text></g>
+  <path d="M 620,225 Q 555,260 480,275" class="grasp-line"/>
+  <g transform="translate(560, 360)"><rect width="120" height="40" class="box"/><text x="60" y="18" class="label" text-anchor="middle">Linguistics</text><text x="60" y="33" class="small" text-anchor="middle">"a tail"</text></g>
+  <path d="M 565,375 Q 525,360 502,335" class="grasp-line"/>
+  <g transform="translate(310, 410)"><rect width="120" height="40" class="box"/><text x="60" y="18" class="label" text-anchor="middle">Sociology</text><text x="60" y="33" class="small" text-anchor="middle">"a knee"</text></g>
+  <path d="M 360,410 Q 365,395 372,375" class="grasp-line"/>
+  <g transform="translate(60, 360)"><rect width="140" height="40" class="box"/><text x="70" y="18" class="label" text-anchor="middle">Contemplative Practice</text><text x="70" y="33" class="small" text-anchor="middle">"a foot"</text></g>
+  <path d="M 200,375 Q 240,365 280,360" class="grasp-line"/>
+  <g transform="translate(40, 200)"><rect width="100" height="40" class="box"/><text x="50" y="18" class="label" text-anchor="middle">Biology</text><text x="50" y="33" class="small" text-anchor="middle">"a leg"</text></g>
+  <path d="M 140,225 Q 200,260 280,275" class="grasp-line"/>
+  <g transform="translate(60, 60)"><rect width="120" height="40" class="box"/><text x="60" y="18" class="label" text-anchor="middle">Theology</text><text x="60" y="33" class="small" text-anchor="middle">(Curt Thompson)</text></g>
+  <path d="M 180,90 Q 230,130 290,175" class="grasp-line"/>
+  <text x="400" y="490" class="footer">IPNB doesn't add another hand on the elephant.</text>
+  <text x="400" y="510" class="footer">It's the framework that asks: <tspan font-style="italic">what's the whole animal?</tspan></text>
+</svg>

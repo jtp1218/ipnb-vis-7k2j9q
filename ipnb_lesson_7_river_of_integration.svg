@@ -1,0 +1,62 @@
+<svg viewBox="0 0 900 660" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">The River of Integration — FACES Flow Between Chaos and Rigidity</title>
+  <desc id="desc">A diagram showing a river labeled FACES (the Flexible, Adaptive, Coherent, Energized, Stable flow of optimal integration) between two banks: the upper bank labeled CHAOS and the lower bank labeled RIGIDITY. Examples of chaos and rigidity are shown on each bank. The river represents health and integration; getting stuck on either bank represents impaired integration and suffering.</desc>
+  <style>
+    .title-text { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 16px; font-weight: 700; text-anchor: middle; fill: #1a1a1a; }
+    .sub-text { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; text-anchor: middle; fill: #555; font-style: italic; }
+    .bank-label { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 22px; font-weight: 800; text-anchor: middle; letter-spacing: 1px; }
+    .bank-sub { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; text-anchor: middle; font-style: italic; }
+    .bank-example { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 11px; }
+    .river-label { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 24px; font-weight: 800; text-anchor: middle; fill: #1c5a2c; letter-spacing: 2px; }
+    .faces-letter { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 22px; font-weight: 800; text-anchor: middle; fill: #1c5a2c; }
+    .faces-word { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; font-weight: 600; text-anchor: middle; fill: #1c5a2c; }
+    .footer { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; text-anchor: middle; fill: #1a1a1a; font-weight: 700; }
+    .footer-sub { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 12px; text-anchor: middle; fill: #555; font-style: italic; }
+    .definition { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px; text-anchor: middle; fill: #1a1a1a; font-weight: 600; }
+  </style>
+  <text x="450" y="32" class="title-text">THE RIVER OF INTEGRATION</text>
+  <text x="450" y="52" class="sub-text">health flows between chaos and rigidity</text>
+  <rect x="50" y="80" width="800" height="110" fill="#ffe8e8" stroke="#d83b3b" stroke-width="2" rx="8"/>
+  <text x="450" y="115" class="bank-label" fill="#7a1c1c">⚡ THE CHAOS BANK</text>
+  <text x="450" y="135" class="bank-sub" fill="#7a1c1c">unpredictable · intrusive · racing · random</text>
+  <text x="120" y="165" class="bank-example" fill="#7a1c1c">• panic attacks</text>
+  <text x="120" y="180" class="bank-example" fill="#7a1c1c">• mania</text>
+  <text x="290" y="165" class="bank-example" fill="#7a1c1c">• intrusive PTSD memories</text>
+  <text x="290" y="180" class="bank-example" fill="#7a1c1c">• racing thoughts</text>
+  <text x="490" y="165" class="bank-example" fill="#7a1c1c">• flashbacks</text>
+  <text x="490" y="180" class="bank-example" fill="#7a1c1c">• borderline emotional flux</text>
+  <text x="690" y="165" class="bank-example" fill="#7a1c1c">• addictive acting-out</text>
+  <text x="690" y="180" class="bank-example" fill="#7a1c1c">• hypervigilance</text>
+  <path d="M 50,210 Q 200,200 350,215 T 650,210 T 850,215 L 850,360 Q 700,365 550,355 T 250,365 T 50,360 Z" fill="#cce4ff" stroke="#3b7dd8" stroke-width="2.5"/>
+  <text x="450" y="245" class="river-label">★ THE RIVER OF INTEGRATION ★</text>
+  <text x="450" y="268" class="sub-text" fill="#1c4a7a">FACES flow · health · harmony</text>
+  <g transform="translate(120, 305)"><text x="0" y="0" class="faces-letter">F</text><text x="0" y="20" class="faces-word">Flexible</text></g>
+  <g transform="translate(265, 305)"><text x="0" y="0" class="faces-letter">A</text><text x="0" y="20" class="faces-word">Adaptive</text></g>
+  <g transform="translate(415, 305)"><text x="0" y="0" class="faces-letter">C</text><text x="0" y="20" class="faces-word">Coherent</text></g>
+  <g transform="translate(560, 305)"><text x="0" y="0" class="faces-letter">E</text><text x="0" y="20" class="faces-word">Energized</text></g>
+  <g transform="translate(720, 305)"><text x="0" y="0" class="faces-letter">S</text><text x="0" y="20" class="faces-word">Stable</text></g>
+  <g transform="translate(420, 340)">
+    <ellipse cx="30" cy="6" rx="35" ry="8" fill="#8b5a2b" stroke="#5c3a1a" stroke-width="1.5"/>
+    <line x1="30" y1="6" x2="30" y2="-12" stroke="#5c3a1a" stroke-width="1.5"/>
+    <text x="30" y="-18" font-family="ui-sans-serif, system-ui, sans-serif" font-size="9" text-anchor="middle" fill="#5c3a1a">you</text>
+  </g>
+  <rect x="50" y="380" width="800" height="110" fill="#e8e8e8" stroke="#666" stroke-width="2" rx="8"/>
+  <text x="450" y="412" class="bank-label" fill="#333">🧊 THE RIGIDITY BANK</text>
+  <text x="450" y="432" class="bank-sub" fill="#444">frozen · predictable · constricted · shut down</text>
+  <text x="120" y="462" class="bank-example" fill="#333">• depression</text>
+  <text x="120" y="478" class="bank-example" fill="#333">• avoidance</text>
+  <text x="290" y="462" class="bank-example" fill="#333">• dissociative numbing</text>
+  <text x="290" y="478" class="bank-example" fill="#333">• emotional shutdown</text>
+  <text x="490" y="462" class="bank-example" fill="#333">• OCD locked structure</text>
+  <text x="490" y="478" class="bank-example" fill="#333">• obsessive control</text>
+  <text x="690" y="462" class="bank-example" fill="#333">• sexual anorexia</text>
+  <text x="690" y="478" class="bank-example" fill="#333">• "white-knuckling"</text>
+  <g transform="translate(0, 510)">
+    <rect x="120" y="0" width="660" height="80" rx="10" fill="#fff8e1" stroke="#d8a83b" stroke-width="2.5"/>
+    <text x="450" y="22" class="definition">INTEGRATION = the linkage of differentiated parts</text>
+    <text x="450" y="44" class="footer-sub">a fruit salad, not a smoothie · keep the parts themselves, put them in the same bowl</text>
+    <text x="450" y="64" class="footer-sub">block differentiation → fusion · block linkage → isolation · both → collapse</text>
+  </g>
+  <text x="450" y="618" class="footer">"The problem isn't visiting the banks. The problem is getting stuck."</text>
+  <text x="450" y="640" class="footer-sub">Suffering = stuck on a bank. Health = canoe in the river of FACES.</text>
+</svg>
