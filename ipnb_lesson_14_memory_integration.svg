@@ -1,0 +1,156 @@
+<svg viewBox="0 0 1120 800" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+<title>Memory Integration — Implicit pieces, hippocampus assembler, explicit picture</title>
+<desc>Diagram showing six implicit memory building blocks scattered when unintegrated (flashback) vs assembled by the hippocampus into a coherent explicit memory (resolved), with the therapeutic dual-focus move at the bottom.</desc>
+
+<rect x="0" y="0" width="1120" height="800" fill="#ffffff"/>
+
+<style>
+  .title { font-size: 19px; font-weight: 700; fill: #1a1a1a; }
+  .sub { font-size: 12px; fill: #666; font-style: italic; }
+  .panel-title { font-size: 13px; font-weight: 700; fill: #1a1a1a; }
+  .panel-sub { font-size: 11px; fill: #444; }
+  .piece-label { font-size: 10px; font-weight: 600; fill: #1a1a1a; }
+  .piece-text { font-size: 9px; fill: #444; }
+  .box-title { font-size: 13px; font-weight: 600; fill: #1a1a1a; }
+  .box-text { font-size: 11px; fill: #444; }
+  .anatomy { font-size: 10px; fill: #666; font-style: italic; }
+  .arrow-label { font-size: 10px; fill: #666; font-weight: 500; }
+  .hippo-label { font-size: 11px; font-weight: 700; fill: #6b4a8d; letter-spacing: 0.5px; }
+  .tag-good { font-size: 10px; font-weight: 700; fill: #2b6e3f; }
+  .tag-bad { font-size: 10px; font-weight: 700; fill: #b54a2a; }
+</style>
+
+<text x="560" y="30" text-anchor="middle" class="title">Memory Integration — implicit pieces, the hippocampus assembler, explicit picture</text>
+<text x="560" y="50" text-anchor="middle" class="sub">The 6 building blocks of implicit memory get woven by the hippocampus into explicit memory — tagged "from the past." When the hippocampus is offline (trauma), the pieces stay scattered.</text>
+
+<rect x="20" y="80" width="520" height="380" rx="10" fill="#fef3f0" stroke="#d97757" stroke-width="1.8"/>
+<text x="280" y="105" text-anchor="middle" class="panel-title">UNINTEGRATED — pure implicit, no hippocampus tag</text>
+<text x="280" y="122" text-anchor="middle" class="panel-sub">Trauma blocked the hippocampus. The pieces were encoded — separately, with no "from the past" tag attached.</text>
+<text x="280" y="138" text-anchor="middle" class="panel-sub">Retrieval feels like NOW. This is what a flashback IS.</text>
+
+<g>
+  <rect x="40" y="160" width="115" height="48" rx="4" fill="#fff" stroke="#d97757" stroke-width="1.2"/>
+  <text x="97" y="178" text-anchor="middle" class="piece-label">BODILY</text>
+  <text x="97" y="190" text-anchor="middle" class="piece-label">SENSATION</text>
+  <text x="97" y="202" text-anchor="middle" class="piece-text">heart, gut, muscles</text>
+
+  <rect x="180" y="175" width="115" height="48" rx="4" fill="#fff" stroke="#d97757" stroke-width="1.2" transform="rotate(-4 237 199)"/>
+  <text x="237" y="194" text-anchor="middle" class="piece-label" transform="rotate(-4 237 199)">EMOTION</text>
+  <text x="237" y="206" text-anchor="middle" class="piece-text" transform="rotate(-4 237 199)">fear · shame · rage</text>
+
+  <rect x="320" y="160" width="115" height="48" rx="4" fill="#fff" stroke="#d97757" stroke-width="1.2" transform="rotate(3 377 184)"/>
+  <text x="377" y="178" text-anchor="middle" class="piece-label" transform="rotate(3 377 184)">PERCEPTION</text>
+  <text x="377" y="190" text-anchor="middle" class="piece-text" transform="rotate(3 377 184)">sights, sounds, smells</text>
+  <text x="377" y="202" text-anchor="middle" class="piece-text" transform="rotate(3 377 184)">(rain on tin roof)</text>
+
+  <rect x="50" y="245" width="115" height="48" rx="4" fill="#fff" stroke="#d97757" stroke-width="1.2" transform="rotate(-2 107 269)"/>
+  <text x="107" y="263" text-anchor="middle" class="piece-label" transform="rotate(-2 107 269)">BEHAVIOR</text>
+  <text x="107" y="275" text-anchor="middle" class="piece-text" transform="rotate(-2 107 269)">impulses to run,</text>
+  <text x="107" y="287" text-anchor="middle" class="piece-text" transform="rotate(-2 107 269)">freeze, fight</text>
+
+  <rect x="200" y="255" width="115" height="48" rx="4" fill="#fff" stroke="#d97757" stroke-width="1.2" transform="rotate(2 257 279)"/>
+  <text x="257" y="273" text-anchor="middle" class="piece-label" transform="rotate(2 257 279)">MENTAL MODEL</text>
+  <text x="257" y="285" text-anchor="middle" class="piece-text" transform="rotate(2 257 279)">"the world is</text>
+  <text x="257" y="297" text-anchor="middle" class="piece-text" transform="rotate(2 257 279)">unsafe"</text>
+
+  <rect x="340" y="240" width="115" height="48" rx="4" fill="#fff" stroke="#d97757" stroke-width="1.2" transform="rotate(-3 397 264)"/>
+  <text x="397" y="258" text-anchor="middle" class="piece-label" transform="rotate(-3 397 264)">PRIMING</text>
+  <text x="397" y="270" text-anchor="middle" class="piece-text" transform="rotate(-3 397 264)">readied responses</text>
+  <text x="397" y="282" text-anchor="middle" class="piece-text" transform="rotate(-3 397 264)">to context cues</text>
+</g>
+
+<g>
+  <ellipse cx="280" cy="345" rx="180" ry="25" fill="none" stroke="#b54a2a" stroke-width="2" stroke-dasharray="6,3"/>
+  <text x="280" y="343" text-anchor="middle" class="tag-bad">RETRIEVED WITH NO "PAST" TAG</text>
+  <text x="280" y="358" text-anchor="middle" class="piece-text">→ flashback · dissociation · panic "from nowhere"</text>
+</g>
+
+<rect x="40" y="385" width="480" height="62" rx="6" fill="#fff" stroke="#d97757" stroke-width="1" stroke-dasharray="3,2"/>
+<text x="50" y="402" class="piece-label">WHY: trauma blocks the hippocampus via TWO routes</text>
+<text x="50" y="418" class="piece-text">  1. Divided attention — too much focal attention elsewhere; pieces encoded outside awareness</text>
+<text x="50" y="431" class="piece-text">  2. Cortisol floods the hippocampus offline + adrenaline AMPLIFIES implicit encoding</text>
+<text x="50" y="443" class="piece-text">  → result: full vivid implicit pieces stored, NO explicit binding, NO "past" tag</text>
+
+<rect x="580" y="80" width="520" height="380" rx="10" fill="#eaf4ee" stroke="#3a7d5c" stroke-width="1.8"/>
+<text x="840" y="105" text-anchor="middle" class="panel-title">INTEGRATED — hippocampus assembled the puzzle</text>
+<text x="840" y="122" text-anchor="middle" class="panel-sub">The hippocampus wove the 6 implicit pieces into one coherent picture and tagged it "from the past."</text>
+<text x="840" y="138" text-anchor="middle" class="panel-sub">Retrieval has ECPHORY — the felt sense "this happened, it's over."</text>
+
+<ellipse cx="840" cy="220" rx="60" ry="32" fill="#f1ecf6" stroke="#6b4a8d" stroke-width="2"/>
+<text x="840" y="216" text-anchor="middle" class="hippo-label">HIPPOCAMPUS</text>
+<text x="840" y="232" text-anchor="middle" class="piece-text">puzzle-piece assembler</text>
+
+<g stroke="#6b4a8d" stroke-width="1.2" fill="none" opacity="0.5">
+  <line x1="780" y1="195" x2="660" y2="170"/>
+  <line x1="900" y1="195" x2="1020" y2="170"/>
+  <line x1="780" y1="245" x2="660" y2="320"/>
+  <line x1="900" y1="245" x2="1020" y2="320"/>
+  <line x1="780" y1="220" x2="620" y2="245"/>
+  <line x1="900" y1="220" x2="1060" y2="245"/>
+</g>
+
+<g>
+  <rect x="605" y="148" width="110" height="42" rx="4" fill="#fff" stroke="#3a7d5c" stroke-width="1.2"/>
+  <text x="660" y="164" text-anchor="middle" class="piece-label">BODILY</text>
+  <text x="660" y="178" text-anchor="middle" class="piece-text">felt &amp; named</text>
+
+  <rect x="965" y="148" width="110" height="42" rx="4" fill="#fff" stroke="#3a7d5c" stroke-width="1.2"/>
+  <text x="1020" y="164" text-anchor="middle" class="piece-label">EMOTION</text>
+  <text x="1020" y="178" text-anchor="middle" class="piece-text">felt &amp; named</text>
+
+  <rect x="565" y="225" width="110" height="42" rx="4" fill="#fff" stroke="#3a7d5c" stroke-width="1.2"/>
+  <text x="620" y="241" text-anchor="middle" class="piece-label">PERCEPTION</text>
+  <text x="620" y="255" text-anchor="middle" class="piece-text">contextualized</text>
+
+  <rect x="1005" y="225" width="110" height="42" rx="4" fill="#fff" stroke="#3a7d5c" stroke-width="1.2"/>
+  <text x="1060" y="241" text-anchor="middle" class="piece-label">BEHAVIOR</text>
+  <text x="1060" y="255" text-anchor="middle" class="piece-text">understood</text>
+
+  <rect x="605" y="298" width="110" height="42" rx="4" fill="#fff" stroke="#3a7d5c" stroke-width="1.2"/>
+  <text x="660" y="314" text-anchor="middle" class="piece-label">MENTAL MODEL</text>
+  <text x="660" y="328" text-anchor="middle" class="piece-text">revised</text>
+
+  <rect x="965" y="298" width="110" height="42" rx="4" fill="#fff" stroke="#3a7d5c" stroke-width="1.2"/>
+  <text x="1020" y="314" text-anchor="middle" class="piece-label">PRIMING</text>
+  <text x="1020" y="328" text-anchor="middle" class="piece-text">unhooked</text>
+</g>
+
+<g>
+  <ellipse cx="840" cy="380" rx="180" ry="25" fill="none" stroke="#2b6e3f" stroke-width="2"/>
+  <text x="840" y="378" text-anchor="middle" class="tag-good">RETRIEVED WITH "FROM THE PAST" TAG</text>
+  <text x="840" y="393" text-anchor="middle" class="piece-text">→ ecphory · "this happened. It was real. It's over now."</text>
+</g>
+
+<rect x="600" y="420" width="480" height="28" rx="6" fill="#fff" stroke="#3a7d5c" stroke-width="1" stroke-dasharray="3,2"/>
+<text x="840" y="439" text-anchor="middle" class="box-text">Two explicit forms: <tspan font-weight="700">FACTUAL</tspan> (semantic, left-skewed) · <tspan font-weight="700">AUTOBIOGRAPHICAL</tspan> (episodic, right-skewed)</text>
+
+<rect x="20" y="475" width="1080" height="180" rx="10" fill="#eef4fa" stroke="#5b8db8" stroke-width="1.8"/>
+<text x="560" y="500" text-anchor="middle" class="panel-title">THE THERAPEUTIC MOVE — Bjork's "retrieval as memory modifier" (now called reconsolidation)</text>
+<text x="560" y="518" text-anchor="middle" class="panel-sub">You can't change what happened. You CAN change the engram. Activate the old + add a new experience in the same window → unlearning.</text>
+
+<g>
+  <rect x="60" y="540" width="440" height="95" rx="6" fill="#fff" stroke="#b54a2a" stroke-width="1.5"/>
+  <text x="280" y="558" text-anchor="middle" class="piece-label" fill="#b54a2a">STREAM 1 — the OLD engram (activated, not denied)</text>
+  <text x="75" y="578" class="piece-text">• Felt body — the implicit pieces become felt again</text>
+  <text x="75" y="592" class="piece-text">• Named — "this is shame. this is helplessness. this is what 14-year-old me felt."</text>
+  <text x="75" y="606" class="piece-text">• Acknowledged — "this is real. it happened. your nervous system isn't lying."</text>
+  <text x="75" y="620" class="piece-text" font-style="italic">  Without Stream 2, this is just re-traumatizing — a flashback in the office.</text>
+</g>
+
+<g>
+  <rect x="620" y="540" width="440" height="95" rx="6" fill="#fff" stroke="#3a7d5c" stroke-width="1.5"/>
+  <text x="840" y="558" text-anchor="middle" class="piece-label" fill="#3a7d5c">STREAM 2 — the NEW experience (added in the same window)</text>
+  <text x="635" y="578" class="piece-text">• The therapist's regulated, present nervous system in the room with yours</text>
+  <text x="635" y="592" class="piece-text">• The adult-you alongside the child-you — "you are not 14 anymore. you survived."</text>
+  <text x="635" y="606" class="piece-text">• Meaning re-storied — "shame was a strategy to stay sane in an insane situation."</text>
+  <text x="635" y="620" class="piece-text" font-style="italic">  Without Stream 1 active, this is just intellectual reframing — never lands.</text>
+</g>
+
+<rect x="20" y="675" width="1080" height="105" rx="6" fill="#fafafa" stroke="#cccccc" stroke-width="1"/>
+<text x="560" y="697" text-anchor="middle" class="box-title">Memory anchor: <tspan fill="#6b4a8d">"The hippocampus is the puzzle-piece assembler. Trauma takes it offline. Therapy puts it back to work."</tspan></text>
+<text x="560" y="716" text-anchor="middle" class="box-text"><tspan font-weight="700">Implicit memory</tspan> (no hippocampus, no past-tag) — 6 pieces: <tspan font-weight="700">B</tspan>odily · <tspan font-weight="700">E</tspan>motion · <tspan font-weight="700">P</tspan>erception · <tspan font-weight="700">B</tspan>ehavior · <tspan font-weight="700">M</tspan>ental model · <tspan font-weight="700">P</tspan>riming</text>
+<text x="560" y="734" text-anchor="middle" class="box-text"><tspan font-weight="700">Explicit memory</tspan> (hippocampus, with ecphory) — two forms: <tspan font-weight="700">factual</tspan> (left-skewed) and <tspan font-weight="700">autobiographical</tspan> (right-skewed)</text>
+<text x="560" y="752" text-anchor="middle" class="box-text"><tspan fill="#b54a2a" font-weight="700">Unintegrated → flashback / dissociation / "from nowhere"</tspan>   ·   <tspan fill="#3a7d5c" font-weight="700">Integrated → ecphory: "this happened. it's over."</tspan></text>
+<text x="560" y="770" text-anchor="middle" class="box-text" font-style="italic">"You're not crazy. You're just human. The retrieval just doesn't feel like the past — because the hippocampus never tagged it."</text>
+
+</svg>
