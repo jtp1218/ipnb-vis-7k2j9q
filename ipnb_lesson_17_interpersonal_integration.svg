@@ -1,0 +1,148 @@
+<svg viewBox="0 0 900 740" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">Interpersonal Integration — The WE is greater than the sum of its parts</title>
+<desc id="d">Two differentiated selves (ME and YOU) become a WE-state through PART (Presence, Attunement, Resonance, Trust). The WE is an emergent property — more than the sum of ME and YOU. Below: romance's three differentiated systems (in-love, erotic attraction, attachment) and the interlocking-states trap where pursuer and distancer recreate each other's strategies.</desc>
+
+<style>
+  .h { font: 700 22px ui-sans-serif, system-ui, sans-serif; fill: #1a1a1a; }
+  .s { font: 600 14px ui-sans-serif, system-ui, sans-serif; fill: #3a3a3a; }
+  .b { font: 500 12px ui-sans-serif, system-ui, sans-serif; fill: #3a3a3a; }
+  .t { font: 500 11px ui-sans-serif, system-ui, sans-serif; fill: #555555; }
+  .lbl { font: 700 11px ui-sans-serif, system-ui, sans-serif; fill: #ffffff; letter-spacing: 0.5px; }
+  .tag { font: 600 10px ui-sans-serif, system-ui, sans-serif; fill: #555555; letter-spacing: 0.8px; }
+  .cap { font: italic 12px ui-sans-serif, system-ui, sans-serif; fill: #666666; }
+  .me { font: 700 26px ui-sans-serif, system-ui, sans-serif; fill: #7a3a28; }
+  .you { font: 700 26px ui-sans-serif, system-ui, sans-serif; fill: #1f4a60; }
+  .we { font: 700 32px ui-sans-serif, system-ui, sans-serif; fill: #6b4a1c; letter-spacing: 1px; }
+  .wesub { font: italic 600 11px ui-sans-serif, system-ui, sans-serif; fill: #6b4a1c; }
+  .partltr { font: 700 18px ui-sans-serif, system-ui, sans-serif; fill: #5a3a8a; }
+  .partword { font: 600 11px ui-sans-serif, system-ui, sans-serif; fill: #3a2a5a; letter-spacing: 0.5px; }
+  .ss1 { font: 600 11px ui-sans-serif, system-ui, sans-serif; fill: #2a2a2a; }
+  .ss2 { font: 500 10px ui-sans-serif, system-ui, sans-serif; fill: #4a4a4a; }
+</style>
+
+<rect width="900" height="740" fill="#ffffff"/>
+
+<!-- Title -->
+<text x="450" y="32" class="h" text-anchor="middle">Interpersonal Integration — The WE is greater than the sum of its parts</text>
+<text x="450" y="54" class="cap" text-anchor="middle">Two differentiated selves linked through PART create an emergent state of mind no individual can hold alone.</text>
+
+<!-- ===== HERO: The Venn ===== -->
+<text x="60" y="92" class="tag">THE HERO MOVE  ·  ME + YOU + PART  →  WE</text>
+
+<g transform="translate(60,100)">
+  <rect width="780" height="350" rx="12" fill="#fbfaf7" stroke="#c4b88a" stroke-width="1.8"/>
+
+  <!-- caption inside hero (centered over Venn area, NOT panel — PART column lives at x≥600) -->
+  <text x="300" y="30" class="s" text-anchor="middle" fill="#5a4a1c">A relationship is a system — the WE that emerges is real.</text>
+
+  <!-- "Honor the difference" tags above each circle -->
+  <text x="290" y="65" class="tag" fill="#7a3a28" text-anchor="middle">HONOR THE DIFFERENCE</text>
+  <text x="490" y="65" class="tag" fill="#1f4a60" text-anchor="middle">HONOR THE DIFFERENCE</text>
+
+  <!-- Venn circles (closer together so lens is wide enough for "WE") -->
+  <circle cx="320" cy="180" r="100" fill="#f6d5c0" fill-opacity="0.85" stroke="#a8513a" stroke-width="2.5"/>
+  <circle cx="460" cy="180" r="100" fill="#c8dfeb" fill-opacity="0.85" stroke="#3a6b85" stroke-width="2.5"/>
+
+  <!-- Gold lens shading approximating the geometric overlap -->
+  <ellipse cx="390" cy="180" rx="32" ry="70" fill="#e8c060" fill-opacity="0.7" stroke="#a87a1c" stroke-width="1.2"/>
+
+  <!-- ME labels (positioned in the ME-only visible region, x≈290) -->
+  <text x="290" y="180" class="me" text-anchor="middle">ME</text>
+  <text x="290" y="202" class="t" text-anchor="middle">differentiated</text>
+
+  <!-- YOU labels (positioned in the YOU-only visible region, x≈490) -->
+  <text x="490" y="180" class="you" text-anchor="middle">YOU</text>
+  <text x="490" y="202" class="t" text-anchor="middle">differentiated</text>
+
+  <!-- WE label in the gold lens -->
+  <text x="390" y="178" class="we" text-anchor="middle">WE</text>
+  <text x="390" y="198" class="wesub" text-anchor="middle">emerges</text>
+
+  <!-- Below the circles: emergent property tagline (short, centered in Venn area) -->
+  <text x="300" y="312" class="s" text-anchor="middle" fill="#5a4a1c">Greater than the sum of its parts</text>
+  <text x="300" y="330" class="t" text-anchor="middle">Generative field · Co-regulation · Resonance</text>
+
+  <!-- Right column: PART = the bridge -->
+  <g transform="translate(610,80)">
+    <rect width="160" height="220" rx="10" fill="#ede5f4" stroke="#5a3a8a" stroke-width="1.5"/>
+    <text x="80" y="22" class="tag" fill="#3a2a5a" text-anchor="middle">PART  ·  THE BRIDGE</text>
+
+    <g transform="translate(16,46)">
+      <text x="0" y="14" class="partltr">P</text>
+      <text x="22" y="14" class="partword">Presence</text>
+
+      <text x="0" y="62" class="partltr">A</text>
+      <text x="22" y="62" class="partword">Attunement</text>
+
+      <text x="0" y="110" class="partltr">R</text>
+      <text x="22" y="110" class="partword">Resonance</text>
+
+      <text x="0" y="158" class="partltr">T</text>
+      <text x="22" y="158" class="partword">Trust</text>
+    </g>
+  </g>
+</g>
+
+<!-- ===== BOTTOM ROW ===== -->
+<text x="60" y="478" class="tag">WHERE THE WE WORKS  ·  AND WHERE IT FAILS</text>
+
+<!-- LEFT: Romance's three systems -->
+<g transform="translate(60,490)">
+  <rect width="370" height="230" rx="12" fill="#fef7ee" stroke="#a8761c" stroke-width="1.5"/>
+  <rect x="0" y="0" width="370" height="32" rx="12" fill="#a8761c"/>
+  <rect x="0" y="20" width="370" height="12" fill="#a8761c"/>
+  <text x="14" y="22" class="lbl">ROMANCE HAS THREE DIFFERENTIATED SYSTEMS</text>
+
+  <g transform="translate(14,46)" class="b">
+    <text x="0" y="14" class="s" fill="#6b4a1c">1.  Falling in love</text>
+    <text x="0" y="30" class="t">Dopamine reward · intense pull · can last decades</text>
+
+    <text x="0" y="56" class="s" fill="#6b4a1c">2.  Erotic attraction</text>
+    <text x="0" y="72" class="t">Androgens · pheromones · body-level matching</text>
+    <text x="0" y="88" class="t">(the "staircase test" — sweat near them, breathe in)</text>
+
+    <text x="0" y="114" class="s" fill="#6b4a1c">3.  Attachment</text>
+    <text x="0" y="130" class="t">Safe haven + launching pad · commitment · long-haul</text>
+
+    <text x="0" y="160" class="b" fill="#6b4a1c">Most relationship pain comes from</text>
+    <text x="0" y="176" class="b" fill="#6b4a1c">CONFLATING these three.</text>
+  </g>
+</g>
+
+<!-- RIGHT: Interlocking states -->
+<g transform="translate(470,490)">
+  <rect width="370" height="230" rx="12" fill="#fbeeee" stroke="#b04a4a" stroke-width="1.5"/>
+  <rect x="0" y="0" width="370" height="32" rx="12" fill="#b04a4a"/>
+  <rect x="0" y="20" width="370" height="12" fill="#b04a4a"/>
+  <text x="14" y="22" class="lbl">INTERLOCKING STATES  ·  THE COMMON TRAP</text>
+
+  <!-- Pursuer / Distancer visual -->
+  <g transform="translate(185,108)">
+    <!-- Pursuer left -->
+    <circle cx="-78" cy="0" r="40" fill="#e6b6b6" stroke="#7a2828" stroke-width="2"/>
+    <text x="-78" y="-2" class="ss1" text-anchor="middle" fill="#7a2828">PURSUER</text>
+    <text x="-78" y="13" class="ss2" text-anchor="middle">preoccupied</text>
+
+    <!-- Distancer right -->
+    <circle cx="78" cy="0" r="40" fill="#e6b6b6" stroke="#7a2828" stroke-width="2"/>
+    <text x="78" y="-2" class="ss1" text-anchor="middle" fill="#7a2828">DISTANCER</text>
+    <text x="78" y="13" class="ss2" text-anchor="middle">avoidant</text>
+
+    <!-- Arrows showing the dance -->
+    <line x1="-34" y1="-10" x2="34" y2="-10" stroke="#7a2828" stroke-width="2" marker-end="url(#arr)"/>
+    <line x1="34" y1="10" x2="-34" y2="10" stroke="#7a2828" stroke-width="2" marker-end="url(#arr)"/>
+    <text x="0" y="-22" class="tag" text-anchor="middle" fill="#7a2828">chase</text>
+    <text x="0" y="32" class="tag" text-anchor="middle" fill="#7a2828">withdraw</text>
+  </g>
+
+  <text x="185" y="180" class="b" text-anchor="middle" fill="#7a2828">The very thing that drew them together</text>
+  <text x="185" y="196" class="b" text-anchor="middle" fill="#7a2828">becomes the thing tearing them apart.</text>
+  <text x="185" y="216" class="t" text-anchor="middle">Hendrix · Sue Johnson · earnable security</text>
+</g>
+
+<defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7a2828"/>
+  </marker>
+</defs>
+</svg>
