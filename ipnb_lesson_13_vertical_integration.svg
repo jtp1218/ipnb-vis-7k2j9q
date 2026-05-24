@@ -1,0 +1,166 @@
+<svg viewBox="0 0 1120 800" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+<title>Vertical Integration — Body, Brainstem, Limbic, Cortex</title>
+<desc>Diagram showing how interoceptive signals flow upward from heart and gut through vagus nerve and lamina 1 into the insula and anterior cingulate, with chaos and rigidity as the two impairment modes flanking the integrated middle.</desc>
+
+<!-- White background so it reads on both light and dark themes -->
+<rect x="0" y="0" width="1120" height="800" fill="#ffffff"/>
+
+<style>
+  .title { font-size: 19px; font-weight: 700; fill: #1a1a1a; }
+  .sub { font-size: 12px; fill: #666; font-style: italic; }
+  .tier-label { font-size: 11px; font-weight: 600; fill: #444; letter-spacing: 0.5px; }
+  .box-title { font-size: 13px; font-weight: 600; fill: #1a1a1a; }
+  .box-text { font-size: 11px; fill: #444; }
+  .anatomy { font-size: 10px; fill: #666; font-style: italic; }
+  .impair-title { font-size: 13px; font-weight: 700; fill: #1a1a1a; }
+  .impair-sub { font-size: 11px; fill: #444; }
+  .arrow-label { font-size: 10px; fill: #666; font-weight: 500; }
+  .integrated-label { font-size: 12px; font-weight: 700; fill: #2b6e3f; }
+  .center-line { stroke: #888; stroke-width: 1.5; fill: none; }
+</style>
+
+<defs>
+  <marker id="arrowUp" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#3a7d5c"/>
+  </marker>
+  <marker id="arrowDown" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#5b8db8"/>
+  </marker>
+</defs>
+
+<!-- Title -->
+<text x="560" y="32" text-anchor="middle" class="title">Vertical Integration — linking what's above and below</text>
+<text x="560" y="52" text-anchor="middle" class="sub">Differentiating four levels — body · brainstem · limbic · cortex — then linking them with awareness</text>
+
+<!-- LEFT: RIGIDITY (x = 20 to 180, width 160) -->
+<rect x="20" y="90" width="160" height="600" rx="10" fill="#fef3f0" stroke="#d97757" stroke-width="1.5"/>
+<text x="100" y="115" text-anchor="middle" class="impair-title">RIGIDITY</text>
+<text x="100" y="132" text-anchor="middle" class="impair-sub">"I feel nothing"</text>
+<text x="100" y="148" text-anchor="middle" class="impair-sub">numb · disembodied</text>
+<line x1="35" y1="160" x2="165" y2="160" stroke="#d97757" stroke-width="0.5"/>
+<text x="32" y="180" class="box-text" font-weight="600">What it looks like:</text>
+<text x="32" y="198" class="box-text">• "Cut off from neck down"</text>
+<text x="32" y="214" class="box-text">• Body = head's transport</text>
+<text x="32" y="230" class="box-text">• "I don't know what I feel"</text>
+<text x="32" y="246" class="box-text">• No internal compass</text>
+<text x="32" y="262" class="box-text">• Follows display rules</text>
+<text x="32" y="278" class="box-text">• Eating disorders (body</text>
+<text x="32" y="292" class="box-text">  image distortion)</text>
+<text x="32" y="320" class="box-text" font-weight="600">Mechanism:</text>
+<text x="32" y="338" class="box-text">Signals come up but</text>
+<text x="32" y="352" class="box-text">don't reach cortex —</text>
+<text x="32" y="366" class="box-text">blocked at posterior</text>
+<text x="32" y="380" class="box-text">insula. Left mode dominates.</text>
+<text x="32" y="408" class="box-text" font-weight="600">Often:</text>
+<text x="32" y="426" class="box-text">Avoidant attachment</text>
+<text x="32" y="442" class="box-text">Numbing pathway (SFR)</text>
+<text x="32" y="458" class="box-text">Trauma shutdown</text>
+<text x="32" y="486" class="box-text" font-weight="600">Move toward integration:</text>
+<text x="32" y="504" class="box-text">Wheel segment 2 (body)</text>
+<text x="32" y="518" class="box-text">Body scan · breath</text>
+<text x="32" y="532" class="box-text">Hand on chest/abdomen</text>
+<text x="32" y="546" class="box-text">Yoga · somatic work</text>
+<text x="32" y="574" class="box-text" font-weight="600">Pastoral / SFR move:</text>
+<text x="32" y="592" class="box-text">"Where do you feel this</text>
+<text x="32" y="606" class="box-text">in your body right now?"</text>
+<text x="32" y="624" class="box-text">Slow it down. Don't</text>
+<text x="32" y="638" class="box-text">preach to a numb body.</text>
+
+<!-- RIGHT: CHAOS (x = 940 to 1100, width 160) -->
+<rect x="940" y="90" width="160" height="600" rx="10" fill="#fef3f0" stroke="#d97757" stroke-width="1.5"/>
+<text x="1020" y="115" text-anchor="middle" class="impair-title">CHAOS</text>
+<text x="1020" y="132" text-anchor="middle" class="impair-sub">"It's all too much"</text>
+<text x="1020" y="148" text-anchor="middle" class="impair-sub">flooded · uninterpreted</text>
+<line x1="955" y1="160" x2="1085" y2="160" stroke="#d97757" stroke-width="0.5"/>
+<text x="952" y="180" class="box-text" font-weight="600">What it looks like:</text>
+<text x="952" y="198" class="box-text">• Panic "from nowhere"</text>
+<text x="952" y="214" class="box-text">• Body floods cortex with</text>
+<text x="952" y="228" class="box-text">  signals no one named</text>
+<text x="952" y="244" class="box-text">• Anne — panic when</text>
+<text x="952" y="258" class="box-text">  Wheel reached her heart</text>
+<text x="952" y="274" class="box-text">• Sensations w/o meaning</text>
+<text x="952" y="290" class="box-text">• Chronic hyperarousal</text>
+<text x="952" y="320" class="box-text" font-weight="600">Mechanism:</text>
+<text x="952" y="338" class="box-text">Signals arrive — but</text>
+<text x="952" y="352" class="box-text">cortex can't metabolize.</text>
+<text x="952" y="366" class="box-text">Body→limbic loop self-</text>
+<text x="952" y="380" class="box-text">reinforces (pencil study).</text>
+<text x="952" y="408" class="box-text" font-weight="600">Often:</text>
+<text x="952" y="426" class="box-text">Unresolved grief/trauma</text>
+<text x="952" y="442" class="box-text">Fantasy &amp; arousal paths</text>
+<text x="952" y="458" class="box-text">Disorganized attachment</text>
+<text x="952" y="486" class="box-text" font-weight="600">Move toward integration:</text>
+<text x="952" y="504" class="box-text">Grounding · orienting</text>
+<text x="952" y="518" class="box-text">Slow breath · long exhale</text>
+<text x="952" y="532" class="box-text">Name what's felt where</text>
+<text x="952" y="546" class="box-text">Co-regulate, then label</text>
+<text x="952" y="574" class="box-text" font-weight="600">Pastoral / SFR move:</text>
+<text x="952" y="592" class="box-text">Provide a regulated</text>
+<text x="952" y="606" class="box-text">presence (Porges ventral</text>
+<text x="952" y="620" class="box-text">vagal). Words come</text>
+<text x="952" y="638" class="box-text">AFTER body is safe.</text>
+
+<!-- Integrated header above central stack -->
+<text x="560" y="86" text-anchor="middle" class="integrated-label">INTEGRATED — both, linked</text>
+
+<!-- CENTER STACK (x = 260 to 860, width 600) -->
+<!-- CORTEX -->
+<rect x="260" y="100" width="600" height="92" rx="8" fill="#eef4fa" stroke="#5b8db8" stroke-width="1.8"/>
+<text x="278" y="120" class="tier-label">CORTEX</text>
+<text x="278" y="140" class="box-title">Awareness · meaning · choice</text>
+<text x="278" y="158" class="box-text">Prefrontal awareness lets you say: "My heart is pounding — but the threat is a memory of</text>
+<text x="278" y="172" class="box-text">my mother, not my wife." Cortex names · reappraises · regulates what arose below.</text>
+<text x="278" y="186" class="anatomy">Receiving stations: anterior insula (meta-awareness of body) · anterior cingulate (4 jobs)</text>
+
+<!-- LIMBIC -->
+<rect x="260" y="206" width="600" height="92" rx="8" fill="#f1ecf6" stroke="#8973b3" stroke-width="1.8"/>
+<text x="278" y="226" class="tier-label">LIMBIC</text>
+<text x="278" y="246" class="box-title">Evaluation · emotion · memory · attachment</text>
+<text x="278" y="264" class="box-text">"Is this important? Good or bad? More or less?" — primary emotion before categorical emotion.</text>
+<text x="278" y="278" class="box-text">Amygdala (alarm) · hippocampus (binds implicit→explicit memory) · attachment circuits.</text>
+<text x="278" y="292" class="anatomy">Five functions: emotion · motivation · evaluation · memory · attachment</text>
+
+<!-- BRAINSTEM -->
+<rect x="260" y="312" width="600" height="92" rx="8" fill="#fdf3df" stroke="#c19a3b" stroke-width="1.8"/>
+<text x="278" y="332" class="tier-label">BRAINSTEM</text>
+<text x="278" y="352" class="box-title">Defense states — the Four F's</text>
+<text x="278" y="370" class="box-text">FIGHT (rage) · FLIGHT (terror) · FREEZE (sympathetic muscle lock — deer in headlights)</text>
+<text x="278" y="384" class="box-text">FAINT (dorsal vagal collapse). Also arousal/sleep (reticular activating system).</text>
+<text x="278" y="398" class="anatomy">Awareness here = "Am I trying to fight, flee, freeze, or collapse — and why right now?"</text>
+
+<!-- BODY -->
+<rect x="260" y="418" width="600" height="100" rx="8" fill="#eaf4ee" stroke="#3a7d5c" stroke-width="1.8"/>
+<text x="278" y="438" class="tier-label">BODY (proper)</text>
+<text x="278" y="458" class="box-title">Three brains — head, heart, gut</text>
+<text x="278" y="476" class="box-text">Heart-brain (intrinsic cardiac NS) · gut-brain (enteric NS) · microbiome · immune · endocrine.</text>
+<text x="278" y="490" class="box-text">Interoception = the "sixth sense" — feeling the interior (not movement, which is proprioception).</text>
+<text x="278" y="506" class="anatomy">Heart says: love, grief, connection. Gut says: safety, hunger, longing. Comes up before it comes in.</text>
+
+<!-- LEFT GUTTER ARROW (lane: x = 185 to 255) -->
+<line x1="220" y1="510" x2="220" y2="160" class="center-line" stroke="#3a7d5c" marker-end="url(#arrowUp)"/>
+<text x="220" y="540" class="arrow-label" text-anchor="middle" font-weight="700" fill="#3a7d5c">UP</text>
+
+<!-- RIGHT GUTTER ARROW (lane: x = 865 to 935) -->
+<line x1="900" y1="160" x2="900" y2="510" class="center-line" stroke="#5b8db8" stroke-dasharray="5,3" marker-end="url(#arrowDown)"/>
+<text x="900" y="540" class="arrow-label" text-anchor="middle" font-weight="700" fill="#5b8db8">DOWN</text>
+
+<!-- VEN callout — confined to central column width -->
+<rect x="265" y="555" width="590" height="52" rx="6" fill="#fff" stroke="#5b8db8" stroke-width="1" stroke-dasharray="3,2"/>
+<text x="560" y="575" text-anchor="middle" class="box-title">Von Economo neurons (spindle cells)</text>
+<text x="560" y="592" text-anchor="middle" class="box-text">Fast, wide-bore neurons linking anterior insula ↔ anterior cingulate</text>
+<text x="560" y="604" text-anchor="middle" class="anatomy">Only in humans, dolphins, orangutans, elephants — the mirror-test species</text>
+
+<!-- Anne anchor — confined to central column width -->
+<rect x="265" y="620" width="590" height="70" rx="6" fill="#f9f5ec" stroke="#c19a3b" stroke-width="1"/>
+<text x="278" y="640" class="box-title">Image anchor — Anne, the rainy-day patient</text>
+<text x="278" y="658" class="box-text">"Cut off from the neck down." Panic when the Wheel reached her heart.</text>
+<text x="278" y="672" class="box-text">She had to grieve her mother's death first — THEN her heart came online.</text>
+<text x="278" y="686" class="box-text">THEN she could feel her daughters. <tspan font-weight="700">"Being-with-another begins with being-with-self."</tspan></text>
+
+<!-- Bottom legend / mnemonic -->
+<rect x="20" y="710" width="1080" height="68" rx="6" fill="#fafafa" stroke="#cccccc" stroke-width="1"/>
+<text x="560" y="732" text-anchor="middle" class="box-title">Mnemonic: <tspan fill="#3a7d5c">"What's beneath has to be felt, before what's above can decide."</tspan></text>
+<text x="560" y="750" text-anchor="middle" class="box-text">Numb body → rigidity   ·   Flooded body → chaos   ·   Felt body → integration</text>
+<text x="560" y="768" text-anchor="middle" class="arrow-label"><tspan fill="#3a7d5c" font-weight="700">UP arrow</tspan> = interoception via vagus nerve + lamina 1 of spinal cord   ·   <tspan fill="#5b8db8" font-weight="700">DOWN arrow</tspan> = cortical regulation of limbic, brainstem, body</text>
+
+</svg>
