@@ -1,0 +1,145 @@
+<svg viewBox="0 0 880 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, sans-serif">
+<title id="ttl">Identity Integration — MWe (Me + We held together)</title>
+<desc id="desc">A diagram showing integrated identity as a set of concentric rings of belonging (Me at the center, surrounded by We, then All living beings). MWe is the integrated whole. Below: three failure modes — Just Me, Just We, Us-vs-Them. The body is a node in the system, not the whole self.</desc>
+
+<style>
+  .h1 { font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+  .h2 { font-size: 15px; font-weight: 700; fill: #1a1a1a; }
+  .h3 { font-size: 13px; font-weight: 600; fill: #1a1a1a; }
+  .lbl { font-size: 12px; fill: #4a4a4a; }
+  .sm  { font-size: 11px; fill: #6a6a6a; }
+  .card { fill: #ffffff; stroke: #d3cec4; stroke-width: 1; }
+  .ring { fill: none; stroke: #d3cec4; }
+</style>
+
+<rect width="880" height="760" fill="#faf9f5"/>
+
+<text x="440" y="32" text-anchor="middle" class="h1">Identity Integration — "MWe"</text>
+<text x="440" y="54" text-anchor="middle" class="lbl">The self is the system, not just the node. Me + We held together.</text>
+
+<rect x="30" y="80" width="240" height="600" rx="14" class="card"/>
+<text x="150" y="110" text-anchor="middle" class="h2">LAYERS OF "ME"</text>
+<text x="150" y="128" text-anchor="middle" class="sm">all are differentiated</text>
+
+<g transform="translate(50,158)">
+  <text x="0" y="0" class="h3">Biological</text>
+  <text x="0" y="18" class="lbl">• genes &amp; epigenetics</text>
+  <text x="0" y="36" class="lbl">• temperament</text>
+
+  <text x="0" y="64" class="h3">Relational history</text>
+  <text x="0" y="82" class="lbl">• attachment pattern</text>
+  <text x="0" y="100" class="lbl">• family / caregivers</text>
+
+  <text x="0" y="128" class="h3">Gender (3 spectrums)</text>
+  <text x="0" y="146" class="lbl">• gender identity</text>
+  <text x="0" y="164" class="lbl">• gender behavior</text>
+  <text x="0" y="182" class="lbl">• sexual orientation</text>
+
+  <text x="0" y="210" class="h3">Cultural</text>
+  <text x="0" y="228" class="lbl">• race · ethnicity</text>
+  <text x="0" y="246" class="lbl">• religion · nationality</text>
+  <text x="0" y="264" class="lbl">• class · language</text>
+
+  <text x="0" y="292" class="h3">Evolutionary</text>
+  <text x="0" y="310" class="lbl">• human (40,000 y)</text>
+  <text x="0" y="328" class="lbl">• primate (65 M y)</text>
+  <text x="0" y="346" class="lbl">• mammal (200 M y)</text>
+  <text x="0" y="364" class="lbl">• living being (billions y)</text>
+
+  <text x="0" y="408" class="sm" font-style="italic">Each layer matters. Each needs differentiation AND linkage.</text>
+</g>
+
+<g transform="translate(490,330)">
+  <circle r="180" stroke="#d3cec4" stroke-width="1.5" fill="#f8f7f2"/>
+  <text x="0" y="-156" text-anchor="middle" class="h3">ALL</text>
+  <text x="0" y="-140" text-anchor="middle" class="sm">all living beings · the planet</text>
+
+  <circle r="120" stroke="#d3cec4" stroke-width="1.5" fill="#ffffff"/>
+  <text x="0" y="-100" text-anchor="middle" class="h3">WE</text>
+  <text x="0" y="-84" text-anchor="middle" class="sm">family · group · humanity</text>
+
+  <circle r="70" stroke="#c96442" stroke-width="2" fill="#fff"/>
+  <text x="0" y="-46" text-anchor="middle" class="h3" fill="#c96442">ME</text>
+  <text x="0" y="-30" text-anchor="middle" class="sm">this body · this history</text>
+
+  <circle r="28" fill="#c96442"/>
+  <text x="0" y="0" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">MWe</text>
+  <text x="0" y="16" text-anchor="middle" font-size="10" font-weight="600" fill="#ffffff">integrated</text>
+</g>
+
+<text x="490" y="540" text-anchor="middle" class="h2">MWe = Me + We held together</text>
+<text x="490" y="562" text-anchor="middle" class="sm">Differentiated body with its own history · linked to widening circles of belonging</text>
+<text x="490" y="582" text-anchor="middle" class="sm" font-style="italic">"The self is the system, not just the node." (after Einstein's "optical delusion")</text>
+
+<rect x="710" y="80" width="140" height="240" rx="14" class="card"/>
+<text x="780" y="108" text-anchor="middle" class="h2">Two modes</text>
+<text x="780" y="126" text-anchor="middle" class="sm">of being a self</text>
+
+<g transform="translate(720,156)">
+  <text x="0" y="0" class="h3">↓ CONDUIT</text>
+  <text x="0" y="18" class="sm">bottom-up</text>
+  <text x="0" y="34" class="sm">energy &amp; info</text>
+  <text x="0" y="50" class="sm">flowing through</text>
+
+  <text x="0" y="86" class="h3">↑ CONSTRUCTOR</text>
+  <text x="0" y="104" class="sm">top-down</text>
+  <text x="0" y="120" class="sm">thoughts, rules,</text>
+  <text x="0" y="136" class="sm">moral principles</text>
+</g>
+<text x="780" y="306" text-anchor="middle" class="sm" font-style="italic">Integrate both.</text>
+
+<rect x="710" y="340" width="140" height="200" rx="14" class="card"/>
+<text x="780" y="368" text-anchor="middle" class="h2">The path</text>
+<text x="780" y="386" text-anchor="middle" class="sm">to MWe</text>
+
+<g transform="translate(720,410)">
+  <text x="0" y="0" class="sm">• Wheel of</text>
+  <text x="0" y="16" class="sm">  Awareness</text>
+  <text x="0" y="32" class="sm">  4th segment</text>
+  <text x="0" y="48" class="sm">  (connections)</text>
+  <text x="0" y="74" class="sm">• Hub-rest →</text>
+  <text x="0" y="90" class="sm">  Plane of</text>
+  <text x="0" y="106" class="sm">  Possibility</text>
+  <text x="0" y="124" class="sm">• Widens the</text>
+  <text x="0" y="140" class="sm">  circle of self</text>
+</g>
+
+<g transform="translate(30,605)">
+  <text x="0" y="0" class="h2">Three ways identity disintegrates</text>
+</g>
+
+<g transform="translate(30,625)">
+  <rect x="0" y="0" width="265" height="105" rx="10" fill="#f8f7f2" stroke="#d3cec4"/>
+  <text x="14" y="22" class="h3">JUST ME</text>
+  <text x="14" y="42" class="sm" font-style="italic">"the optical delusion of separateness"</text>
+  <text x="14" y="64" class="lbl">Isolated body. No belonging.</text>
+  <text x="14" y="82" class="lbl">Disconnection. Loneliness epidemic.</text>
+  <circle cx="240" cy="60" r="14" fill="#c96442" opacity="0.85"/>
+</g>
+
+<g transform="translate(305,625)">
+  <rect x="0" y="0" width="265" height="105" rx="10" fill="#f8f7f2" stroke="#d3cec4"/>
+  <text x="14" y="22" class="h3">JUST WE</text>
+  <text x="14" y="42" class="sm" font-style="italic">self dissolved in the group</text>
+  <text x="14" y="64" class="lbl">No differentiation. No own voice.</text>
+  <text x="14" y="82" class="lbl">Cult logic. Family enmeshment.</text>
+  <g transform="translate(240,60)">
+    <circle r="14" fill="none" stroke="#c96442" stroke-width="1.5" opacity="0.6"/>
+    <circle r="9" fill="none" stroke="#c96442" stroke-width="1.5" opacity="0.6"/>
+  </g>
+</g>
+
+<g transform="translate(580,625)">
+  <rect x="0" y="0" width="270" height="105" rx="10" fill="#f8f7f2" stroke="#d3cec4"/>
+  <text x="14" y="22" class="h3">US vs THEM</text>
+  <text x="14" y="42" class="sm" font-style="italic">ingroup honored · outgroup dehumanized</text>
+  <text x="14" y="64" class="lbl">Tribalism. Racism. War.</text>
+  <text x="14" y="82" class="lbl">Mortality-salience ramps it up.</text>
+  <g transform="translate(238,60)">
+    <circle cx="-8" cy="0" r="9" fill="#c96442" opacity="0.85"/>
+    <circle cx="14" cy="0" r="9" fill="none" stroke="#c96442" stroke-width="1.5"/>
+    <line x1="-2" y1="-12" x2="8" y2="12" stroke="#1a1a1a" stroke-width="1.5"/>
+  </g>
+</g>
+
+</svg>
