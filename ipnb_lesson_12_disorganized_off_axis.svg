@@ -1,0 +1,91 @@
+<svg viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg" role="img" font-family="ui-sans-serif, system-ui, sans-serif">
+  <title>Disorganized attachment does not map onto the bilateral axis — it fragments vertical integration instead</title>
+  <desc>Avoidant, ambivalent, and secure attachment can be plotted on a horizontal left-mode / right-mode bilateral axis. Disorganized attachment fragments off this axis entirely because the brainstem says FLEE and the limbic system says APPROACH simultaneously — a vertical integration failure that produces dissociation.</desc>
+
+  <style>
+    .h1 { font-size: 22px; font-weight: 700; fill: #111; }
+    .h2 { font-size: 15px; font-weight: 700; fill: #111; }
+    .label { font-size: 13px; fill: #111; }
+    .small { font-size: 11px; fill: #444; }
+    .center { text-anchor: middle; }
+    .tag-l { font-size: 12px; fill: #1e3a8a; font-weight: 600; }
+    .tag-r { font-size: 12px; fill: #7c2d12; font-weight: 600; }
+    .tag-d { font-size: 12px; fill: #7e1d8f; font-weight: 600; }
+    .left-fill { fill: #dbeafe; stroke: #1e3a8a; stroke-width: 1.5; }
+    .right-fill { fill: #fde2cf; stroke: #7c2d12; stroke-width: 1.5; }
+    .secure-fill { fill: #ecfdf5; stroke: #065f46; stroke-width: 1.5; }
+    .disorg-fill { fill: #f3e8ff; stroke: #7e1d8f; stroke-width: 1.5; stroke-dasharray: 4 3; }
+  </style>
+
+  <rect width="900" height="700" fill="#ffffff"/>
+
+  <text x="450" y="32" class="h1 center">Where does Disorganized Attachment go on this chart?</text>
+  <text x="450" y="54" class="small center">Short answer: nowhere. It lives on a different axis.</text>
+
+  <text x="40" y="92" class="h2">1. The Bilateral Axis (L12) — where ORGANIZED insecurity lives</text>
+
+  <line x1="80" y1="170" x2="820" y2="170" stroke="#444" stroke-width="2"/>
+  <text x="80" y="195" class="tag-l">← LEFT MODE flood</text>
+  <text x="820" y="195" class="tag-r" text-anchor="end">RIGHT MODE flood →</text>
+
+  <rect x="80" y="115" width="180" height="40" rx="8" class="left-fill"/>
+  <text x="170" y="139" class="label center" fill="#1e3a8a">Avoidant — rigid</text>
+
+  <rect x="360" y="115" width="180" height="40" rx="8" class="secure-fill"/>
+  <text x="450" y="139" class="label center" fill="#065f46">Secure — integrated</text>
+
+  <rect x="640" y="115" width="180" height="40" rx="8" class="right-fill"/>
+  <text x="730" y="139" class="label center" fill="#7c2d12">Ambivalent — chaotic</text>
+
+  <text x="450" y="223" class="small center">Each of these is an ORGANIZED strategy — the child found one mode that worked and committed.</text>
+
+  <line x1="40" y1="248" x2="860" y2="248" stroke="#ccc" stroke-width="1"/>
+
+  <text x="40" y="278" class="h2">2. The Vertical Axis (preview of L13) — where DISORGANIZED lives</text>
+
+  <rect x="380" y="305" width="140" height="50" rx="6" fill="#f5f5f4" stroke="#57534e" stroke-width="1.5"/>
+  <text x="450" y="335" class="label center">Cortex (meaning, story)</text>
+
+  <rect x="380" y="365" width="140" height="50" rx="6" fill="#fef3c7" stroke="#a16207" stroke-width="1.5"/>
+  <text x="450" y="388" class="label center" fill="#a16207">Limbic system</text>
+  <text x="450" y="405" class="small center" fill="#a16207">attachment → APPROACH</text>
+
+  <rect x="380" y="425" width="140" height="50" rx="6" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5"/>
+  <text x="450" y="448" class="label center" fill="#b91c1c">Brainstem (defense)</text>
+  <text x="450" y="465" class="small center" fill="#b91c1c">threat → FLEE</text>
+
+  <line x1="345" y1="390" x2="375" y2="390" stroke="#a16207" stroke-width="2.5"/>
+  <polygon points="375,390 365,385 365,395" fill="#a16207"/>
+  <text x="220" y="380" class="tag-d">"Go toward the parent</text>
+  <text x="220" y="395" class="tag-d">to feel safe."</text>
+
+  <line x1="555" y1="450" x2="525" y2="450" stroke="#b91c1c" stroke-width="2.5"/>
+  <polygon points="525,450 535,445 535,455" fill="#b91c1c"/>
+  <text x="565" y="440" class="tag-d">"Run from the parent</text>
+  <text x="565" y="455" class="tag-d">because they ARE the threat."</text>
+
+  <rect x="600" y="305" width="240" height="55" rx="8" class="disorg-fill"/>
+  <text x="720" y="328" class="h2 center" fill="#7e1d8f">Mary Main's "fright</text>
+  <text x="720" y="350" class="h2 center" fill="#7e1d8f">without solution"</text>
+
+  <rect x="60" y="500" width="780" height="170" rx="10" class="disorg-fill"/>
+  <text x="450" y="525" class="h2 center" fill="#7e1d8f">The body cannot do both. So integration itself fragments.</text>
+
+  <text x="80" y="555" class="tag-d">→ Dissociation</text>
+  <text x="80" y="573" class="small">Derealization · depersonalization · "I'm watching myself from above"</text>
+
+  <text x="80" y="598" class="tag-d">→ Memory fragmentation</text>
+  <text x="80" y="616" class="small">Can't access episodic memory — but it's not just absent (avoidant), it's <tspan font-style="italic">walled off</tspan></text>
+
+  <text x="80" y="641" class="tag-d">→ State fragmentation</text>
+  <text x="80" y="659" class="small">At the extreme: DID. The states never integrated in the first place.</text>
+
+  <text x="460" y="555" class="tag-d">→ Vertical disconnection</text>
+  <text x="460" y="573" class="small">Cortex cannot regulate limbic/brainstem firing — that linkage never formed safely</text>
+
+  <text x="460" y="598" class="tag-d">→ Looks bilateral, isn't</text>
+  <text x="460" y="616" class="small">Can mimic left-mode shutdown OR right-mode flood — but the mechanism is different</text>
+
+  <text x="460" y="641" class="tag-d">→ Clinical implication</text>
+  <text x="460" y="659" class="small">Name-it-to-tame-it (L12) is necessary but NOT sufficient — need vertical work (L13)</text>
+</svg>

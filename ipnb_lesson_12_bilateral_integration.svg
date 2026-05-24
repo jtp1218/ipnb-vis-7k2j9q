@@ -1,0 +1,114 @@
+<svg viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg" role="img" font-family="ui-sans-serif, system-ui, sans-serif">
+  <title>Bilateral Integration — Left Mode and Right Mode connected through the corpus callosum</title>
+  <desc>Comparison of left-mode and right-mode processing characteristics, with the corpus callosum as the integrative bridge. Attachment crosswalks shown beneath.</desc>
+
+  <style>
+    .h1 { font-size: 22px; font-weight: 700; fill: #111; }
+    .h2 { font-size: 15px; font-weight: 700; fill: #111; }
+    .label { font-size: 13px; fill: #111; }
+    .small { font-size: 11px; fill: #444; }
+    .tag-l { font-size: 12px; fill: #1e3a8a; font-weight: 600; }
+    .tag-r { font-size: 12px; fill: #7c2d12; font-weight: 600; }
+    .center { text-anchor: middle; }
+    .left-fill { fill: #dbeafe; stroke: #1e3a8a; stroke-width: 1.5; }
+    .right-fill { fill: #fde2cf; stroke: #7c2d12; stroke-width: 1.5; }
+    .bridge-fill { fill: #f5f5f4; stroke: #57534e; stroke-width: 1.5; stroke-dasharray: 4 3; }
+    .crosswalk-fill { fill: #fafaf9; stroke: #a8a29e; stroke-width: 1; }
+  </style>
+
+  <rect width="900" height="640" fill="#ffffff"/>
+
+  <text x="450" y="32" class="h1 center">Bilateral Integration — Two Modes, One Mind</text>
+  <text x="450" y="54" class="small center">Distinct but linked. Not "left brain / right brain" — modes of processing.</text>
+
+  <rect x="40" y="80" width="340" height="320" rx="12" class="left-fill"/>
+  <text x="210" y="108" class="h2 center" fill="#1e3a8a">LEFT MODE</text>
+  <text x="210" y="126" class="small center">develops AFTER age 2 · "Why?" arrives</text>
+
+  <text x="60" y="160" class="tag-l">The 5 L's (mnemonic)</text>
+  <text x="60" y="182" class="label">• Linguistic — words, semantics</text>
+  <text x="60" y="202" class="label">• Linear — one then the other</text>
+  <text x="60" y="222" class="label">• Logical — cause → effect</text>
+  <text x="60" y="242" class="label">• Literal — letter of the law</text>
+  <text x="60" y="262" class="label">• List-making — analyze, break down</text>
+
+  <text x="60" y="294" class="tag-l">Also:</text>
+  <text x="60" y="314" class="label">Digital (yes/no, right/wrong)</text>
+  <text x="60" y="332" class="label">Sees text, not context</text>
+  <text x="60" y="350" class="label">Factual / semantic memory</text>
+  <text x="60" y="368" class="label">Destination-focused</text>
+  <text x="60" y="386" class="label">Drives toward certainty</text>
+
+  <rect x="520" y="80" width="340" height="320" rx="12" class="right-fill"/>
+  <text x="690" y="108" class="h2 center" fill="#7c2d12">RIGHT MODE</text>
+  <text x="690" y="126" class="small center">develops FIRST · dominant the first 2 years</text>
+
+  <text x="540" y="160" class="tag-r">The 7 Nonverbal Signals</text>
+  <text x="540" y="182" class="label">• Eye contact</text>
+  <text x="540" y="202" class="label">• Facial expression</text>
+  <text x="540" y="222" class="label">• Tone of voice</text>
+  <text x="540" y="242" class="label">• Posture</text>
+  <text x="540" y="262" class="label">• Gestures</text>
+  <text x="540" y="278" class="label">• Timing</text>
+  <text x="540" y="294" class="label">• Intensity</text>
+
+  <text x="540" y="322" class="tag-r">Also:</text>
+  <text x="540" y="340" class="label">Holistic, gestalt, context</text>
+  <text x="540" y="358" class="label">Analogic (spectrum, shades)</text>
+  <text x="540" y="376" class="label">Body / interoception · emotion</text>
+  <text x="540" y="394" class="label">Autobiographical (episodic) memory</text>
+
+  <rect x="390" y="200" width="120" height="120" rx="60" class="bridge-fill"/>
+  <text x="450" y="226" class="h2 center" fill="#57534e">Corpus</text>
+  <text x="450" y="246" class="h2 center" fill="#57534e">Callosum</text>
+  <text x="450" y="272" class="small center">mutually</text>
+  <text x="450" y="286" class="small center">inhibitory</text>
+  <text x="450" y="306" class="small center">+ linking</text>
+
+  <defs>
+    <marker id="arrL" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1e3a8a"/>
+    </marker>
+    <marker id="arrR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7c2d12"/>
+    </marker>
+    <marker id="arrL2" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1e3a8a"/>
+    </marker>
+    <marker id="arrR2" viewBox="0 0 10 10" refX="2" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7c2d12"/>
+    </marker>
+  </defs>
+
+  <line x1="380" y1="240" x2="392" y2="240" stroke="#1e3a8a" stroke-width="2" marker-end="url(#arrL)"/>
+  <line x1="520" y1="240" x2="508" y2="240" stroke="#7c2d12" stroke-width="2" marker-end="url(#arrR)"/>
+  <line x1="380" y1="280" x2="392" y2="280" stroke="#7c2d12" stroke-width="2" marker-start="url(#arrR2)"/>
+  <line x1="520" y1="280" x2="508" y2="280" stroke="#1e3a8a" stroke-width="2" marker-start="url(#arrL2)"/>
+
+  <rect x="290" y="420" width="320" height="60" rx="8" fill="#ecfdf5" stroke="#065f46" stroke-width="1.5"/>
+  <text x="450" y="445" class="h2 center" fill="#065f46">Bilateral Integration</text>
+  <text x="450" y="467" class="label center" fill="#065f46">= "Name it to tame it" (left puts words on right's feelings)</text>
+
+  <text x="450" y="510" class="h2 center">Attachment Crosswalk → which mode floods?</text>
+
+  <rect x="40" y="525" width="260" height="95" rx="8" class="crosswalk-fill"/>
+  <text x="60" y="548" class="tag-l">Avoidant attachment</text>
+  <text x="60" y="568" class="label">"I don't need anybody."</text>
+  <text x="60" y="586" class="small">Left mode = sanctuary.</text>
+  <text x="60" y="602" class="small">Body feelings shut down.</text>
+  <text x="60" y="616" class="small">Rigidity ← impaired integration</text>
+
+  <rect x="320" y="525" width="260" height="95" rx="8" class="crosswalk-fill"/>
+  <text x="340" y="548" class="tag-r">Ambivalent attachment</text>
+  <text x="340" y="568" class="label">"I'm flooded, please see me."</text>
+  <text x="340" y="586" class="small">Right mode overactivated.</text>
+  <text x="340" y="602" class="small">Longing + agitation pour in.</text>
+  <text x="340" y="616" class="small">Chaos ← impaired integration</text>
+
+  <rect x="600" y="525" width="260" height="95" rx="8" fill="#ecfdf5" stroke="#065f46" stroke-width="1"/>
+  <text x="620" y="548" class="h2" fill="#065f46">Secure / Integrated</text>
+  <text x="620" y="568" class="label">Both modes available.</text>
+  <text x="620" y="586" class="small">Body sensed, AND named.</text>
+  <text x="620" y="602" class="small">Empathy → compassion.</text>
+  <text x="620" y="616" class="small">FACES flow restored.</text>
+</svg>
