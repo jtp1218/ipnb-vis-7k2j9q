@@ -1,0 +1,92 @@
+<svg viewBox="0 0 880 820" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, sans-serif">
+<title id="ttl">L23 — EPC Course Architecture: 7-Module IPNB Crosswalk</title>
+<desc id="desc">The proposed 7-module architecture for Equipping Pastors to Counsel, synthesizing IPNB capture work. Modules: Foundations, Theological Grounding, Thompson, Pastoral Care Across 9 Domains, Wider Christian Voices, Specialized Topics, and Capstone.</desc>
+
+<style>
+  .h1 { font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+  .h2 { font-size: 14px; font-weight: 700; fill: #1a1a1a; }
+  .h3 { font-size: 11px; font-weight: 600; fill: #4a4a4a; }
+  .lbl { font-size: 11px; fill: #4a4a4a; }
+  .sm  { font-size: 10px; fill: #6a6a6a; }
+  .read { font-size: 10px; fill: #c96442; font-weight: 600; }
+  .card { fill: #f8f7f2; stroke: #d3cec4; stroke-width: 1; }
+  .accent { fill: #c96442; }
+</style>
+
+<rect width="880" height="820" fill="#faf9f5"/>
+
+<text x="440" y="32" text-anchor="middle" class="h1">Equipping Pastors to Counsel — Course Architecture</text>
+<text x="440" y="54" text-anchor="middle" class="lbl">7 modules · ~40–50 sessions · synthesizes all IPNB pastoral captures (L11–L22)</text>
+
+<g transform="translate(30, 80)">
+  <rect width="820" height="98" rx="10" class="card"/>
+  <circle cx="36" cy="48" r="20" class="accent"/>
+  <text x="36" y="54" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">1</text>
+  <text x="72" y="26" class="h2">Foundations of Pastoral Care (PART + IPNB)</text>
+  <text x="72" y="44" class="sm">4–5 sessions · the pastor's nervous system as the primary instrument</text>
+  <text x="72" y="64" class="lbl">What is the mind · PART operationalized · the 9 domains overview · Norcross's relational factors</text>
+  <text x="72" y="84" class="read">📖 Siegel — Pocket Guide to IPNB · Norcross — Psychotherapy Relationships That Work</text>
+</g>
+
+<g transform="translate(30, 188)">
+  <rect width="820" height="98" rx="10" class="card"/>
+  <circle cx="36" cy="48" r="20" class="accent"/>
+  <text x="36" y="54" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">2</text>
+  <text x="72" y="26" class="h2">Theological Grounding (Trinity · Imago Dei · sanctification)</text>
+  <text x="72" y="44" class="sm">4–5 sessions · the structural theological foundation under IPNB</text>
+  <text x="72" y="64" class="lbl">Trinity + perichoresis · Imago Dei = MWe · 6 Interrogatives in Christian frame · 3 divergences · 8 synthesis rules</text>
+  <text x="72" y="84" class="read">📖 Patristic Trinity texts · Scripture core (Gen 1:27 · John 17:21 · 2 Cor 3:18)</text>
+</g>
+
+<g transform="translate(30, 296)">
+  <rect width="820" height="108" rx="10" class="card"/>
+  <circle cx="36" cy="54" r="20" class="accent"/>
+  <text x="36" y="60" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">3</text>
+  <text x="72" y="26" class="h2">The Thompson Module — Shame Curriculum + Confessional Group Facilitation</text>
+  <text x="72" y="44" class="sm">6–7 sessions · the operational practice; possibly a certificate sub-program</text>
+  <text x="72" y="64" class="lbl">Shame as master story · confession as antidote · 4-pillar architecture · 5 pastoral failure modes · group facilitation skills · when to refer</text>
+  <text x="72" y="84" class="read">📖 Thompson — Soul of Shame + Anatomy of the Soul (REQUIRED) · Soul of Desire (group leaders)</text>
+  <text x="72" y="98" class="sm">→ Center for Being Known training as recommended continuing-ed</text>
+</g>
+
+<g transform="translate(30, 414)">
+  <rect width="820" height="118" rx="10" class="card"/>
+  <circle cx="36" cy="59" r="20" class="accent"/>
+  <text x="36" y="65" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">4</text>
+  <text x="72" y="26" class="h2">Pastoral Care Across the 9 IPNB Domains</text>
+  <text x="72" y="44" class="sm">8–10 sessions · one per major domain with theology + practice + cases</text>
+  <text x="72" y="64" class="lbl">L15 narrative pastoral work · L16 family-of-self at the gospel table · L17 PART operationalized</text>
+  <text x="72" y="80" class="lbl">L18 Holy Saturday care + Incarnation · L19 baptismal identity counseling · L20 sanctification dashboard</text>
+  <text x="72" y="100" class="read">📖 L11–L20 IPNB captures synthesized · supplemented by Siegel — Pocket Guide</text>
+</g>
+
+<g transform="translate(30, 542)">
+  <rect width="820" height="98" rx="10" class="card"/>
+  <circle cx="36" cy="48" r="20" class="accent"/>
+  <text x="36" y="54" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">5</text>
+  <text x="72" y="26" class="h2">The Wider Christian Voices — Bonhoeffer · Smith · Peterson · Robinson</text>
+  <text x="72" y="44" class="sm">4–5 sessions · the broader theological field beyond Thompson</text>
+  <text x="72" y="64" class="lbl">Bonhoeffer — Life Together + Day Together/Alone · Smith — liturgy · Peterson — long obedience · Robinson — narrative</text>
+  <text x="72" y="84" class="read">📖 Bonhoeffer — Life Together (REQUIRED) · Smith — You Are What You Love · Peterson — Long Obedience</text>
+</g>
+
+<g transform="translate(30, 650)">
+  <rect width="820" height="108" rx="10" class="card"/>
+  <circle cx="36" cy="54" r="20" class="accent"/>
+  <text x="36" y="60" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">6</text>
+  <text x="72" y="26" class="h2">Specialized Pastoral Counseling Topics</text>
+  <text x="72" y="44" class="sm">6–8 sessions · the topics every pastor encounters but most are untrained for</text>
+  <text x="72" y="64" class="lbl">Grief + end-of-life (Holy Saturday) · marriage crisis (3-systems romance) · betrayal trauma · scrupulosity (Sandy framework)</text>
+  <text x="72" y="80" class="lbl">Gender/sexuality counseling with the biology · anxiety/depression/OCD-spectrum · the referral filter</text>
+  <text x="72" y="100" class="read">📖 Case-based · Siegel transcripts · Thompson chapters by topic</text>
+</g>
+
+<g transform="translate(30, 768)">
+  <rect width="820" height="44" rx="10" class="card"/>
+  <circle cx="36" cy="22" r="16" class="accent"/>
+  <text x="36" y="27" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">7</text>
+  <text x="72" y="20" class="h2">Capstone — Pastor's Own Integration Commitment</text>
+  <text x="72" y="36" class="sm">2–3 sessions · self-care as professional ethics · own confessional community · long-arc commitments</text>
+</g>
+
+</svg>
