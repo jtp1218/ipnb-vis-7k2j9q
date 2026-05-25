@@ -1,0 +1,215 @@
+<svg viewBox="0 0 880 1020" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, sans-serif">
+<title id="ttl">L24 — Sure-Footed Recovery: Addict's Companion Book Architecture</title>
+<desc id="desc">Architecture for Tal Prince's "Sure-Footed Recovery" — the addict's recovery companion to Teresa Prince's "Sure-Footed: Walking Through Betrayal." Author posture: fellow-traveler (addiction is Tal's own story). Theological voice: Brown + Manning as the grace pair; Allender for wound; DeGroat for religious-system formation; Peterson for pace. Architecture: Thompson's 4 pillars (Shame, Story, Confession, Community) preserved; existing SFR frameworks (4 Neuropathways, PAST, BET, Drama Triangle, 4Rs) deployed as operational tools within; closing 5th R: Reach Back.</desc>
+
+<style>
+  .h1 { font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+  .h2 { font-size: 13px; font-weight: 700; fill: #c96442; }
+  .h3 { font-size: 10px; font-weight: 700; fill: #4a4a4a; }
+  .lbl { font-size: 11px; fill: #4a4a4a; }
+  .sm  { font-size: 10px; fill: #4a4a4a; }
+  .xs  { font-size: 9px; fill: #6a6a6a; }
+  .voice { font-size: 9px; fill: #c96442; font-weight: 600; }
+  .card { fill: #f8f7f2; stroke: #d3cec4; stroke-width: 1; }
+  .grace { fill: #ecdcd0; stroke: #c96442; stroke-width: 1.5; }
+  .benediction { font-size: 13px; font-weight: 700; fill: #1a1a1a; font-style: italic; }
+</style>
+
+<rect width="880" height="1020" fill="#faf9f5"/>
+
+<!-- Title -->
+<text x="440" y="32" text-anchor="middle" class="h1">Sure-Footed Recovery — Addict's Companion</text>
+<text x="440" y="52" text-anchor="middle" class="lbl">Tal's companion-book to Teresa's <tspan font-style="italic">Sure-Footed: Walking Through Betrayal</tspan> · one Sure-Footed brand, two volumes</text>
+
+<!-- Author posture banner -->
+<g transform="translate(30, 72)">
+  <rect width="820" height="50" rx="8" fill="#1a1a1a"/>
+  <text x="20" y="22" font-size="13" font-weight="700" fill="#faf9f5">AUTHOR POSTURE · Fellow-traveler</text>
+  <text x="20" y="40" font-size="11" fill="#d3cec4" font-style="italic">"Addiction is my own story. I write as a man in recovery talking to another man in recovery."</text>
+</g>
+
+<!-- Front Matter band -->
+<g transform="translate(30, 134)">
+  <rect width="820" height="50" rx="8" fill="#f4e8e0" stroke="#d3cec4" stroke-width="1"/>
+  <text x="20" y="22" font-size="13" font-weight="700" fill="#1a1a1a">FRONT MATTER · "This Is Going to Take Years — and This Book Is for Failures"</text>
+  <text x="20" y="40" class="sm">Peterson (long-arc) + Brown ("if you have it together, put this down") + Manning (Abba's patience)</text>
+</g>
+
+<!-- Section header for pillars -->
+<text x="440" y="208" text-anchor="middle" font-size="11" font-style="italic" fill="#6a6a6a">==  THOMPSON'S 4 PILLARS (architecture preserved · voice replaced with Tal's eight) ==</text>
+
+<!-- PILLAR 1 — SHAME -->
+<g transform="translate(30, 226)">
+  <rect width="195" height="380" rx="10" class="card"/>
+  <text x="98" y="26" text-anchor="middle" class="h2">1 · SHAME</text>
+  <text x="98" y="42" text-anchor="middle" class="xs" font-style="italic">the addict's bedrock</text>
+
+  <text x="14" y="68" class="h3">CHAPTERS</text>
+  <text x="14" y="86" class="sm">• Voice of Addict-Shame</text>
+  <text x="14" y="100" class="sm">• Wounds Underneath</text>
+  <text x="14" y="114" class="sm" font-size="9">  (Allender · CSA subtext)</text>
+  <text x="14" y="128" class="sm">• Church That Taught</text>
+  <text x="14" y="139" class="sm" font-size="9">  You to Hide</text>
+  <text x="14" y="153" class="sm">• Gospel for Failures</text>
+  <text x="14" y="167" class="sm">• Abba in the Mess</text>
+
+  <text x="14" y="195" class="h3">VOICES</text>
+  <text x="14" y="211" class="voice">Brown — gospel certainty</text>
+  <text x="14" y="223" class="voice">Allender — wound-honesty</text>
+  <text x="14" y="235" class="voice">Manning — Abba refrain</text>
+  <text x="14" y="247" class="voice">DeGroat — system formation</text>
+
+  <text x="14" y="275" class="h3">IPNB DEPLOYED</text>
+  <text x="14" y="291" class="sm">L13 — vertical signal</text>
+  <text x="14" y="305" class="sm">L14 — implicit engrams</text>
+  <text x="14" y="319" class="sm">L15 — master narrative</text>
+
+  <text x="14" y="347" class="h3">SFR TOOLS</text>
+  <text x="14" y="363" class="sm">PAST cycle · 4 Neuropathways</text>
+  <text x="14" y="375" class="sm">BET (3 streams)</text>
+</g>
+
+<!-- PILLAR 2 — STORY -->
+<g transform="translate(235, 226)">
+  <rect width="195" height="380" rx="10" class="card"/>
+  <text x="98" y="26" text-anchor="middle" class="h2">2 · STORY</text>
+  <text x="98" y="42" text-anchor="middle" class="xs" font-style="italic">re-author the fragments</text>
+
+  <text x="14" y="68" class="h3">CHAPTERS</text>
+  <text x="14" y="86" class="sm">• Story the Addiction</text>
+  <text x="14" y="97" class="sm" font-size="9">  Was Telling You</text>
+  <text x="14" y="111" class="sm">• Using-Self &amp; Sober-Self</text>
+  <text x="14" y="122" class="sm" font-size="9">  Meet at Gospel Table</text>
+  <text x="14" y="136" class="sm">• What Is Your Real Name?</text>
+  <text x="14" y="147" class="sm" font-size="9">  (Beloved · Not Addict)</text>
+  <text x="14" y="161" class="sm">• 5 Layers Addiction</text>
+  <text x="14" y="172" class="sm" font-size="9">  Wounded You</text>
+  <text x="14" y="186" class="sm">• Re-Authoring With</text>
+  <text x="14" y="197" class="sm" font-size="9">  God as Author</text>
+
+  <text x="14" y="225" class="h3">VOICES</text>
+  <text x="14" y="241" class="voice">Allender — To Be Told</text>
+  <text x="14" y="253" class="voice">Manning — Abba's Child</text>
+  <text x="14" y="265" class="voice">DeGroat — Wholeheartedness</text>
+  <text x="14" y="277" class="voice">Brown — identity certainty</text>
+
+  <text x="14" y="305" class="h3">IPNB DEPLOYED</text>
+  <text x="14" y="321" class="sm">L15 — coherent narrative</text>
+  <text x="14" y="335" class="sm">L16 — parts at table</text>
+  <text x="14" y="349" class="sm">L19 — 5-layer identity</text>
+
+  <text x="14" y="377" class="h3">SFR TOOLS</text>
+  <text x="14" y="389" class="sm" font-size="9">BET · 4 NP · Drama Triangle</text>
+</g>
+
+<!-- PILLAR 3 — CONFESSION -->
+<g transform="translate(440, 226)">
+  <rect width="195" height="380" rx="10" class="card"/>
+  <text x="98" y="26" text-anchor="middle" class="h2">3 · CONFESSION</text>
+  <text x="98" y="42" text-anchor="middle" class="xs" font-style="italic">the addict's home territory</text>
+
+  <text x="14" y="68" class="h3">CHAPTERS</text>
+  <text x="14" y="86" class="sm">• Step 5 Was Doing This</text>
+  <text x="14" y="97" class="sm" font-size="9">  Before Thompson Named It</text>
+  <text x="14" y="111" class="sm">• Sponsor as First Witness</text>
+  <text x="14" y="125" class="sm">• Group Confession &amp;</text>
+  <text x="14" y="136" class="sm" font-size="9">  Your Nervous System</text>
+  <text x="14" y="150" class="sm">• Disclosure to Spouse</text>
+  <text x="14" y="161" class="sm" font-size="9">  (therapist-mediated)</text>
+  <text x="14" y="175" class="sm">• Stop Pretending — Brown</text>
+  <text x="14" y="189" class="sm">• Manning's Paradox</text>
+
+  <text x="14" y="217" class="h3">VOICES</text>
+  <text x="14" y="233" class="voice">Brown — "stop pretending"</text>
+  <text x="14" y="245" class="voice">Allender — one safe first</text>
+  <text x="14" y="257" class="voice">Manning — paradox</text>
+  <text x="14" y="269" class="voice">DeGroat — safety discern</text>
+
+  <text x="14" y="297" class="h3">IPNB DEPLOYED</text>
+  <text x="14" y="313" class="sm">L14 — reconsolidation</text>
+  <text x="14" y="327" class="sm">L17 — PART max stakes</text>
+  <text x="14" y="341" class="sm">L21 — Thompson arch</text>
+
+  <text x="14" y="369" class="h3">SFR TOOLS · 4Rs DEPLOY</text>
+  <text x="14" y="381" class="sm" font-size="9">Reality · Reflection · Reauthor · Reconnect</text>
+</g>
+
+<!-- PILLAR 4 — COMMUNITY -->
+<g transform="translate(645, 226)">
+  <rect width="195" height="380" rx="10" class="card"/>
+  <text x="98" y="26" text-anchor="middle" class="h2">4 · COMMUNITY</text>
+  <text x="98" y="42" text-anchor="middle" class="xs" font-style="italic">recovery's home</text>
+
+  <text x="14" y="68" class="h3">CHAPTERS</text>
+  <text x="14" y="86" class="sm">• Hill Less Steep With</text>
+  <text x="14" y="97" class="sm" font-size="9">  Someone Next to You</text>
+  <text x="14" y="111" class="sm">• Finding Your Sponsor</text>
+  <text x="14" y="125" class="sm">• Recovery Group as</text>
+  <text x="14" y="136" class="sm" font-size="9">  Regulating Field</text>
+  <text x="14" y="150" class="sm">• Church That Is Safe</text>
+  <text x="14" y="161" class="sm" font-size="9">  Enough to Be Honest</text>
+  <text x="14" y="175" class="sm">• Red Flags in Christian</text>
+  <text x="14" y="186" class="sm" font-size="9">  Recovery Communities</text>
+  <text x="14" y="200" class="sm">• Ragamuffin Community</text>
+
+  <text x="14" y="228" class="h3">VOICES</text>
+  <text x="14" y="244" class="voice">DeGroat — discernment</text>
+  <text x="14" y="256" class="voice">Manning — ragamuffin</text>
+  <text x="14" y="268" class="voice">Brown — blunt church</text>
+
+  <text x="14" y="296" class="h3">IPNB DEPLOYED</text>
+  <text x="14" y="312" class="sm">L17 — WE-state · Coan</text>
+  <text x="14" y="326" class="sm">L20 — transpirational</text>
+
+  <text x="14" y="354" class="h3">SFR TOOLS</text>
+  <text x="14" y="370" class="sm">Drama Triangle resolution</text>
+  <text x="14" y="382" class="sm">Sponsor / mentor model</text>
+</g>
+
+<!-- Closing Reach Back band -->
+<g transform="translate(30, 626)">
+  <rect width="820" height="55" rx="8" fill="#f4e8e0" stroke="#d3cec4" stroke-width="1"/>
+  <text x="20" y="22" font-size="13" font-weight="700" fill="#1a1a1a">CLOSING · The 5th R — REACH BACK · "Being the Man Who Walks the Next One Through"</text>
+  <text x="20" y="40" class="sm">Step 12 (transpirational integration L20) · NEW SFR framework extension · Brown + Manning + Allender voices</text>
+  <text x="20" y="54" class="sm" font-style="italic">==  4Rs (Reality · Reflection · Reauthor · Reconnect) → 5Rs by adding Reach Back  ==</text>
+</g>
+
+<!-- Theological Voice — the EIGHT (grace pair highlighted) -->
+<text x="440" y="708" text-anchor="middle" font-size="12" font-style="italic" fill="#1a1a1a">==  THE THEOLOGICAL VOICE — Tal's eight conversation partners (grace pair primary)  ==</text>
+
+<!-- Grace pair (highlighted) -->
+<g transform="translate(30, 722)">
+  <rect width="404" height="72" rx="8" class="grace"/>
+  <text x="14" y="22" font-size="12" font-weight="700" fill="#c96442">GRACE PAIR (primary)</text>
+  <text x="14" y="42" class="sm"><tspan font-weight="700">STEVE BROWN</tspan> — theological gravity · Reformed-Baptist · ==**personal friend of Tal**==</text>
+  <text x="14" y="54" class="xs">Scandalous Freedom · Three Free Sins · "stop pretending; gospel for failures"</text>
+  <text x="14" y="66" class="sm"><tspan font-weight="700">BRENNAN MANNING</tspan> — lyrical permission · Abba's Child · ragamuffin · own alcoholism</text>
+</g>
+
+<!-- Wound + System anchors -->
+<g transform="translate(446, 722)">
+  <rect width="404" height="72" rx="8" class="card"/>
+  <text x="14" y="22" font-size="12" font-weight="700" fill="#c96442">WOUND + SYSTEM ANCHORS</text>
+  <text x="14" y="42" class="sm"><tspan font-weight="700">DAN ALLENDER</tspan> — wound-honesty · The Wounded Heart · To Be Told</text>
+  <text x="14" y="54" class="sm"><tspan font-weight="700">CHUCK DeGROAT</tspan> — religious-system formation · Wholeheartedness</text>
+  <text x="14" y="66" class="xs">Allender: the wounds addiction medicates · DeGroat: the church culture that taught hiding</text>
+</g>
+
+<!-- Adjacent voices band -->
+<g transform="translate(30, 806)">
+  <rect width="820" height="68" rx="8" class="card"/>
+  <text x="14" y="22" font-size="12" font-weight="700" fill="#c96442">SUPPORTING VOICES (deployed contextually)</text>
+  <text x="14" y="42" class="sm"><tspan font-weight="700">Peterson</tspan> long-arc · <tspan font-weight="700">Keller</tspan> Counterfeit Gods + Prodigal God · <tspan font-weight="700">Thielicke</tspan> suffering-aware pastoral · <tspan font-weight="700">Luther</tspan> simul justus et peccator · <tspan font-weight="700">Grudem</tspan> doctrinal spine</text>
+  <text x="14" y="60" class="xs" font-style="italic">Adjacent (further reading only): Thompson (architecture-only) · Bonhoeffer · Smith · Robinson · Carnes (clinical)</text>
+</g>
+
+<!-- Closing benediction -->
+<g transform="translate(0, 902)">
+  <rect x="30" y="0" width="820" height="98" rx="8" fill="#1a1a1a"/>
+  <text x="440" y="30" text-anchor="middle" class="benediction" fill="#faf9f5">"I would not undo this — but I would not have arrived here without it."</text>
+  <text x="440" y="54" text-anchor="middle" font-size="11" fill="#d3cec4">Two volumes under one Sure-Footed brand · Teresa's book is for the betrayed partner · Mine is for the addict in recovery</text>
+  <text x="440" y="74" text-anchor="middle" font-size="10" font-style="italic" fill="#d3cec4">Architecture: Thompson's 4 pillars · Voice: Tal's eight conversation partners · Posture: fellow-traveler</text>
+  <text x="440" y="90" text-anchor="middle" font-size="9" fill="#a0978c">Existing SFR frameworks (4 Neuropathways · PAST · BET · Drama Triangle · 4Rs) preserved as operational tools · NEW: 5th R Reach Back</text>
+</g>
+
+</svg>
