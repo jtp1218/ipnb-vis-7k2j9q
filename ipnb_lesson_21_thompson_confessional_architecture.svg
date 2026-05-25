@@ -1,0 +1,83 @@
+<svg viewBox="0 0 880 680" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, sans-serif">
+<title id="ttl">Curt Thompson — Anatomy of the Soul as IPNB in Christian Frame</title>
+<desc id="desc">A four-quadrant diagram showing Thompson's confessional architecture. At the center: BEING KNOWN — the gospel claim. Four surrounding pillars: SHAME, CONFESSION, STORY, and COMMUNITY. Each pillar maps to specific IPNB domains.</desc>
+
+<style>
+  .h1 { font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+  .h2 { font-size: 18px; font-weight: 700; fill: #c96442; }
+  .h3 { font-size: 13px; font-weight: 600; fill: #1a1a1a; }
+  .lbl { font-size: 12px; fill: #4a4a4a; }
+  .sm  { font-size: 11px; fill: #6a6a6a; }
+  .xs  { font-size: 10px; fill: #c96442; }
+  .card { fill: #f8f7f2; stroke: #d3cec4; stroke-width: 1; }
+</style>
+
+<rect width="880" height="680" fill="#faf9f5"/>
+
+<text x="440" y="32" text-anchor="middle" class="h1">Curt Thompson's Confessional Architecture</text>
+<text x="440" y="54" text-anchor="middle" class="lbl">Anatomy of the Soul + Soul of Shame = IPNB in Christian frame</text>
+
+<g stroke="#d3cec4" stroke-width="1" stroke-dasharray="3 5" opacity="0.5">
+  <line x1="375" y1="288" x2="290" y2="180"/>
+  <line x1="505" y1="288" x2="590" y2="180"/>
+  <line x1="375" y1="388" x2="290" y2="496"/>
+  <line x1="505" y1="388" x2="590" y2="496"/>
+</g>
+
+<g transform="translate(440, 338)">
+  <circle r="78" fill="#c96442"/>
+  <text y="-18" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">BEING</text>
+  <text y="2" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">KNOWN</text>
+  <text y="22" text-anchor="middle" font-size="9" font-style="italic" fill="#ffffff" opacity="0.92">"to be known is to be loved;</text>
+  <text y="34" text-anchor="middle" font-size="9" font-style="italic" fill="#ffffff" opacity="0.92">to be loved is to be known"</text>
+  <text y="52" text-anchor="middle" font-size="9" fill="#ffffff" opacity="0.85">→ MWe in covenantal frame</text>
+</g>
+
+<g transform="translate(30, 100)">
+  <rect width="260" height="160" rx="12" class="card"/>
+  <text x="20" y="32" class="h2">SHAME</text>
+  <text x="20" y="50" class="sm" font-style="italic">the disintegrative master story</text>
+  <text x="20" y="78" class="lbl">"the master story that wants</text>
+  <text x="20" y="94" class="lbl">to disintegrate us"</text>
+  <text x="20" y="118" class="sm" font-style="italic">"if they really knew you,</text>
+  <text x="20" y="132" class="sm" font-style="italic">they wouldn't love you"</text>
+  <text x="20" y="152" class="xs">→ disrupts L11 · L15 · L19</text>
+</g>
+
+<g transform="translate(590, 100)">
+  <rect width="260" height="160" rx="12" class="card"/>
+  <text x="20" y="32" class="h2">CONFESSION</text>
+  <text x="20" y="50" class="sm" font-style="italic">the practice of being known</text>
+  <text x="20" y="78" class="lbl">vulnerability + community</text>
+  <text x="20" y="94" class="lbl">without rescue or fix</text>
+  <text x="20" y="118" class="sm" font-style="italic">interrupts shame's loop</text>
+  <text x="20" y="132" class="sm" font-style="italic">cf. James 5:16</text>
+  <text x="20" y="152" class="xs">→ activates L14 · L15 · L17</text>
+</g>
+
+<g transform="translate(30, 420)">
+  <rect width="260" height="160" rx="12" class="card"/>
+  <text x="20" y="32" class="h2">STORY</text>
+  <text x="20" y="50" class="sm" font-style="italic">the medium of being known</text>
+  <text x="20" y="78" class="lbl">narrative as how we know</text>
+  <text x="20" y="94" class="lbl">and are known</text>
+  <text x="20" y="118" class="sm" font-style="italic">our story embedded in His story</text>
+  <text x="20" y="132" class="sm" font-style="italic">(Genesis 1–3 as the foundational arc)</text>
+  <text x="20" y="152" class="xs">→ deepens L14 · L15</text>
+</g>
+
+<g transform="translate(590, 420)">
+  <rect width="260" height="160" rx="12" class="card"/>
+  <text x="20" y="32" class="h2">COMMUNITY</text>
+  <text x="20" y="50" class="sm" font-style="italic">the place of being known</text>
+  <text x="20" y="78" class="lbl">confessional small groups</text>
+  <text x="20" y="94" class="lbl">6–8 people · covenantal · years</text>
+  <text x="20" y="118" class="sm" font-style="italic">the corporate WE-state</text>
+  <text x="20" y="132" class="sm" font-style="italic">Thompson's actual practice</text>
+  <text x="20" y="152" class="xs">→ embodies L17 · L20</text>
+</g>
+
+<text x="440" y="618" text-anchor="middle" class="sm" font-style="italic">Thompson's four pillars of confessional practice — all anchored in the gospel claim of being known.</text>
+<text x="440" y="638" text-anchor="middle" class="sm" font-style="italic">Each maps to specific IPNB domains; together they form the Christian operationalization of integration.</text>
+
+</svg>
