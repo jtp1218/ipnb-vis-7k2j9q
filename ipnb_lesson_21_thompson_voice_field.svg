@@ -1,0 +1,211 @@
+<svg viewBox="0 0 940 880" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, sans-serif">
+<title id="ttl">Thompson Stays at the Center — The Eight Come Alongside</title>
+<desc id="desc">A three-band diagram showing Curt Thompson's confessional architecture (Being Known + the four pillars: Shame, Confession, Story, Community) as the load-bearing center, with Tal's eight theological conversation partners (Brown, Manning, Allender, DeGroat, Keller, Thielicke, Luther, Grudem) in the middle band alongside Thompson, and the valued adjacent voices (Bonhoeffer, Smith, Peterson, Robinson, Carnes) in an outer band. The diagram emphasizes that the eight add to Thompson, never replace him.</desc>
+
+<style>
+  .h1   { font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+  .h2   { font-size: 15px; font-weight: 700; fill: #c96442; }
+  .h2w  { font-size: 14px; font-weight: 700; fill: #ffffff; }
+  .h3   { font-size: 13px; font-weight: 600; fill: #1a1a1a; }
+  .lbl  { font-size: 12px; fill: #4a4a4a; }
+  .sm   { font-size: 11px; fill: #6a6a6a; }
+  .xs   { font-size: 10px; fill: #c96442; }
+  .pill { font-size: 11px; fill: #1a1a1a; font-weight: 600; }
+  .cap  { font-size: 12px; fill: #4a4a4a; font-style: italic; }
+  .lab  { font-size: 11px; fill: #ffffff; font-weight: 700; }
+  .card     { fill: #f8f7f2; stroke: #d3cec4; stroke-width: 1; }
+  .pillcard { fill: #ffffff; stroke: #c96442; stroke-width: 1.5; }
+  .adjcard  { fill: #f1ede4; stroke: #c8c2b3; stroke-width: 1; }
+</style>
+
+<rect width="940" height="880" fill="#faf9f5"/>
+
+<!-- title -->
+<text x="470" y="34" text-anchor="middle" class="h1">Thompson Stays at the Center · The Eight Come Alongside</text>
+<text x="470" y="56" text-anchor="middle" class="cap">L21 · companion to the four-pillar architecture · the theological-voice field around Thompson</text>
+
+<!-- band 1: Thompson core -->
+<g transform="translate(0, 80)">
+  <text x="470" y="0" text-anchor="middle" class="h3" fill="#c96442">▼ THOMPSON CORE — load-bearing for Christian IPNB integration ▼</text>
+
+  <!-- center being-known -->
+  <g transform="translate(470, 130)">
+    <circle r="70" fill="#c96442"/>
+    <text y="-12" text-anchor="middle" class="h2w">BEING</text>
+    <text y="6" text-anchor="middle" class="h2w">KNOWN</text>
+    <text y="26" text-anchor="middle" font-size="9" font-style="italic" fill="#ffffff" opacity="0.92">"to be known is to be loved;</text>
+    <text y="38" text-anchor="middle" font-size="9" font-style="italic" fill="#ffffff" opacity="0.92">to be loved is to be known"</text>
+    <text y="54" text-anchor="middle" font-size="9" fill="#ffffff" opacity="0.85">— Thompson</text>
+  </g>
+
+  <!-- 4 pillar chips around Being Known -->
+  <g transform="translate(260, 95)">
+    <rect width="120" height="50" rx="10" class="pillcard"/>
+    <text x="60" y="20" text-anchor="middle" class="h2">SHAME</text>
+    <text x="60" y="38" text-anchor="middle" class="sm">disintegrative master story</text>
+  </g>
+  <g transform="translate(560, 95)">
+    <rect width="120" height="50" rx="10" class="pillcard"/>
+    <text x="60" y="20" text-anchor="middle" class="h2">CONFESSION</text>
+    <text x="60" y="38" text-anchor="middle" class="sm">practice of being known</text>
+  </g>
+  <g transform="translate(260, 165)">
+    <rect width="120" height="50" rx="10" class="pillcard"/>
+    <text x="60" y="20" text-anchor="middle" class="h2">STORY</text>
+    <text x="60" y="38" text-anchor="middle" class="sm">medium of being known</text>
+  </g>
+  <g transform="translate(560, 165)">
+    <rect width="120" height="50" rx="10" class="pillcard"/>
+    <text x="60" y="20" text-anchor="middle" class="h2">COMMUNITY</text>
+    <text x="60" y="38" text-anchor="middle" class="sm">place of being known</text>
+  </g>
+
+  <!-- connector lines from pillars to center -->
+  <g stroke="#c96442" stroke-width="1" opacity="0.4">
+    <line x1="380" y1="120" x2="412" y2="120"/>
+    <line x1="528" y1="120" x2="560" y2="120"/>
+    <line x1="380" y1="190" x2="412" y2="155"/>
+    <line x1="528" y1="155" x2="560" y2="190"/>
+  </g>
+</g>
+
+<!-- divider 1 -->
+<g transform="translate(0, 340)">
+  <line x1="60" y1="0" x2="880" y2="0" stroke="#d3cec4" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="470" y="20" text-anchor="middle" class="cap">↓ the eight come alongside · none replaces Thompson · each amplifies one dimension of the architecture ↓</text>
+</g>
+
+<!-- band 2: the eight - row 1 -->
+<g transform="translate(0, 380)">
+  <text x="470" y="0" text-anchor="middle" class="h3" fill="#c96442">▼ THE EIGHT CONVERSATION PARTNERS — alongside Thompson ▼</text>
+
+  <!-- Brown -->
+  <g transform="translate(40, 20)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Steve Brown</text>
+    <text x="14" y="42" class="sm">Reformed Baptist · Key Life · Tal's friend</text>
+    <text x="14" y="62" class="lbl">Scandalous Freedom</text>
+    <text x="14" y="76" class="lbl">Three Free Sins</text>
+    <text x="14" y="98" class="xs">→ GRACE FLOOR under confession</text>
+  </g>
+
+  <!-- Manning -->
+  <g transform="translate(260, 20)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Brennan Manning</text>
+    <text x="14" y="42" class="sm">Catholic mystic · recovering addict</text>
+    <text x="14" y="62" class="lbl">Ragamuffin Gospel</text>
+    <text x="14" y="76" class="lbl">Abba's Child</text>
+    <text x="14" y="98" class="xs">→ shame-self welcomed at the table</text>
+  </g>
+
+  <!-- Allender -->
+  <g transform="translate(480, 20)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Dan Allender</text>
+    <text x="14" y="42" class="sm">Christian psychologist · story theology</text>
+    <text x="14" y="62" class="lbl">The Wounded Heart</text>
+    <text x="14" y="76" class="lbl">To Be Told</text>
+    <text x="14" y="98" class="xs">→ WOUND under the shame</text>
+  </g>
+
+  <!-- DeGroat -->
+  <g transform="translate(700, 20)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Chuck DeGroat</text>
+    <text x="14" y="42" class="sm">Reformed · therapist · spiritual director</text>
+    <text x="14" y="62" class="lbl">When Narcissism Comes to Church</text>
+    <text x="14" y="76" class="lbl">Wholeheartedness</text>
+    <text x="14" y="98" class="xs">→ when the SYSTEM itself wounds</text>
+  </g>
+
+  <!-- Keller -->
+  <g transform="translate(40, 155)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Tim Keller</text>
+    <text x="14" y="42" class="sm">Reformed Presbyterian · PCA</text>
+    <text x="14" y="62" class="lbl">Counterfeit Gods · Prodigal God</text>
+    <text x="14" y="76" class="lbl">Walking with God through Pain</text>
+    <text x="14" y="98" class="xs">→ addiction as FUNCTIONAL IDOLATRY</text>
+  </g>
+
+  <!-- Thielicke -->
+  <g transform="translate(260, 155)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Helmut Thielicke</text>
+    <text x="14" y="42" class="sm">German Lutheran · post-war pastor</text>
+    <text x="14" y="62" class="lbl">The Waiting Father</text>
+    <text x="14" y="76" class="lbl">(sermon corpus)</text>
+    <text x="14" y="98" class="xs">→ PREACHING into shame, suffering-aware</text>
+  </g>
+
+  <!-- Luther -->
+  <g transform="translate(480, 155)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Martin Luther</text>
+    <text x="14" y="42" class="sm">Reformer · doctrinal great-grandfather</text>
+    <text x="14" y="62" class="lbl">simul justus et peccator</text>
+    <text x="14" y="76" class="lbl">law / gospel · theologia crucis</text>
+    <text x="14" y="98" class="xs">→ DOCTRINAL WARRANT for the table</text>
+  </g>
+
+  <!-- Grudem -->
+  <g transform="translate(700, 155)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Wayne Grudem</text>
+    <text x="14" y="42" class="sm">Reformed Baptist · systematic theology</text>
+    <text x="14" y="62" class="lbl">Systematic Theology</text>
+    <text x="14" y="76" class="lbl">(reference doctrinal spine)</text>
+    <text x="14" y="98" class="xs">→ STRUCTURAL INTEGRITY check</text>
+  </g>
+</g>
+
+<!-- divider 2 -->
+<g transform="translate(0, 700)">
+  <line x1="60" y1="0" x2="880" y2="0" stroke="#d3cec4" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="470" y="20" text-anchor="middle" class="cap">↓ valued adjacent voices (NOT demoted) · community structure · liturgy · narrative imagination · clinical floor ↓</text>
+</g>
+
+<!-- band 3: adjacent voices + Carnes -->
+<g transform="translate(0, 740)">
+  <!-- Bonhoeffer -->
+  <g transform="translate(40, 0)">
+    <rect width="170" height="90" rx="10" class="adjcard"/>
+    <text x="14" y="22" class="h3">Dietrich Bonhoeffer</text>
+    <text x="14" y="38" class="sm">Life Together</text>
+    <text x="14" y="68" class="xs">→ community STRUCTURE</text>
+  </g>
+  <!-- Smith -->
+  <g transform="translate(220, 0)">
+    <rect width="170" height="90" rx="10" class="adjcard"/>
+    <text x="14" y="22" class="h3">James K.A. Smith</text>
+    <text x="14" y="38" class="sm">Desiring the Kingdom</text>
+    <text x="14" y="68" class="xs">→ LITURGY as formation</text>
+  </g>
+  <!-- Peterson -->
+  <g transform="translate(400, 0)">
+    <rect width="170" height="90" rx="10" class="adjcard"/>
+    <text x="14" y="22" class="h3">Eugene Peterson</text>
+    <text x="14" y="38" class="sm">A Long Obedience</text>
+    <text x="14" y="68" class="xs">→ sanctification as PATIENCE</text>
+  </g>
+  <!-- Robinson -->
+  <g transform="translate(580, 0)">
+    <rect width="170" height="90" rx="10" class="adjcard"/>
+    <text x="14" y="22" class="h3">Marilynne Robinson</text>
+    <text x="14" y="38" class="sm">Gilead · Givenness of Things</text>
+    <text x="14" y="68" class="xs">→ narrative IMAGINATION</text>
+  </g>
+  <!-- Carnes -->
+  <g transform="translate(760, 0)">
+    <rect width="150" height="90" rx="10" fill="#efe6d8" stroke="#b89968" stroke-width="1.5"/>
+    <text x="14" y="22" class="h3">Patrick Carnes</text>
+    <text x="14" y="38" class="sm">Out of the Shadows</text>
+    <text x="14" y="55" class="sm">Don't Call It Love</text>
+    <text x="14" y="78" font-size="10" fill="#7a5a26" font-weight="700">→ SEX/PORN clinical floor (SFR)</text>
+  </g>
+</g>
+
+<text x="470" y="868" text-anchor="middle" class="cap">Default move: open with Thompson. When the moment needs more grace, wound-honesty, idolatry-mapping, system-discernment, doctrine, or preaching — reach for the alongside voice that fits the texture.</text>
+
+</svg>
