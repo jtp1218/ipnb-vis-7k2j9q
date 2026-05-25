@@ -1,0 +1,216 @@
+<svg viewBox="0 0 940 920" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, sans-serif">
+<title id="ttl">L22 — Tal's Theological Voice Field Around the Trinity Teaching</title>
+<desc id="desc">A three-band diagram showing the theological architecture for L22 Christian Theology Integration: the Trinity / Imago Dei / MWe core at the top, the eight conversation partners (Brown, Manning, Allender, DeGroat, Keller, Thielicke, Luther, Grudem) in the middle band, the valued adjacent voices (Bonhoeffer, Smith, Peterson, Robinson) in an outer band, and Patrick Carnes as the clinical floor under sex/porn-addiction client work. Replaces the original L22 SVG's five-voice band.</desc>
+
+<style>
+  .h1   { font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+  .h2   { font-size: 15px; font-weight: 700; fill: #c96442; }
+  .h2w  { font-size: 14px; font-weight: 700; fill: #ffffff; }
+  .h3   { font-size: 13px; font-weight: 600; fill: #1a1a1a; }
+  .lbl  { font-size: 12px; fill: #4a4a4a; }
+  .sm   { font-size: 11px; fill: #6a6a6a; }
+  .xs   { font-size: 10px; fill: #c96442; }
+  .cap  { font-size: 12px; fill: #4a4a4a; font-style: italic; }
+  .card     { fill: #f8f7f2; stroke: #d3cec4; stroke-width: 1; }
+  .corecard { fill: #ffffff; stroke: #c96442; stroke-width: 1.5; }
+  .adjcard  { fill: #f1ede4; stroke: #c8c2b3; stroke-width: 1; }
+</style>
+
+<rect width="940" height="920" fill="#faf9f5"/>
+
+<!-- title -->
+<text x="470" y="34" text-anchor="middle" class="h1">L22 · Tal's Theological Voice Field Around the Trinity Teaching</text>
+<text x="470" y="56" text-anchor="middle" class="cap">Trinity + Imago Dei + MWe at the center · the eight conversation partners alongside · adjacent voices in the field · Carnes as the clinical floor</text>
+
+<!-- BAND 1: Trinity / Imago Dei / MWe core -->
+<g transform="translate(0, 80)">
+  <text x="470" y="0" text-anchor="middle" class="h3" fill="#c96442">▼ THE COSMOLOGICAL & ANTHROPOLOGICAL CORE — unchanged across all theological voice ▼</text>
+
+  <!-- Trinity at left -->
+  <g transform="translate(190, 90)">
+    <circle cx="0" cy="-22" r="32" fill="#c96442" opacity="0.35" stroke="#c96442" stroke-width="1.5"/>
+    <circle cx="-28" cy="14" r="32" fill="#c96442" opacity="0.35" stroke="#c96442" stroke-width="1.5"/>
+    <circle cx="28" cy="14" r="32" fill="#c96442" opacity="0.35" stroke="#c96442" stroke-width="1.5"/>
+    <text x="0" y="-42" text-anchor="middle" font-size="10" font-weight="700" fill="#1a1a1a">FATHER</text>
+    <text x="-48" y="32" text-anchor="middle" font-size="10" font-weight="700" fill="#1a1a1a">SON</text>
+    <text x="48" y="32" text-anchor="middle" font-size="10" font-weight="700" fill="#1a1a1a">SPIRIT</text>
+    <text x="0" y="68" text-anchor="middle" font-size="11" font-weight="700" fill="#c96442">TRINITY</text>
+    <text x="0" y="82" text-anchor="middle" font-size="10" fill="#6a6a6a">original integrated WE</text>
+  </g>
+
+  <!-- Arrow -->
+  <g transform="translate(330, 90)">
+    <line x1="0" y1="0" x2="44" y2="0" stroke="#c96442" stroke-width="2"/>
+    <polygon points="38,-6 38,6 50,0" fill="#c96442"/>
+    <text x="22" y="-12" text-anchor="middle" font-size="10" font-weight="700" fill="#c96442">IMAGO DEI</text>
+    <text x="22" y="22" text-anchor="middle" font-size="9" fill="#6a6a6a">Gen 1:27</text>
+  </g>
+
+  <!-- MWe at center -->
+  <g transform="translate(470, 90)">
+    <circle r="48" fill="#f8f5f0" stroke="#d3cec4" stroke-width="1.5"/>
+    <text y="-36" text-anchor="middle" font-size="10" font-weight="700">ALL</text>
+    <circle r="34" fill="#ffffff" stroke="#d3cec4" stroke-width="1.5"/>
+    <text y="-22" text-anchor="middle" font-size="10" font-weight="700">WE</text>
+    <circle r="20" fill="#ffffff" stroke="#c96442" stroke-width="1.5"/>
+    <text y="-7" text-anchor="middle" font-size="10" font-weight="700" fill="#c96442">ME</text>
+    <circle r="10" fill="#c96442"/>
+    <text y="3" text-anchor="middle" font-size="8" font-weight="700" fill="#ffffff">MWe</text>
+    <text x="0" y="74" text-anchor="middle" font-size="11" font-weight="700" fill="#c96442">HUMAN MWe</text>
+    <text x="0" y="88" text-anchor="middle" font-size="10" fill="#6a6a6a">creaturely reflection</text>
+  </g>
+
+  <!-- Arrow to Thompson -->
+  <g transform="translate(566, 90)">
+    <line x1="0" y1="0" x2="44" y2="0" stroke="#c96442" stroke-width="2"/>
+    <polygon points="38,-6 38,6 50,0" fill="#c96442"/>
+    <text x="22" y="-12" text-anchor="middle" font-size="10" font-weight="700" fill="#c96442">"BEING KNOWN"</text>
+    <text x="22" y="22" text-anchor="middle" font-size="9" fill="#6a6a6a">Thompson</text>
+  </g>
+
+  <!-- Thompson at right -->
+  <g transform="translate(720, 90)">
+    <circle r="48" fill="#c96442"/>
+    <text y="-8" text-anchor="middle" class="h2w">CURT</text>
+    <text y="10" text-anchor="middle" class="h2w">THOMPSON</text>
+    <text x="0" y="74" text-anchor="middle" font-size="11" font-weight="700" fill="#c96442">L21 ARCHITECTURE</text>
+    <text x="0" y="88" text-anchor="middle" font-size="10" fill="#6a6a6a">confessional pillars · stays load-bearing</text>
+  </g>
+</g>
+
+<!-- divider -->
+<g transform="translate(0, 280)">
+  <line x1="60" y1="0" x2="880" y2="0" stroke="#d3cec4" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="470" y="20" text-anchor="middle" class="cap">↓ the eight come alongside Thompson · each amplifies one dimension of the Christian-integration work ↓</text>
+</g>
+
+<!-- BAND 2: THE EIGHT -->
+<g transform="translate(0, 320)">
+  <text x="470" y="0" text-anchor="middle" class="h3" fill="#c96442">▼ THE EIGHT CONVERSATION PARTNERS — alongside Thompson ▼</text>
+
+  <!-- Row 1 -->
+  <g transform="translate(40, 20)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Steve Brown</text>
+    <text x="14" y="42" class="sm">Reformed Baptist · Key Life · Tal's friend</text>
+    <text x="14" y="62" class="lbl">Scandalous Freedom</text>
+    <text x="14" y="76" class="lbl">Three Free Sins</text>
+    <text x="14" y="98" class="xs">→ GRACE FLOOR · prior reality</text>
+  </g>
+
+  <g transform="translate(260, 20)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Brennan Manning</text>
+    <text x="14" y="42" class="sm">Catholic mystic · ragamuffin voice</text>
+    <text x="14" y="62" class="lbl">Ragamuffin Gospel</text>
+    <text x="14" y="76" class="lbl">Abba's Child</text>
+    <text x="14" y="98" class="xs">→ shame-self welcomed at the table</text>
+  </g>
+
+  <g transform="translate(480, 20)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Dan Allender</text>
+    <text x="14" y="42" class="sm">Christian psychologist · story theology</text>
+    <text x="14" y="62" class="lbl">The Wounded Heart</text>
+    <text x="14" y="76" class="lbl">To Be Told</text>
+    <text x="14" y="98" class="xs">→ WOUND under the shame</text>
+  </g>
+
+  <g transform="translate(700, 20)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Chuck DeGroat</text>
+    <text x="14" y="42" class="sm">Reformed · therapist · spiritual director</text>
+    <text x="14" y="62" class="lbl">When Narcissism Comes to Church</text>
+    <text x="14" y="76" class="lbl">Wholeheartedness</text>
+    <text x="14" y="98" class="xs">→ when the SYSTEM itself wounds</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(40, 155)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Tim Keller</text>
+    <text x="14" y="42" class="sm">Reformed Presbyterian · PCA</text>
+    <text x="14" y="62" class="lbl">Counterfeit Gods · Prodigal God</text>
+    <text x="14" y="76" class="lbl">Walking with God through Pain</text>
+    <text x="14" y="98" class="xs">→ addiction as FUNCTIONAL IDOLATRY</text>
+  </g>
+
+  <g transform="translate(260, 155)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Helmut Thielicke</text>
+    <text x="14" y="42" class="sm">German Lutheran · post-war pastor</text>
+    <text x="14" y="62" class="lbl">The Waiting Father</text>
+    <text x="14" y="76" class="lbl">(sermon corpus)</text>
+    <text x="14" y="98" class="xs">→ PREACHING into shame, suffering-aware</text>
+  </g>
+
+  <g transform="translate(480, 155)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Martin Luther</text>
+    <text x="14" y="42" class="sm">Reformer · doctrinal great-grandfather</text>
+    <text x="14" y="62" class="lbl">simul justus et peccator</text>
+    <text x="14" y="76" class="lbl">law / gospel · theologia crucis</text>
+    <text x="14" y="98" class="xs">→ DOCTRINAL WARRANT for the table</text>
+  </g>
+
+  <g transform="translate(700, 155)">
+    <rect width="210" height="115" rx="12" class="card"/>
+    <text x="14" y="26" class="h2">Wayne Grudem</text>
+    <text x="14" y="42" class="sm">Reformed Baptist · systematic theology</text>
+    <text x="14" y="62" class="lbl">Systematic Theology</text>
+    <text x="14" y="76" class="lbl">(reference doctrinal spine)</text>
+    <text x="14" y="98" class="xs">→ STRUCTURAL INTEGRITY check</text>
+  </g>
+</g>
+
+<!-- divider -->
+<g transform="translate(0, 640)">
+  <line x1="60" y1="0" x2="880" y2="0" stroke="#d3cec4" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="470" y="20" text-anchor="middle" class="cap">↓ valued adjacent voices (NOT demoted) · community structure · liturgy · long arc · narrative imagination ↓</text>
+</g>
+
+<!-- BAND 3: ADJACENT VOICES -->
+<g transform="translate(0, 680)">
+  <g transform="translate(40, 0)">
+    <rect width="210" height="90" rx="10" class="adjcard"/>
+    <text x="14" y="22" class="h3">Dietrich Bonhoeffer</text>
+    <text x="14" y="38" class="sm">Life Together</text>
+    <text x="14" y="68" class="xs">→ Day Together + Day Alone</text>
+  </g>
+  <g transform="translate(260, 0)">
+    <rect width="210" height="90" rx="10" class="adjcard"/>
+    <text x="14" y="22" class="h3">James K.A. Smith</text>
+    <text x="14" y="38" class="sm">You Are What You Love</text>
+    <text x="14" y="68" class="xs">→ LITURGY as identity formation</text>
+  </g>
+  <g transform="translate(480, 0)">
+    <rect width="210" height="90" rx="10" class="adjcard"/>
+    <text x="14" y="22" class="h3">Eugene Peterson</text>
+    <text x="14" y="38" class="sm">A Long Obedience</text>
+    <text x="14" y="68" class="xs">→ sanctification as PATIENCE</text>
+  </g>
+  <g transform="translate(700, 0)">
+    <rect width="210" height="90" rx="10" class="adjcard"/>
+    <text x="14" y="22" class="h3">Marilynne Robinson</text>
+    <text x="14" y="38" class="sm">Gilead · Givenness of Things</text>
+    <text x="14" y="68" class="xs">→ narrative IMAGINATION</text>
+  </g>
+</g>
+
+<!-- divider -->
+<g transform="translate(0, 790)">
+  <line x1="60" y1="0" x2="880" y2="0" stroke="#b89968" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="470" y="20" text-anchor="middle" class="cap">↓ the clinical floor under sex/porn-addiction client work — secular spine alongside Siegel ↓</text>
+</g>
+
+<!-- BAND 4: CARNES -->
+<g transform="translate(0, 830)">
+  <g transform="translate(40, 0)">
+    <rect width="870" height="70" rx="10" fill="#efe6d8" stroke="#b89968" stroke-width="1.5"/>
+    <text x="20" y="26" class="h3">Patrick Carnes — the foundational sex/porn-addiction clinical text · *Out of the Shadows* · *Don't Call It Love* · *Facing the Shadow*</text>
+    <text x="20" y="46" font-size="11" fill="#4a4a4a">Carnes is to SFR what Siegel is to IPNB — the secular clinical spine. Required reading, not adjacent. The theological voice does its work on top of the Carnes floor.</text>
+    <text x="20" y="62" font-size="10" fill="#7a5a26" font-weight="700">→ Carnes-shaped clinical literacy is non-optional for therapists working sex/porn addiction.</text>
+  </g>
+</g>
+
+</svg>
