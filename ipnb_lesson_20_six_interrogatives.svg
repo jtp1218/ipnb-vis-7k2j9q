@@ -1,0 +1,97 @@
+<svg viewBox="0 0 880 680" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, sans-serif">
+<title id="ttl">The Six Interrogatives — Siegel's IPNB Course Synthesis</title>
+<desc id="desc">A hexagonal layout of the six interrogatives that synthesize the IPNB course: WHAT (energy and information flow), HOW (integration), WHERE (within and between), WHEN (Newtonian and quantum), WHY (kindness and compassion), and WHO (MWe). All six radiate from a central hub naming the IPNB synthesis.</desc>
+
+<style>
+  .h1 { font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+  .h2 { font-size: 15px; font-weight: 700; fill: #1a1a1a; }
+  .h3 { font-size: 13px; font-weight: 600; fill: #1a1a1a; }
+  .lbl { font-size: 12px; fill: #4a4a4a; }
+  .sm  { font-size: 10.5px; fill: #6a6a6a; }
+  .xs  { font-size: 10px; fill: #6a6a6a; }
+  .accent { fill: #c96442; }
+  .qmark { font-size: 18px; font-weight: 700; fill: #c96442; }
+</style>
+
+<rect width="880" height="680" fill="#faf9f5"/>
+
+<text x="440" y="32" text-anchor="middle" class="h1">The Six Interrogatives</text>
+<text x="440" y="54" text-anchor="middle" class="lbl">Siegel's synthesis of the whole IPNB course in six questions</text>
+
+<g stroke="#d3cec4" stroke-width="1" stroke-dasharray="2 4" opacity="0.6">
+  <line x1="440" y1="338" x2="440" y2="170"/>
+  <line x1="494" y1="338" x2="635" y2="248"/>
+  <line x1="494" y1="386" x2="635" y2="476"/>
+  <line x1="440" y1="406" x2="440" y2="574"/>
+  <line x1="386" y1="386" x2="245" y2="476"/>
+  <line x1="386" y1="338" x2="245" y2="248"/>
+</g>
+
+<g transform="translate(440, 362)">
+  <circle r="68" class="accent"/>
+  <text y="-14" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">The IPNB</text>
+  <text y="2" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Synthesis</text>
+  <text y="22" text-anchor="middle" font-size="9" font-style="italic" fill="#ffffff" opacity="0.9">"the mind we</text>
+  <text y="36" text-anchor="middle" font-size="9" font-style="italic" fill="#ffffff" opacity="0.9">already are"</text>
+</g>
+
+<g transform="translate(345, 90)">
+  <rect width="190" height="118" rx="10" fill="#ffffff" stroke="#d3cec4"/>
+  <text x="95" y="28" text-anchor="middle" class="qmark">WHAT?</text>
+  <text x="95" y="46" text-anchor="middle" class="xs" font-style="italic">are we made of?</text>
+  <line x1="20" y1="58" x2="170" y2="58" stroke="#d3cec4"/>
+  <text x="95" y="80" text-anchor="middle" class="h3">energy &amp; information</text>
+  <text x="95" y="96" text-anchor="middle" class="h3">flow</text>
+  <text x="95" y="112" text-anchor="middle" class="xs">→ the mind defined</text>
+</g>
+
+<g transform="translate(630, 248)">
+  <rect width="190" height="118" rx="10" fill="#ffffff" stroke="#d3cec4"/>
+  <text x="95" y="28" text-anchor="middle" class="qmark">HOW?</text>
+  <text x="95" y="46" text-anchor="middle" class="xs" font-style="italic">does the mind work?</text>
+  <line x1="20" y1="58" x2="170" y2="58" stroke="#d3cec4"/>
+  <text x="95" y="80" text-anchor="middle" class="h3">integration</text>
+  <text x="95" y="96" text-anchor="middle" class="sm">differentiation + linkage</text>
+  <text x="95" y="112" text-anchor="middle" class="xs">→ FACES (vs. chaos/rigidity)</text>
+</g>
+
+<g transform="translate(630, 476)">
+  <rect width="190" height="118" rx="10" fill="#ffffff" stroke="#d3cec4"/>
+  <text x="95" y="28" text-anchor="middle" class="qmark">WHERE?</text>
+  <text x="95" y="46" text-anchor="middle" class="xs" font-style="italic">is the mind?</text>
+  <line x1="20" y1="58" x2="170" y2="58" stroke="#d3cec4"/>
+  <text x="95" y="80" text-anchor="middle" class="h3">within + between</text>
+  <text x="95" y="96" text-anchor="middle" class="sm">embodied AND relational</text>
+  <text x="95" y="112" text-anchor="middle" class="xs">→ Triangle of Wellbeing</text>
+</g>
+
+<g transform="translate(345, 574)">
+  <rect width="190" height="100" rx="10" fill="#ffffff" stroke="#d3cec4"/>
+  <text x="95" y="28" text-anchor="middle" class="qmark">WHEN?</text>
+  <text x="95" y="46" text-anchor="middle" class="xs" font-style="italic">are we?</text>
+  <line x1="20" y1="58" x2="170" y2="58" stroke="#d3cec4"/>
+  <text x="95" y="78" text-anchor="middle" class="h3">Newtonian + Quantum</text>
+  <text x="95" y="93" text-anchor="middle" class="xs">arrow of time AND arrow-free</text>
+</g>
+
+<g transform="translate(60, 476)">
+  <rect width="190" height="118" rx="10" fill="#ffffff" stroke="#d3cec4"/>
+  <text x="95" y="28" text-anchor="middle" class="qmark">WHY?</text>
+  <text x="95" y="46" text-anchor="middle" class="xs" font-style="italic">are we here?</text>
+  <line x1="20" y1="58" x2="170" y2="58" stroke="#d3cec4"/>
+  <text x="95" y="80" text-anchor="middle" class="h3">kindness · compassion</text>
+  <text x="95" y="96" text-anchor="middle" class="sm">integration = health = love</text>
+  <text x="95" y="112" text-anchor="middle" class="xs">→ Siegel's tentative answer</text>
+</g>
+
+<g transform="translate(60, 248)">
+  <rect width="190" height="118" rx="10" fill="#ffffff" stroke="#d3cec4"/>
+  <text x="95" y="28" text-anchor="middle" class="qmark">WHO?</text>
+  <text x="95" y="46" text-anchor="middle" class="xs" font-style="italic">are we?</text>
+  <line x1="20" y1="58" x2="170" y2="58" stroke="#d3cec4"/>
+  <text x="95" y="80" text-anchor="middle" class="h3">MWe</text>
+  <text x="95" y="96" text-anchor="middle" class="sm">Me + We held together</text>
+  <text x="95" y="112" text-anchor="middle" class="xs">→ the self is the system</text>
+</g>
+
+</svg>

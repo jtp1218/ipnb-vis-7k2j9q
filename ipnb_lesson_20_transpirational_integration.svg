@@ -1,0 +1,86 @@
+<svg viewBox="0 0 880 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, sans-serif">
+<title id="ttl">Transpirational Integration — breathing across the 9 domains</title>
+<desc id="desc">A wheel diagram showing the nine domains of integration arranged around a central INTEGRATION hub. The breath of transpirational integration encircles all nine — when enough work has been done in each domain, they begin to function as one living movement of self.</desc>
+
+<style>
+  .h1 { font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+  .h2 { font-size: 15px; font-weight: 700; fill: #1a1a1a; }
+  .h3 { font-size: 11px; font-weight: 600; fill: #1a1a1a; }
+  .lbl { font-size: 12px; fill: #4a4a4a; }
+  .sm  { font-size: 11px; fill: #6a6a6a; }
+  .xs  { font-size: 9px; fill: #6a6a6a; }
+  .accent { fill: #c96442; }
+</style>
+
+<rect width="880" height="720" fill="#faf9f5"/>
+
+<text x="440" y="32" text-anchor="middle" class="h1">Transpirational Integration</text>
+<text x="440" y="54" text-anchor="middle" class="lbl">"breathing across" — the 9 domains begin to flow as one living movement of self</text>
+
+<circle cx="440" cy="390" r="295" fill="none" stroke="#c96442" stroke-width="1" stroke-dasharray="4 7" opacity="0.35"/>
+
+<g transform="translate(440, 390)">
+  <circle r="72" class="accent"/>
+  <text y="-12" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">INTEGRATION</text>
+  <text y="8" text-anchor="middle" font-size="10" fill="#ffffff" opacity="0.92">differentiation</text>
+  <text y="22" text-anchor="middle" font-size="10" fill="#ffffff" opacity="0.92">+ linkage</text>
+</g>
+
+<g transform="translate(440, 155)">
+  <circle r="42" fill="#ffffff" stroke="#c96442" stroke-width="2"/>
+  <text y="-13" text-anchor="middle" class="xs">L11</text>
+  <text y="4" text-anchor="middle" font-size="10.5" font-weight="600">Consciousness</text>
+</g>
+
+<g transform="translate(591, 211)">
+  <circle r="42" fill="#ffffff" stroke="#c96442" stroke-width="2"/>
+  <text y="-13" text-anchor="middle" class="xs">L12</text>
+  <text y="4" text-anchor="middle" font-size="11" font-weight="600">Bilateral</text>
+</g>
+
+<g transform="translate(671, 349)">
+  <circle r="42" fill="#ffffff" stroke="#c96442" stroke-width="2"/>
+  <text y="-13" text-anchor="middle" class="xs">L13</text>
+  <text y="4" text-anchor="middle" font-size="11" font-weight="600">Vertical</text>
+</g>
+
+<g transform="translate(643, 508)">
+  <circle r="42" fill="#ffffff" stroke="#c96442" stroke-width="2"/>
+  <text y="-13" text-anchor="middle" class="xs">L14</text>
+  <text y="4" text-anchor="middle" font-size="11" font-weight="600">Memory</text>
+</g>
+
+<g transform="translate(520, 611)">
+  <circle r="42" fill="#ffffff" stroke="#c96442" stroke-width="2"/>
+  <text y="-13" text-anchor="middle" class="xs">L15</text>
+  <text y="4" text-anchor="middle" font-size="11" font-weight="600">Narrative</text>
+</g>
+
+<g transform="translate(360, 611)">
+  <circle r="42" fill="#ffffff" stroke="#c96442" stroke-width="2"/>
+  <text y="-13" text-anchor="middle" class="xs">L16</text>
+  <text y="4" text-anchor="middle" font-size="11" font-weight="600">State</text>
+</g>
+
+<g transform="translate(237, 508)">
+  <circle r="42" fill="#ffffff" stroke="#c96442" stroke-width="2"/>
+  <text y="-13" text-anchor="middle" class="xs">L17</text>
+  <text y="4" text-anchor="middle" font-size="10" font-weight="600">Interpersonal</text>
+</g>
+
+<g transform="translate(209, 349)">
+  <circle r="42" fill="#ffffff" stroke="#c96442" stroke-width="2"/>
+  <text y="-13" text-anchor="middle" class="xs">L18</text>
+  <text y="4" text-anchor="middle" font-size="11" font-weight="600">Temporal</text>
+</g>
+
+<g transform="translate(289, 211)">
+  <circle r="42" fill="#ffffff" stroke="#c96442" stroke-width="2"/>
+  <text y="-13" text-anchor="middle" class="xs">L19</text>
+  <text y="4" text-anchor="middle" font-size="11" font-weight="600">Identity</text>
+  <text y="18" text-anchor="middle" font-size="9" fill="#6a6a6a">(MWe)</text>
+</g>
+
+<text x="440" y="700" text-anchor="middle" class="sm" font-style="italic">trans · spire — "breathing across" — when integration begins to flow as one living movement</text>
+
+</svg>
