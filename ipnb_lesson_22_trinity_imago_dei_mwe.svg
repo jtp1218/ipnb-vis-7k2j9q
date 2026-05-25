@@ -1,0 +1,110 @@
+<svg viewBox="0 0 880 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, sans-serif">
+<title id="ttl">L22 — The Triune God as Original Integrated WE; Human MWe as the Creaturely Reflection</title>
+<desc id="desc">A two-tier theological-anthropological diagram. Top tier: the Trinity (Father, Son, Spirit in perichoretic embrace). Middle: Imago Dei bridge. Bottom tier: Human MWe (ME-WE-ALL rings). Below: five Christian voices contributing to integration work — Thompson, Smith, Peterson, Bonhoeffer, Robinson.</desc>
+
+<style>
+  .h1 { font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+  .h2 { font-size: 15px; font-weight: 700; fill: #1a1a1a; }
+  .h3 { font-size: 13px; font-weight: 600; fill: #1a1a1a; }
+  .lbl { font-size: 12px; fill: #4a4a4a; }
+  .sm  { font-size: 11px; fill: #6a6a6a; }
+  .xs  { font-size: 10px; fill: #6a6a6a; }
+  .card { fill: #f8f7f2; stroke: #d3cec4; stroke-width: 1; }
+</style>
+
+<rect width="880" height="760" fill="#faf9f5"/>
+
+<text x="440" y="32" text-anchor="middle" class="h1">IPNB and the Triune God</text>
+<text x="440" y="54" text-anchor="middle" class="lbl">the Trinity is the original integrated WE — human MWe is the creaturely reflection</text>
+
+<text x="440" y="90" text-anchor="middle" class="h2">The Cosmological MWe — The Triune God</text>
+
+<g transform="translate(440, 180)">
+  <circle cx="0" cy="-32" r="48" fill="#c96442" opacity="0.35" stroke="#c96442" stroke-width="1.5"/>
+  <circle cx="-42" cy="22" r="48" fill="#c96442" opacity="0.35" stroke="#c96442" stroke-width="1.5"/>
+  <circle cx="42" cy="22" r="48" fill="#c96442" opacity="0.35" stroke="#c96442" stroke-width="1.5"/>
+
+  <text x="0" y="-58" text-anchor="middle" font-size="12" font-weight="700" fill="#1a1a1a">FATHER</text>
+  <text x="-70" y="50" text-anchor="middle" font-size="12" font-weight="700" fill="#1a1a1a">SON</text>
+  <text x="70" y="50" text-anchor="middle" font-size="12" font-weight="700" fill="#1a1a1a">SPIRIT</text>
+</g>
+
+<text x="440" y="278" text-anchor="middle" class="sm" font-style="italic">perichoresis — mutual indwelling</text>
+<text x="440" y="294" text-anchor="middle" class="sm">three Persons, perfectly differentiated AND perfectly linked — one God</text>
+
+<g transform="translate(440, 322)">
+  <line x1="0" y1="0" x2="0" y2="26" stroke="#c96442" stroke-width="2"/>
+  <polygon points="-6,20 6,20 0,30" fill="#c96442"/>
+</g>
+
+<text x="440" y="376" text-anchor="middle" class="h3" fill="#c96442">Imago Dei</text>
+<text x="440" y="392" text-anchor="middle" class="sm" font-style="italic">"in the image of God He created them" (Gen 1:27)</text>
+
+<text x="440" y="424" text-anchor="middle" class="h2">The Creaturely Reflection — Human MWe</text>
+
+<g transform="translate(440, 488)">
+  <circle r="56" fill="#f8f5f0" stroke="#d3cec4" stroke-width="1.5"/>
+  <text y="-44" text-anchor="middle" font-size="10" font-weight="700">ALL</text>
+  <circle r="40" fill="#ffffff" stroke="#d3cec4" stroke-width="1.5"/>
+  <text y="-28" text-anchor="middle" font-size="10" font-weight="700">WE</text>
+  <circle r="24" fill="#ffffff" stroke="#c96442" stroke-width="1.5"/>
+  <text y="-12" text-anchor="middle" font-size="10" font-weight="700" fill="#c96442">ME</text>
+  <circle r="10" fill="#c96442"/>
+  <text y="3" text-anchor="middle" font-size="8" font-weight="700" fill="#ffffff">MWe</text>
+</g>
+
+<text x="440" y="572" text-anchor="middle" class="sm" font-style="italic">humans designed as MWe — iconic of the Triune life · differentiation AND linkage by design</text>
+
+<text x="440" y="610" text-anchor="middle" class="h3">Five Christian voices in this integration work</text>
+
+<g transform="translate(30, 624)">
+  <rect width="150" height="116" rx="10" class="card"/>
+  <text x="75" y="22" text-anchor="middle" font-size="12" font-weight="700">Thompson</text>
+  <text x="75" y="38" text-anchor="middle" class="xs">Anatomy of the Soul</text>
+  <text x="75" y="58" text-anchor="middle" font-size="10.5" fill="#4a4a4a">being known</text>
+  <text x="75" y="73" text-anchor="middle" font-size="10.5" fill="#4a4a4a">+ shame</text>
+  <text x="75" y="88" text-anchor="middle" font-size="10.5" fill="#4a4a4a">+ confessional</text>
+  <text x="75" y="103" text-anchor="middle" class="xs" fill="#c96442">→ L21 anchor</text>
+</g>
+
+<g transform="translate(192, 624)">
+  <rect width="150" height="116" rx="10" class="card"/>
+  <text x="75" y="22" text-anchor="middle" font-size="12" font-weight="700">J.K.A. Smith</text>
+  <text x="75" y="38" text-anchor="middle" class="xs">You Are What You Love</text>
+  <text x="75" y="58" text-anchor="middle" font-size="10.5" fill="#4a4a4a">liturgy forms</text>
+  <text x="75" y="73" text-anchor="middle" font-size="10.5" fill="#4a4a4a">identity</text>
+  <text x="75" y="88" text-anchor="middle" font-size="10.5" fill="#4a4a4a">(habit &gt; thought)</text>
+  <text x="75" y="103" text-anchor="middle" class="xs" fill="#c96442">→ L11 · L19</text>
+</g>
+
+<g transform="translate(354, 624)">
+  <rect width="150" height="116" rx="10" class="card"/>
+  <text x="75" y="22" text-anchor="middle" font-size="12" font-weight="700">Peterson</text>
+  <text x="75" y="38" text-anchor="middle" class="xs">Long Obedience</text>
+  <text x="75" y="58" text-anchor="middle" font-size="10.5" fill="#4a4a4a">sanctification</text>
+  <text x="75" y="73" text-anchor="middle" font-size="10.5" fill="#4a4a4a">is patient ·</text>
+  <text x="75" y="88" text-anchor="middle" font-size="10.5" fill="#4a4a4a">slow · long</text>
+  <text x="75" y="103" text-anchor="middle" class="xs" fill="#c96442">→ L18 · L20</text>
+</g>
+
+<g transform="translate(516, 624)">
+  <rect width="150" height="116" rx="10" class="card"/>
+  <text x="75" y="22" text-anchor="middle" font-size="12" font-weight="700">Bonhoeffer</text>
+  <text x="75" y="38" text-anchor="middle" class="xs">Life Together</text>
+  <text x="75" y="58" text-anchor="middle" font-size="10.5" fill="#4a4a4a">community is</text>
+  <text x="75" y="73" text-anchor="middle" font-size="10.5" fill="#4a4a4a">the operational</text>
+  <text x="75" y="88" text-anchor="middle" font-size="10.5" fill="#4a4a4a">ground</text>
+  <text x="75" y="103" text-anchor="middle" class="xs" fill="#c96442">→ L17 · L21</text>
+</g>
+
+<g transform="translate(678, 624)">
+  <rect width="150" height="116" rx="10" class="card"/>
+  <text x="75" y="22" text-anchor="middle" font-size="12" font-weight="700">Robinson</text>
+  <text x="75" y="38" text-anchor="middle" class="xs">Gilead · Givenness</text>
+  <text x="75" y="58" text-anchor="middle" font-size="10.5" fill="#4a4a4a">narrative as</text>
+  <text x="75" y="73" text-anchor="middle" font-size="10.5" fill="#4a4a4a">the highest</text>
+  <text x="75" y="88" text-anchor="middle" font-size="10.5" fill="#4a4a4a">theological work</text>
+  <text x="75" y="103" text-anchor="middle" class="xs" fill="#c96442">→ L15 · L21</text>
+</g>
+
+</svg>
