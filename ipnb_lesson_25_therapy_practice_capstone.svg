@@ -1,0 +1,235 @@
+<svg viewBox="0 0 880 980" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl desc" font-family="system-ui, -apple-system, sans-serif">
+<title id="ttl">L25 — Therapy Practice Synthesis &amp; 25-Lesson Capstone</title>
+<desc id="desc">The four-pillar therapy-practice architecture for Insights Counseling Center, synthesizing all 24 prior IPNB lessons. PRESENCE (the therapist's own integration as the instrument) → FORMULATION (the 9 domains as diagnostic map) → INTERVENTION (domain-specific practices) → REFERRAL &amp; LANE (knowing your role and when to hand off to EPC pastor / SFR community / medical). Below: the Christian theological substrate (Trinity, Thompson, Bonhoeffer, Smith, Peterson, Robinson) that runs through all four. Bottom: the 25-lesson arc visualized as the formation journey, closing with the benediction: "The therapist you have become IS the work."</desc>
+
+<style>
+  .h1 { font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+  .h2 { font-size: 13px; font-weight: 700; fill: #c96442; }
+  .h3 { font-size: 10px; font-weight: 700; fill: #4a4a4a; }
+  .lbl { font-size: 11px; fill: #4a4a4a; }
+  .sm  { font-size: 10px; fill: #4a4a4a; }
+  .xs  { font-size: 9px; fill: #6a6a6a; }
+  .ipnb { font-size: 9px; fill: #c96442; }
+  .card { fill: #f8f7f2; stroke: #d3cec4; stroke-width: 1; }
+  .tri { fill: #ecdcd0; stroke: #c96442; stroke-width: 1; }
+  .arc { fill: none; stroke: #c96442; stroke-width: 1.5; }
+  .arcdot { fill: #c96442; }
+  .arcdot-on { fill: #1a1a1a; }
+  .benediction { font-size: 13px; font-weight: 700; fill: #1a1a1a; font-style: italic; }
+</style>
+
+<rect width="880" height="980" fill="#faf9f5"/>
+
+<!-- Title -->
+<text x="440" y="32" text-anchor="middle" class="h1">Therapy Practice Synthesis — &amp; the 25-Lesson Capstone</text>
+<text x="440" y="54" text-anchor="middle" class="lbl">The therapist's own integration is the instrument · Insights Counseling Center</text>
+
+<!-- Front Matter Strip: The central claim -->
+<g transform="translate(30, 78)">
+  <rect width="820" height="60" rx="8" fill="#f4e8e0" stroke="#d3cec4" stroke-width="1"/>
+  <text x="20" y="22" font-size="13" font-weight="700" fill="#1a1a1a">CENTRAL CLAIM · The therapist's own integration IS the intervention</text>
+  <text x="20" y="40" class="sm">Norcross + Coan + Siegel converging: the relationship is the active ingredient; the therapist's nervous system is the primary instrument</text>
+  <text x="20" y="54" class="ipnb">IPNB anchors: L5 (hand model own head) · L6 (PART + feeling-felt) · L17 (interpersonal integration · WE-state)</text>
+</g>
+
+<!-- Section header for pillars -->
+<text x="440" y="160" text-anchor="middle" font-size="11" font-style="italic" fill="#6a6a6a">==  THE FOUR PRACTICE PILLARS (IPNB-transformed therapy at Insights CC) ==</text>
+
+<!-- PILLAR 1 — PRESENCE -->
+<g transform="translate(30, 178)">
+  <rect width="195" height="380" rx="10" class="card"/>
+  <text x="98" y="26" text-anchor="middle" class="h2">1 · PRESENCE</text>
+  <text x="98" y="42" text-anchor="middle" class="xs" font-style="italic">therapist formation</text>
+
+  <text x="14" y="68" class="h3">YOUR DAILY WORK</text>
+  <text x="14" y="86" class="sm">• Your own 9 domains</text>
+  <text x="14" y="100" class="sm">• Hand-model in own head</text>
+  <text x="14" y="114" class="sm" font-size="9">  during session</text>
+  <text x="14" y="128" class="sm">• Wheel of Awareness</text>
+  <text x="14" y="142" class="sm" font-size="9">  as personal practice</text>
+
+  <text x="14" y="170" class="h3">IPNB DEPLOYED</text>
+  <text x="14" y="186" class="ipnb">L5 — hand model</text>
+  <text x="14" y="198" class="ipnb">L6 — PART · feeling-felt</text>
+  <text x="14" y="210" class="ipnb">L11 — wheel of awareness</text>
+  <text x="14" y="222" class="ipnb">L17 — WE-state · Coan</text>
+
+  <text x="14" y="250" class="h3">CLINICAL MOVES</text>
+  <text x="14" y="266" class="sm">• Track your own arousal</text>
+  <text x="14" y="280" class="sm">• Name your countertransfer</text>
+  <text x="14" y="294" class="sm">• Repair ruptures explicitly</text>
+  <text x="14" y="308" class="sm">• Differentiate, don't merge</text>
+
+  <text x="14" y="336" class="h3">RED FLAG</text>
+  <text x="14" y="352" class="sm" font-style="italic">When you feel "I am</text>
+  <text x="14" y="364" class="sm" font-style="italic">becoming this client" →</text>
+  <text x="14" y="375" class="sm" font-style="italic">consultation, NOT push</text>
+</g>
+
+<!-- PILLAR 2 — FORMULATION -->
+<g transform="translate(235, 178)">
+  <rect width="195" height="380" rx="10" class="card"/>
+  <text x="98" y="26" text-anchor="middle" class="h2">2 · FORMULATION</text>
+  <text x="98" y="42" text-anchor="middle" class="xs" font-style="italic">9 domains as map</text>
+
+  <text x="14" y="68" class="h3">THE QUESTION</text>
+  <text x="14" y="86" class="sm" font-style="italic">"Where is integration</text>
+  <text x="14" y="100" class="sm" font-style="italic">impaired — chaos or</text>
+  <text x="14" y="114" class="sm" font-style="italic">rigidity, and in which</text>
+  <text x="14" y="128" class="sm" font-style="italic">domain?"</text>
+
+  <text x="14" y="156" class="h3">IPNB DEPLOYED</text>
+  <text x="14" y="172" class="ipnb">L4 — mind/energy/info</text>
+  <text x="14" y="184" class="ipnb">L7 — river of integration</text>
+  <text x="14" y="196" class="ipnb">L11–L20 — all 9 domains</text>
+  <text x="14" y="208" class="ipnb">L19 — 5-layer identity</text>
+
+  <text x="14" y="236" class="h3">CASE FORMULATION</text>
+  <text x="14" y="252" class="sm">1. Which domain blocked?</text>
+  <text x="14" y="266" class="sm">2. Chaos or rigidity?</text>
+  <text x="14" y="280" class="sm">3. Upstream attachment</text>
+  <text x="14" y="291" class="sm" font-size="9">   pattern (L9 / L10)?</text>
+  <text x="14" y="305" class="sm">4. Where to enter?</text>
+
+  <text x="14" y="333" class="h3">REPLACES</text>
+  <text x="14" y="349" class="sm">DSM symptom-checklist as</text>
+  <text x="14" y="361" class="sm">organizing frame. DSM still</text>
+  <text x="14" y="373" class="sm">used for codes/insurance.</text>
+</g>
+
+<!-- PILLAR 3 — INTERVENTION -->
+<g transform="translate(440, 178)">
+  <rect width="195" height="380" rx="10" class="card"/>
+  <text x="98" y="26" text-anchor="middle" class="h2">3 · INTERVENTION</text>
+  <text x="98" y="42" text-anchor="middle" class="xs" font-style="italic">domain-specific moves</text>
+
+  <text x="14" y="68" class="h3">DOMAIN → PRACTICE</text>
+  <text x="14" y="86" class="sm"><tspan class="ipnb">L11</tspan> Wheel of Awareness</text>
+  <text x="14" y="100" class="sm"><tspan class="ipnb">L12</tspan> EMDR · somatic ·</text>
+  <text x="14" y="111" class="sm" font-size="9">    name-it-to-tame-it</text>
+  <text x="14" y="125" class="sm"><tspan class="ipnb">L13</tspan> Polyvagal · bottom-up</text>
+  <text x="14" y="139" class="sm"><tspan class="ipnb">L14</tspan> Trauma reconsolidation</text>
+  <text x="14" y="153" class="sm"><tspan class="ipnb">L15</tspan> Narrative retelling</text>
+  <text x="14" y="167" class="sm"><tspan class="ipnb">L16</tspan> IFS-compatible parts</text>
+  <text x="14" y="181" class="sm"><tspan class="ipnb">L17</tspan> Attachment repair ·</text>
+  <text x="14" y="192" class="sm" font-size="9">    couples PART work</text>
+  <text x="14" y="206" class="sm"><tspan class="ipnb">L18</tspan> Mortality · the gap</text>
+  <text x="14" y="220" class="sm"><tspan class="ipnb">L19</tspan> 5-layer identity</text>
+  <text x="14" y="234" class="sm"><tspan class="ipnb">L20</tspan> Six interrogatives ·</text>
+  <text x="14" y="245" class="sm" font-size="9">    long-arc care</text>
+
+  <text x="14" y="273" class="h3">RULE OF THUMB</text>
+  <text x="14" y="289" class="sm" font-style="italic">Enter at the domain the</text>
+  <text x="14" y="301" class="sm" font-style="italic">client can already tolerate.</text>
+  <text x="14" y="313" class="sm" font-style="italic">Not where the wound is</text>
+  <text x="14" y="325" class="sm" font-style="italic">loudest.</text>
+
+  <text x="14" y="353" class="h3">SEQUENCE</text>
+  <text x="14" y="369" class="sm">Bottom-up (L13) → bilateral</text>
+  <text x="14" y="381" class="sm" font-size="9">(L12) → narrative (L15) →</text>
+</g>
+
+<!-- PILLAR 4 — REFERRAL & LANE -->
+<g transform="translate(645, 178)">
+  <rect width="195" height="380" rx="10" class="card"/>
+  <text x="98" y="26" text-anchor="middle" class="h2">4 · REFERRAL &amp; LANE</text>
+  <text x="98" y="42" text-anchor="middle" class="xs" font-style="italic">knowing your role</text>
+
+  <text x="14" y="68" class="h3">REFER TO PASTOR (EPC)</text>
+  <text x="14" y="86" class="sm">• Sanctification questions</text>
+  <text x="14" y="100" class="sm">• Theological clarity</text>
+  <text x="14" y="114" class="sm">• Sacramental life</text>
+  <text x="14" y="128" class="sm">• Church-community life</text>
+
+  <text x="14" y="156" class="h3">REFER TO RECOVERY (SFR)</text>
+  <text x="14" y="172" class="sm">• Addiction · betrayal</text>
+  <text x="14" y="186" class="sm">• Confessional small group</text>
+  <text x="14" y="200" class="sm">• Long-arc community</text>
+
+  <text x="14" y="228" class="h3">REFER TO PSYCHIATRY</text>
+  <text x="14" y="244" class="sm">• Mood/psychosis evaluation</text>
+  <text x="14" y="258" class="sm">• Medication management</text>
+
+  <text x="14" y="286" class="h3">BRING SPOUSE / FAMILY IN</text>
+  <text x="14" y="302" class="sm">• When system is the work</text>
+  <text x="14" y="316" class="sm">• Disclosure (therapist-held)</text>
+
+  <text x="14" y="344" class="h3">DON'T PUSH INTEGRATION</text>
+  <text x="14" y="360" class="sm" font-style="italic">when timing isn't right.</text>
+  <text x="14" y="372" class="sm" font-style="italic">Patience is the practice.</text>
+</g>
+
+<!-- Christian Theological Substrate Band -->
+<g transform="translate(30, 578)">
+  <rect width="820" height="80" rx="8" fill="#f4e8e0" stroke="#d3cec4" stroke-width="1"/>
+  <text x="20" y="22" font-size="13" font-weight="700" fill="#1a1a1a">SUBSTRATE · Christian theological grounding runs through all four pillars</text>
+  <text x="20" y="42" class="sm"><tspan font-weight="700">Trinity</tspan> (original WE · L22) · <tspan font-weight="700">Thompson</tspan> (shame/confessional · L21) · <tspan font-weight="700">Bonhoeffer</tspan> (Day Together/Alone · L22) · <tspan font-weight="700">Smith</tspan> (liturgy forms identity · L22)</text>
+  <text x="20" y="58" class="sm"><tspan font-weight="700">Peterson</tspan> (long-obedience pace · L20/22) · <tspan font-weight="700">Robinson</tspan> (narrative imagination · L15/22) · <tspan font-weight="700">Imago Dei</tspan> = MWe by design (L19/22)</text>
+  <text x="20" y="74" class="ipnb">The therapist's MWe is itself a creaturely echo of the Triune MWe. Practice is participation, not just technique.</text>
+</g>
+
+<!-- Divider before capstone arc -->
+<line x1="30" y1="688" x2="850" y2="688" stroke="#d3cec4" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="440" y="708" text-anchor="middle" font-size="12" font-style="italic" fill="#1a1a1a">==  THE 25-LESSON ARC — the journey behind the capstone  ==</text>
+
+<!-- The arc: 25 dots representing each lesson, organized by module -->
+<!-- Module labels above the arc -->
+<g transform="translate(0, 740)">
+  <text x="115" y="0" text-anchor="middle" class="h3" fill="#c96442">MODULE 1 · Foundations</text>
+  <text x="115" y="14" text-anchor="middle" class="xs">L1–L7 · what is IPNB</text>
+
+  <text x="345" y="0" text-anchor="middle" class="h3" fill="#c96442">MODULE 2 · Attachment</text>
+  <text x="345" y="14" text-anchor="middle" class="xs">L8–L10 · the relational substrate</text>
+
+  <text x="575" y="0" text-anchor="middle" class="h3" fill="#c96442">MODULE 3 · 9 Domains</text>
+  <text x="575" y="14" text-anchor="middle" class="xs">L11–L20 · integration as the work</text>
+
+  <text x="785" y="0" text-anchor="middle" class="h3" fill="#c96442">MODULE 4 · Application</text>
+  <text x="785" y="14" text-anchor="middle" class="xs">L21–L25 · Christian + lived</text>
+</g>
+
+<!-- Curved arc -->
+<path d="M 50 820 Q 440 770 830 820" class="arc"/>
+
+<!-- Lesson dots along the arc — 25 dots evenly spaced -->
+<!-- Module 1 (L1-L7) -->
+<circle cx="50" cy="820" r="5" class="arcdot"/><text x="50" y="843" text-anchor="middle" class="xs">1</text>
+<circle cx="83" cy="816" r="5" class="arcdot"/><text x="83" y="839" text-anchor="middle" class="xs">2</text>
+<circle cx="115" cy="812" r="5" class="arcdot"/><text x="115" y="835" text-anchor="middle" class="xs">3</text>
+<circle cx="148" cy="808" r="5" class="arcdot"/><text x="148" y="831" text-anchor="middle" class="xs">4</text>
+<circle cx="180" cy="805" r="5" class="arcdot"/><text x="180" y="828" text-anchor="middle" class="xs">5</text>
+<circle cx="213" cy="802" r="5" class="arcdot"/><text x="213" y="825" text-anchor="middle" class="xs">6</text>
+<circle cx="246" cy="799" r="5" class="arcdot"/><text x="246" y="822" text-anchor="middle" class="xs">7</text>
+<!-- Module 2 (L8-L10) -->
+<circle cx="280" cy="796" r="5" class="arcdot"/><text x="280" y="819" text-anchor="middle" class="xs">8</text>
+<circle cx="313" cy="794" r="5" class="arcdot"/><text x="313" y="817" text-anchor="middle" class="xs">9</text>
+<circle cx="346" cy="792" r="5" class="arcdot"/><text x="346" y="815" text-anchor="middle" class="xs">10</text>
+<!-- Module 3 (L11-L20) -->
+<circle cx="379" cy="790" r="5" class="arcdot"/><text x="379" y="813" text-anchor="middle" class="xs">11</text>
+<circle cx="413" cy="789" r="5" class="arcdot"/><text x="413" y="812" text-anchor="middle" class="xs">12</text>
+<circle cx="446" cy="788" r="5" class="arcdot"/><text x="446" y="811" text-anchor="middle" class="xs">13</text>
+<circle cx="479" cy="788" r="5" class="arcdot"/><text x="479" y="811" text-anchor="middle" class="xs">14</text>
+<circle cx="513" cy="788" r="5" class="arcdot"/><text x="513" y="811" text-anchor="middle" class="xs">15</text>
+<circle cx="546" cy="789" r="5" class="arcdot"/><text x="546" y="812" text-anchor="middle" class="xs">16</text>
+<circle cx="579" cy="790" r="5" class="arcdot"/><text x="579" y="813" text-anchor="middle" class="xs">17</text>
+<circle cx="613" cy="792" r="5" class="arcdot"/><text x="613" y="815" text-anchor="middle" class="xs">18</text>
+<circle cx="646" cy="794" r="5" class="arcdot"/><text x="646" y="817" text-anchor="middle" class="xs">19</text>
+<circle cx="679" cy="796" r="5" class="arcdot"/><text x="679" y="819" text-anchor="middle" class="xs">20</text>
+<!-- Module 4 (L21-L25) -->
+<circle cx="713" cy="799" r="5" class="arcdot"/><text x="713" y="822" text-anchor="middle" class="xs">21</text>
+<circle cx="746" cy="802" r="5" class="arcdot"/><text x="746" y="825" text-anchor="middle" class="xs">22</text>
+<circle cx="779" cy="806" r="5" class="arcdot"/><text x="779" y="829" text-anchor="middle" class="xs">23</text>
+<circle cx="810" cy="811" r="5" class="arcdot"/><text x="810" y="834" text-anchor="middle" class="xs">24</text>
+<!-- L25 — the terminus, slightly larger and darker -->
+<circle cx="836" cy="817" r="8" class="arcdot-on"/>
+<text x="836" y="843" text-anchor="middle" class="h3">25</text>
+
+<!-- Closing benediction -->
+<g transform="translate(0, 880)">
+  <rect x="30" y="0" width="820" height="80" rx="8" fill="#1a1a1a"/>
+  <text x="440" y="28" text-anchor="middle" class="benediction" fill="#faf9f5">"The therapist you have become IS the work."</text>
+  <text x="440" y="50" text-anchor="middle" font-size="11" fill="#d3cec4">25 lessons · 4 modules · the journey from definition to deployment</text>
+  <text x="440" y="68" text-anchor="middle" font-size="10" font-style="italic" fill="#d3cec4">Presence · Formulation · Intervention · Lane — anchored in Trinity, deployed in the room, sustained for years.</text>
+</g>
+
+</svg>
